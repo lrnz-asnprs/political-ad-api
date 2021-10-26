@@ -31,8 +31,12 @@ class Preprocessor:
         file["spend"] = file["spend"].apply(lambda x: self.json_to_python(x)).apply(lambda x: self.transform_range(x))
         file["impressions"] = file["impressions"].apply(lambda x: self.json_to_python(x)).apply(lambda x: self.transform_range(x))
         # # transform json strings into python objects
-        file["delivery_by_region"] = file["delivery_by_region"].apply(lambda x: self.json_to_python(x) if not pd.isnull(x) else np.nan)
-        file["demographic_distribution"] = file["demographic_distribution"].apply(lambda x: self.json_to_python(x) if not pd.isnull(x) else np.nan)
+
+        ##  Theres an issue with the delivery_by_region and demographic columns
+
+        # file["delivery_by_region"] = file["delivery_by_region"].apply(lambda x: self.json_to_python(x) if not pd.isnull(x) else np.nan)
+        # file["demographic_distribution"] = file["demographic_distribution"].apply(lambda x: self.json_to_python(x) if not pd.isnull(x) else np.nan)
         # datetime
+
         file["ad_creation_time"] = pd.to_datetime(file["ad_creation_time"])
         return file
