@@ -3,12 +3,18 @@ import numpy as np
 import json
 
 from pandas.core.frame import DataFrame
+from pandas.io.clipboards import read_clipboard
 
 class Preprocessor:
 
     # empty constructor
     def __init__(self) -> None:
         pass
+
+    # helper function
+    def read_dataset(self, path_of_file: str): # returns file as python object
+        with open(path_of_file) as json_file:
+            return json.load(json_file)
 
     # helper functions
     def transform_range(self, entry: dict): # This function returns the average of a range (for impressions and spend)
@@ -22,21 +28,15 @@ class Preprocessor:
     def json_to_python(self, dict_string): # Transoforms spend and impressions back to dictionnaries when reading from csv
         # Convert to proper json format
         js_string = dict_string.replace("'", '"')
-        return json.loads(js_string)
+        return json.loads(js_string) # loads json string
 
     # preprocessing functions
-    def transform_csv(self, path: str) -> pd.DataFrame: # transforms csv into usable format
-        file = pd.read_csv(path)
-        # transform spend & impression into ranges
-        file["spend"] = file["spend"].apply(lambda x: self.json_to_python(x)).apply(lambda x: self.transform_range(x))
-        file["impressions"] = file["impressions"].apply(lambda x: self.json_to_python(x)).apply(lambda x: self.transform_range(x))
-        # # transform json strings into python objects
-
-        ##  Theres an issue with the delivery_by_region and demographic columns
-
-        # file["delivery_by_region"] = file["delivery_by_region"].apply(lambda x: self.json_to_python(x) if not pd.isnull(x) else np.nan)
-        # file["demographic_distribution"] = file["demographic_distribution"].apply(lambda x: self.json_to_python(x) if not pd.isnull(x) else np.nan)
-        # datetime
-
+    def file_to_df(self, path: str) -> pd.DataFrame: # transforms json file into usable format
+        
+        file = pd.DataFrame(self.read_dataset(path))
+        # transform spend & impression ranges into average
+        file["spend"] = file["spend"].apply(lambda x: self.transform_range(x))
+        file["impressions"] = file["impressions"].apply(lambda x: self.transform_range(x))
+        # transform into datetime
         file["ad_creation_time"] = pd.to_datetime(file["ad_creation_time"])
         return file
