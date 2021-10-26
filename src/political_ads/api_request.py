@@ -45,9 +45,8 @@ class API_request:
             time.sleep(5)
             print(f"Iteration number {counter} and amount of data: {counter * 500}")
 
-        # when loop has finished, then store result in file
-        final_str = json.dumps(final_response) # store as json string
-        jsonFile = open("..\\data\\generated_dataset.txt", "w") # open file
-        jsonFile.write(final_str) # write to file
+        final_str = json.dumps(final_response) 
+        jsonFile = open("..\\data\\generated_dataset.txt", "w") # filepath and name specified here!
+        jsonFile.write(final_str)
         jsonFile.close()
 
