@@ -27,13 +27,4 @@ merged = congress_members_fb.merge(right=members_names, on="facebook", how="left
 
 merged["identifier"] = merged["identifier"].fillna(0).astype(np.int64)
 
-merged.to_csv("..\\src\\data_sets\\legislators_fb_info.csv", index=False, header=True)
-
-
-
-
-
-
-
-# Save data as csv
-members_names.to_csv("..\\src\\data_sets\\legislators_page_ids.csv", index=False, header=True)
+merged.to_csv("..\\src\\data_sets\\legislators_facebookdata.csv", index=False, header=True)
