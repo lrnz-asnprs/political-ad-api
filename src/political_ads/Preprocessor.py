@@ -17,13 +17,20 @@ class Preprocessor:
             return json.load(json_file)
 
     # helper functions
-    def transform_range(self, entry: dict): # This function returns the average of a range (for impressions and spend)
+    def avg_range(self, entry: dict): # This function returns the average of a range (for impressions and spend)
         lower = entry["lower_bound"]
         if entry.get("upper_bound") == None:
             higher = entry["lower_bound"]
         else:
             higher = entry["upper_bound"]
         return int(int(lower) + int(higher)) / 2
+
+    def upper_bound(self, entry: dict): # This function returns the average of a range (for impressions and spend)
+        if entry.get("upper_bound") == None:
+            higher = entry["lower_bound"]
+        else:
+            higher = entry["upper_bound"]
+        return int(higher)
 
     def json_to_python(self, dict_string): # Transoforms spend and impressions back to dictionnaries when reading from csv
         # Convert to proper json format
@@ -32,11 +39,15 @@ class Preprocessor:
 
     # preprocessing functions
     def file_to_df(self, path: str) -> pd.DataFrame: # transforms json file into usable format
-        
         file = pd.DataFrame(self.read_dataset(path))
+        # create upper and lower boundaries
+        file["spend_lo"] = file["spend"].apply(lambda x: int(x["lower_bound"]))
+        file["spend_hi"] = file["spend"].apply(lambda x: self.upper_bound(x))
+        file["impressions_lo"] = file["impressions"].apply(lambda x: int(x["lower_bound"]))   
+        file["impressions_hi"] = file["impressions"].apply(lambda x: self.upper_bound(x))   
         # transform spend & impression ranges into average
-        file["spend"] = file["spend"].apply(lambda x: self.transform_range(x))
-        file["impressions"] = file["impressions"].apply(lambda x: self.transform_range(x))
+        file["spend"] = file["spend"].apply(lambda x: self.avg_range(x))
+        file["impressions"] = file["impressions"].apply(lambda x: self.avg_range(x))
         # transform into datetime
         file["ad_creation_time"] = pd.to_datetime(file["ad_creation_time"])
         return file
