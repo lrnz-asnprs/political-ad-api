@@ -1,10 +1,10 @@
 # Political ad analysis
 
-Blabla
+Data analysis research project 
 
 ## Description
 
-Blabla
+This project aims to analyze how US politicians talk about climate change on Facebook owned social media advertisements. We are leveraging Facebook's Ad Library, that has been released in May 2018, to answer important questions about social media advertisement strategies in regards to climate change. 
 
 ## Getting Started
 
@@ -12,24 +12,11 @@ Blabla
 
 * Install pip requests
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Currently under construction
 ```
 code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
 ```
 
 ## Authors
@@ -37,4 +24,3 @@ command to run if program contains helper info
 Contributors names and contact info
 
 Laurenz Aisenpreis, Gustav Gyrst
-ex. [@DomPizzie](https://twitter.com/dompizzie)
