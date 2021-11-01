@@ -1,539 +1,539 @@
-first_name,last_name,full_name,type,state,district,party,facebook,page_name,identifier
-Sherrod,Brown,Sherrod Brown,sen,OH,,Democrat,SenatorSherrodBrown,,0
-Maria,Cantwell,Maria Cantwell,sen,WA,,Democrat,senatorcantwell,Senator Maria Cantwell,100044609161538
-Benjamin,Cardin,Benjamin L. Cardin,sen,MD,,Democrat,senatorbencardin,Senator Ben Cardin,100044326544838
-Thomas,Carper,Thomas R. Carper,sen,DE,,Democrat,tomcarper,Senator Tom Carper,100044593172202
-Robert,Casey,"Robert P. Casey, Jr.",sen,PA,,Democrat,SenatorBobCasey,U.S. Senator Bob Casey,100044143479624
-Dianne,Feinstein,Dianne Feinstein,sen,CA,,Democrat,senatorfeinstein,SenatorFeinstein,334887279867783
-Amy,Klobuchar,Amy Klobuchar,sen,MN,,Democrat,amyklobuchar,Amy Klobuchar,100044165272627
-Robert,Menendez,Robert Menendez,sen,NJ,,Democrat,senatormenendez,Senator Bob Menendez,100044150273701
-Bernard,Sanders,Bernard Sanders,sen,VT,,Independent,senatorsanders,U.S. Senator Bernie Sanders,100044564583792
-Debbie,Stabenow,Debbie Stabenow,sen,MI,,Democrat,SenatorStabenow,Senator Debbie Stabenow,100044295016482
-Jon,Tester,Jon Tester,sen,MT,,Democrat,senatortester,Senator Jon Tester,100044314455346
-Sheldon,Whitehouse,Sheldon Whitehouse,sen,RI,,Democrat,SenatorWhitehouse,Senator Sheldon Whitehouse,100044412038231
-John,Barrasso,John Barrasso,sen,WY,,Republican,johnbarrasso,John Barrasso,100044388431065
-Roger,Wicker,Roger F. Wicker,sen,MS,,Republican,wicker,Roger Wicker,6690879844
-Susan,Collins,Susan M. Collins,sen,ME,,Republican,susancollins,U.S. Senator Susan Collins,0
-John,Cornyn,John Cornyn,sen,TX,,Republican,sen.johncornyn,John Cornyn,100044537825073
-Richard,Durbin,Richard J. Durbin,sen,IL,,Democrat,SenatorDurbin,Senator Dick Durbin,100043928209397
-Lindsey,Graham,Lindsey Graham,sen,SC,,Republican,USSenatorLindseyGraham,U.S. Senator Lindsey Graham,257937783228
-James,Inhofe,James M. Inhofe,sen,OK,,Republican,jiminhofe,Senator Jim Inhofe,100044181078674
-Mitch,McConnell,Mitch McConnell,sen,KY,,Republican,mitchmcconnell,Senator Mitch McConnell,123994667639233
-Jeff,Merkley,Jeff Merkley,sen,OR,,Democrat,jeffmerkley,Senator Jeff Merkley,100044540165037
-John,Reed,Jack Reed,sen,RI,,Democrat,SenJackReed,Senator Jack Reed,0
-James,Risch,James E. Risch,sen,ID,,Republican,senatorjimrisch,Senator Jim Risch,500772543609803
-Jeanne,Shaheen,Jeanne Shaheen,sen,NH,,Democrat,SenatorShaheen,Senator Jeanne Shaheen,100044415254490
-Mark,Warner,Mark R. Warner,sen,VA,,Democrat,MarkRWarner,Senator Mark Warner,0
-Kirsten,Gillibrand,Kirsten E. Gillibrand,sen,NY,,Democrat,SenKirstenGillibrand,U.S. Senator Kirsten Gillibrand,100044454368535
-Christopher,Coons,Christopher A. Coons,sen,DE,,Democrat,senatorchriscoons,U.S. Senator Chris Coons,254950754518205
-Joe,Manchin,"Joe Manchin, III",sen,WV,,Democrat,JoeManchinIII,,0
-Robert,Aderholt,Robert B. Aderholt,rep,AL,4.0,Republican,RobertAderholt,,0
-Tammy,Baldwin,Tammy Baldwin,sen,WI,,Democrat,senatortammybaldwin,Senator Tammy Baldwin,100044433726307
-Karen,Bass,Karen Bass,rep,CA,37.0,Democrat,RepKarenBass,Congressmember Karen Bass,100044594076632
-Michael,Bennet,Michael F. Bennet,sen,CO,,Democrat,senbennetco,,0
-Gus,Bilirakis,Gus M. Bilirakis,rep,FL,12.0,Republican,GusBilirakis,Congressman Gus Bilirakis,100044423799906
-Sanford,Bishop,"Sanford D. Bishop, Jr.",rep,GA,2.0,Democrat,sanfordbishop,Congressman Sanford Bishop,100045124418094
-Marsha,Blackburn,Marsha Blackburn,sen,TN,,Republican,marshablackburn,Sen. Marsha Blackburn,100044142653727
-Earl,Blumenauer,Earl Blumenauer,rep,OR,3.0,Democrat,,,0
-Richard,Blumenthal,Richard Blumenthal,sen,CT,,Democrat,SenBlumenthal,,0
-Roy,Blunt,Roy Blunt,sen,MO,,Republican,SenatorBlunt,Senator Roy Blunt,100044579762923
-John,Boozman,John Boozman,sen,AR,,Republican,JohnBoozman,John Boozman,100044412170685
-Kevin,Brady,Kevin Brady,rep,TX,8.0,Republican,kevinbrady,Rep. Kevin Brady,100044337643923
-Mo,Brooks,Mo Brooks,rep,AL,5.0,Republican,RepMoBrooks,,0
-Vern,Buchanan,Vern Buchanan,rep,FL,16.0,Republican,CongressmanBuchanan,,0
-Larry,Bucshon,Larry Bucshon,rep,IN,8.0,Republican,RepLarryBucshon,,0
-Michael,Burgess,Michael C. Burgess,rep,TX,26.0,Republican,michaelcburgess,,0
-Richard,Burr,Richard Burr,sen,NC,,Republican,SenatorRichardBurr,,0
-George,Butterfield,G. K. Butterfield,rep,NC,1.0,Democrat,congressmangkbutterfield,Congressman G. K. Butterfield,100044851851201
-Ken,Calvert,Ken Calvert,rep,CA,42.0,Republican,70063393423,Congressman Ken Calvert,100045027553955
-Shelley,Capito,Shelley Moore Capito,sen,WV,,Republican,senshelley,Senator Shelley Moore Capito,100044442309350
-André,Carson,André Carson,rep,IN,7.0,Democrat,CongressmanAndreCarson,Congressman André Carson,100045029617095
-John,Carter,John R. Carter,rep,TX,31.0,Republican,judgecarter,U.S. Representative John Carter,100044035693797
-Bill,Cassidy,Bill Cassidy,sen,LA,,Republican,,,0
-Kathy,Castor,Kathy Castor,rep,FL,14.0,Democrat,USRepKathyCastor,,0
-Steve,Chabot,Steve Chabot,rep,OH,1.0,Republican,RepSteveChabot,,0
-Judy,Chu,Judy Chu,rep,CA,27.0,Democrat,RepJudyChu,,0
-David,Cicilline,David N. Cicilline,rep,RI,1.0,Democrat,CongressmanDavidCicilline,Congressman David Cicilline,100044261597843
-Yvette,Clarke,Yvette D. Clarke,rep,NY,9.0,Democrat,repyvettedclarke,,0
-Emanuel,Cleaver,Emanuel Cleaver,rep,MO,5.0,Democrat,emanuelcleaverii,,0
-James,Clyburn,James E. Clyburn,rep,SC,6.0,Democrat,jameseclyburn,,0
-Steve,Cohen,Steve Cohen,rep,TN,9.0,Democrat,CongressmanSteveCohen,,0
-Tom,Cole,Tom Cole,rep,OK,4.0,Republican,TomColeOK04,,0
-Gerald,Connolly,Gerald E. Connolly,rep,VA,11.0,Democrat,CongressmanGerryConnolly,Congressman Gerry Connolly,100045108333439
-Jim,Cooper,Jim Cooper,rep,TN,5.0,Democrat,JimCooper,,0
-Jim,Costa,Jim Costa,rep,CA,16.0,Democrat,RepJimCosta,Congressman Jim Costa,100057718496123
-Joe,Courtney,Joe Courtney,rep,CT,2.0,Democrat,joecourtney,Joe Courtney,100045079025366
-Michael,Crapo,Mike Crapo,sen,ID,,Republican,mikecrapo,,0
-Eric,Crawford,"Eric A. ""Rick"" Crawford",rep,AR,1.0,Republican,RepRickCrawford,,0
-Henry,Cuellar,Henry Cuellar,rep,TX,28.0,Democrat,152569121550,,0
-Danny,Davis,Danny K. Davis,rep,IL,7.0,Democrat,CongressmanDKDavis,,0
-Peter,DeFazio,Peter A. DeFazio,rep,OR,4.0,Democrat,RepPeterDeFazio,Peter DeFazio,100044856351141
-Diana,DeGette,Diana DeGette,rep,CO,1.0,Democrat,DianaDeGette,,0
-Rosa,DeLauro,Rosa L. DeLauro,rep,CT,3.0,Democrat,CongresswomanRosaDeLauro,Rosa DeLauro,100044446690856
-Scott,DesJarlais,Scott DesJarlais,rep,TN,4.0,Republican,ScottDesJarlaisTN04,,0
-Theodore,Deutch,Theodore E. Deutch,rep,FL,22.0,Democrat,CongressmanTedDeutch,Congressman Ted Deutch,100044155463550
-Mario,Diaz-Balart,Mario Diaz-Balart,rep,FL,25.0,Republican,mdiazbalart,,0
-Lloyd,Doggett,Lloyd Doggett,rep,TX,35.0,Democrat,lloyddoggett,,0
-Michael,Doyle,Michael F. Doyle,rep,PA,18.0,Democrat,usrepmikedoyle,,0
-Jeff,Duncan,Jeff Duncan,rep,SC,3.0,Republican,RepJeffDuncan,,0
-Anna,Eshoo,Anna G. Eshoo,rep,CA,18.0,Democrat,RepAnnaEshoo,,0
-Charles,Fleischmann,"Charles J. ""Chuck"" Fleischmann",rep,TN,3.0,Republican,repchuck,,0
-Jeff,Fortenberry,Jeff Fortenberry,rep,NE,1.0,Republican,jefffortenberry,,0
-Virginia,Foxx,Virginia Foxx,rep,NC,5.0,Republican,RepVirginiaFoxx,,0
-John,Garamendi,John Garamendi,rep,CA,3.0,Democrat,repgaramendi,,0
-Bob,Gibbs,Bob Gibbs,rep,OH,7.0,Republican,RepBobGibbs,,0
-Louie,Gohmert,Louie Gohmert,rep,TX,1.0,Republican,50375006903,,0
-Paul,Gosar,Paul A. Gosar,rep,AZ,4.0,Republican,repgosar,Rep. Paul Gosar,100044080644052
-Kay,Granger,Kay Granger,rep,TX,12.0,Republican,RepKayGranger,Kay Granger,100044256918117
-Charles,Grassley,Chuck Grassley,sen,IA,,Republican,grassley,,0
-Sam,Graves,Sam Graves,rep,MO,6.0,Republican,118514606128,,0
-Al,Green,Al Green,rep,TX,9.0,Democrat,repalgreen,Rep. Al Green,100044385372786
-H.,Griffith,H. Morgan Griffith,rep,VA,9.0,Republican,RepMorganGriffith,,0
-Raúl,Grijalva,Raúl M. Grijalva,rep,AZ,3.0,Democrat,Rep.Grijalva,Raul M. Grijalva,100044620061397
-Brett,Guthrie,Brett Guthrie,rep,KY,2.0,Republican,CongressmanGuthrie,,0
-Andy,Harris,Andy Harris,rep,MD,1.0,Republican,AndyHarrisMD,,0
-Vicky,Hartzler,Vicky Hartzler,rep,MO,4.0,Republican,Congresswoman.Hartzler,,0
-Martin,Heinrich,Martin Heinrich,sen,NM,,Democrat,MartinHeinrich,Senator Martin Heinrich,100044238679030
-Jaime,Herrera Beutler,Jaime Herrera Beutler,rep,WA,3.0,Republican,herrerabeutler,Jaime Herrera Beutler,100044428599704
-Brian,Higgins,Brian Higgins,rep,NY,26.0,Democrat,RepBrianHiggins,,0
-James,Himes,James A. Himes,rep,CT,4.0,Democrat,CongressmanJimHimes,,0
-Mazie,Hirono,Mazie K. Hirono,sen,HI,,Democrat,senatorhirono,,0
-John,Hoeven,John Hoeven,sen,ND,,Republican,SenatorJohnHoeven,Senator John Hoeven,100044866340344
-Steny,Hoyer,Steny H. Hoyer,rep,MD,5.0,Democrat,WhipHoyer,,0
-Bill,Huizenga,Bill Huizenga,rep,MI,2.0,Republican,RepHuizenga,,0
-Sheila,Jackson Lee,Sheila Jackson Lee,rep,TX,18.0,Democrat,CongresswomanSheilaJacksonLee,Congresswoman Sheila Jackson Lee,100044202950815
-Bill,Johnson,Bill Johnson,rep,OH,6.0,Republican,RepBillJohnson,Bill Johnson,100044241828943
-Eddie,Johnson,Eddie Bernice Johnson,rep,TX,30.0,Democrat,CongresswomanEBJtx30,,0
-Henry,Johnson,"Henry C. ""Hank"" Johnson, Jr.",rep,GA,4.0,Democrat,115356957005,Congressman Hank Johnson,100044497151545
-Ron,Johnson,Ron Johnson,sen,WI,,Republican,senronjohnson,,0
-Jim,Jordan,Jim Jordan,rep,OH,4.0,Republican,repjimjordan,Jim Jordan,100044528765819
-Marcy,Kaptur,Marcy Kaptur,rep,OH,9.0,Democrat,RepresentativeMarcyKaptur,,0
-William,Keating,William R. Keating,rep,MA,9.0,Democrat,Congressman.Keating,,0
-Mike,Kelly,Mike Kelly,rep,PA,16.0,Republican,191056827594903,Representative Mike Kelly,100044579347462
-Ron,Kind,Ron Kind,rep,WI,3.0,Democrat,repronkind,Rep. Ron Kind,100044805845460
-Adam,Kinzinger,Adam Kinzinger,rep,IL,16.0,Republican,RepKinzinger,Rep. Adam Kinzinger,100044305065600
-Doug,Lamborn,Doug Lamborn,rep,CO,5.0,Republican,CongressmanDougLamborn,Congressman Doug Lamborn,100045095824211
-James,Langevin,James R. Langevin,rep,RI,2.0,Democrat,CongressmanJimLangevin,,0
-James,Lankford,James Lankford,sen,OK,,Republican,SenatorLankford,Senator James Lankford,100044432946364
-Rick,Larsen,Rick Larsen,rep,WA,2.0,Democrat,RepRickLarsen,Representative Rick Larsen,100044630520266
-John,Larson,John B. Larson,rep,CT,1.0,Democrat,RepJohnLarson,,0
-Robert,Latta,Robert E. Latta,rep,OH,5.0,Republican,boblatta,,0
-Patrick,Leahy,Patrick J. Leahy,sen,VT,,Democrat,SenatorPatrickLeahy,,0
-Barbara,Lee,Barbara Lee,rep,CA,13.0,Democrat,RepBarbaraLee,,0
-Mike,Lee,Mike Lee,sen,UT,,Republican,senatormikelee,United States Senator Mike Lee,100044151473855
-Zoe,Lofgren,Zoe Lofgren,rep,CA,19.0,Democrat,zoelofgren,,0
-Billy,Long,Billy Long,rep,MO,7.0,Republican,Rep.Billy.Long,,0
-Frank,Lucas,Frank D. Lucas,rep,OK,3.0,Republican,RepFrankLucas,Congressman Frank Lucas,100044780551768
-Blaine,Luetkemeyer,Blaine Luetkemeyer,rep,MO,3.0,Republican,BlaineLuetkemeyer,,0
-Ben,Luján,Ben Ray Luján,sen,NM,,Democrat,,,0
-Stephen,Lynch,Stephen F. Lynch,rep,MA,8.0,Democrat,repstephenlynch,,0
-Carolyn,Maloney,Carolyn B. Maloney,rep,NY,12.0,Democrat,RepCarolynMaloney,Rep. Carolyn B. Maloney,100057727794330
-Edward,Markey,Edward J. Markey,sen,MA,,Democrat,EdJMarkey,,0
-Doris,Matsui,Doris O. Matsui,rep,CA,6.0,Democrat,doris.matsui,,0
-Kevin,McCarthy,Kevin McCarthy,rep,CA,23.0,Republican,CongressmanKevinMcCarthy,,0
-Michael,McCaul,Michael T. McCaul,rep,TX,10.0,Republican,michaeltmccaul,Michael McCaul,100045271561555
-Tom,McClintock,Tom McClintock,rep,CA,4.0,Republican,81125319109,,0
-Betty,McCollum,Betty McCollum,rep,MN,4.0,Democrat,repbettymccollum,Congresswoman Betty McCollum,100045099313469
-James,McGovern,James P. McGovern,rep,MA,2.0,Democrat,RepJimMcGovern,Congressman Jim McGovern,100044176372463
-Patrick,McHenry,Patrick T. McHenry,rep,NC,10.0,Republican,CongressmanMcHenry,Patrick McHenry,100044297570801
-David,McKinley,David B. McKinley,rep,WV,1.0,Republican,RepMcKinley,,0
-Cathy,Rodgers,Cathy McMorris Rodgers,rep,WA,5.0,Republican,mcmorrisrodgers,,0
-Jerry,McNerney,Jerry McNerney,rep,CA,9.0,Democrat,jerrymcnerney,Congressman Jerry McNerney,100058093540766
-Gregory,Meeks,Gregory W. Meeks,rep,NY,5.0,Democrat,gregorymeeksny05,,0
-Gwen,Moore,Gwen Moore,rep,WI,4.0,Democrat,GwenSMoore,,0
-Jerry,Moran,Jerry Moran,sen,KS,,Republican,jerrymoran,,0
-Lisa,Murkowski,Lisa Murkowski,sen,AK,,Republican,SenLisaMurkowski,Lisa Murkowski,100044343943390
-Christopher,Murphy,Christopher Murphy,sen,CT,,Democrat,chrismurphyct,Chris Murphy,100044529455512
-Patty,Murray,Patty Murray,sen,WA,,Democrat,,,0
-Jerrold,Nadler,Jerrold Nadler,rep,NY,10.0,Democrat,CongressmanNadler,,0
-Grace,Napolitano,Grace F. Napolitano,rep,CA,32.0,Democrat,RepGraceNapolitano,,0
-Richard,Neal,Richard E. Neal,rep,MA,1.0,Democrat,reprichardneal,,0
-Eleanor,Norton,Eleanor Holmes Norton,rep,DC,0.0,Democrat,CongresswomanNorton,,0
-Devin,Nunes,Devin Nunes,rep,CA,22.0,Republican,,,0
-Steven,Palazzo,Steven M. Palazzo,rep,MS,4.0,Republican,stevenpalazzo,Congressman Steven Palazzo,100044636820202
-Frank,Pallone,"Frank Pallone, Jr.",rep,NJ,6.0,Democrat,repfrankpallone,Frank Pallone Jr.,100044903760147
-Bill,Pascrell,"Bill Pascrell, Jr.",rep,NJ,9.0,Democrat,pascrell,,0
-Rand,Paul,Rand Paul,sen,KY,,Republican,SenatorRandPaul,Senator Rand Paul,100044348473513
-Nancy,Pelosi,Nancy Pelosi,rep,CA,12.0,Democrat,NancyPelosi,House Speaker Nancy Pelosi,100044484547468
-Ed,Perlmutter,Ed Perlmutter,rep,CO,7.0,Democrat,RepPerlmutter,,0
-Gary,Peters,Gary C. Peters,sen,MI,,Democrat,SenGaryPeters,Senator Gary Peters,100044411500204
-Chellie,Pingree,Chellie Pingree,rep,ME,1.0,Democrat,ChelliePingree,,0
-Robert,Portman,Rob Portman,sen,OH,,Republican,senrobportman,,0
-Bill,Posey,Bill Posey,rep,FL,8.0,Republican,bill.posey15,,0
-David,Price,David E. Price,rep,NC,4.0,Democrat,RepDavidEPrice,,0
-Mike,Quigley,Mike Quigley,rep,IL,5.0,Democrat,repmikequigley,Mike Quigley,100044421279783
-Tom,Reed,Tom Reed,rep,NY,23.0,Republican,RepTomReed,Rep. Tom Reed,100044304540164
-Harold,Rogers,Harold Rogers,rep,KY,5.0,Republican,CongressmanHalRogers,Congressman Hal Rogers,100044814489669
-Mike,Rogers,Mike Rogers,rep,AL,3.0,Republican,CongressmanMikeDRogers,,0
-Lucille,Roybal-Allard,Lucille Roybal-Allard,rep,CA,40.0,Democrat,RepRoybalAllard,Rep. Lucille Roybal-Allard,100045750427666
-Marco,Rubio,Marco Rubio,sen,FL,,Republican,SenatorMarcoRubio,Senator Marco Rubio,100044386058003
-C.,Ruppersberger,C. A. Dutch Ruppersberger,rep,MD,2.0,Democrat,DutchRupp,,0
-Bobby,Rush,Bobby L. Rush,rep,IL,1.0,Democrat,congressmanbobbyrush,Congressman Bobby L. Rush,100046980950439
-Tim,Ryan,Tim Ryan,rep,OH,13.0,Democrat,timryan,,0
-Gregorio,Sablan,Gregorio Kilili Camacho Sablan,rep,MP,0.0,Democrat,153423912663,Gregorio Kilili Camacho Sablan,100047143423918
-John,Sarbanes,John P. Sarbanes,rep,MD,3.0,Democrat,RepSarbanes,Congressman John Sarbanes,100045256262332
-Steve,Scalise,Steve Scalise,rep,LA,1.0,Republican,RepSteveScalise,Congressman Steve Scalise,100044574243354
-Janice,Schakowsky,Janice D. Schakowsky,rep,IL,9.0,Democrat,janschakowsky,Jan Schakowsky,100044410630117
-Adam,Schiff,Adam B. Schiff,rep,CA,28.0,Democrat,RepAdamSchiff,Congressman Adam Schiff,100044453648646
-Kurt,Schrader,Kurt Schrader,rep,OR,5.0,Democrat,repschrader,Congressman Kurt Schrader,100044865212421
-Charles,Schumer,Charles E. Schumer,sen,NY,,Democrat,senschumer,Senator Chuck Schumer,100044238375809
-David,Schweikert,David Schweikert,rep,AZ,6.0,Republican,repdavidschweikert,,0
-Austin,Scott,Austin Scott,rep,GA,8.0,Republican,RepAustinScott,Rep. Austin Scott,100044139954294
-David,Scott,David Scott,rep,GA,13.0,Democrat,113303673339,Congressman David Scott,100047215571162
-Robert,Scott,"Robert C. ""Bobby"" Scott",rep,VA,3.0,Democrat,RepBobbyScott,Congressman Bobby Scott,100045212670157
-Tim,Scott,Tim Scott,sen,SC,,Republican,SenatorTimScott,Tim Scott,100044205380834
-Terri,Sewell,Terri Sewell,rep,AL,7.0,Democrat,RepSewell,Rep. Terri Sewell,100044561645892
-Richard,Shelby,Richard C. Shelby,sen,AL,,Republican,RichardShelby,Senator Richard Shelby,100044773532258
-Brad,Sherman,Brad Sherman,rep,CA,30.0,Democrat,63158229861,Congressman Brad Sherman,100044693033679
-Michael,Simpson,Michael K. Simpson,rep,ID,2.0,Republican,96007744606,,0
-Albio,Sires,Albio Sires,rep,NJ,8.0,Democrat,81058818750,Albio Sires,100045256502221
-Adam,Smith,Adam Smith,rep,WA,9.0,Democrat,RepAdamSmith,Rep. Adam Smith,100044182491773
-Adrian,Smith,Adrian Smith,rep,NE,3.0,Republican,,,0
-Christopher,Smith,Christopher H. Smith,rep,NJ,4.0,Republican,RepChrisSmith,,0
-Jackie,Speier,Jackie Speier,rep,CA,14.0,Democrat,JackieSpeier,Congresswoman Jackie Speier,100044408410371
-Linda,Sánchez,Linda T. Sánchez,rep,CA,38.0,Democrat,CongresswomanLindaSanchez,,0
-Bennie,Thompson,Bennie G. Thompson,rep,MS,2.0,Democrat,CongressmanBennieGThompson,,0
-Mike,Thompson,Mike Thompson,rep,CA,5.0,Democrat,RepMikeThompson,,0
-Glenn,Thompson,Glenn Thompson,rep,PA,15.0,Republican,CongressmanGT,Glenn Thompson,100057630506007
-John,Thune,John Thune,sen,SD,,Republican,,,0
-Paul,Tonko,Paul Tonko,rep,NY,20.0,Democrat,reppaultonko,Paul D. Tonko,100045149076953
-Patrick,Toomey,Patrick J. Toomey,sen,PA,,Republican,senatortoomey,,0
-Michael,Turner,Michael R. Turner,rep,OH,10.0,Republican,RepMikeTurner,Mike Turner,100044190921043
-Fred,Upton,Fred Upton,rep,MI,6.0,Republican,RepFredUpton,Fred Upton,100044373589903
-Chris,Van Hollen,Chris Van Hollen,sen,MD,,Democrat,chrisvanhollen,,0
-Nydia,Velázquez,Nydia M. Velázquez,rep,NY,7.0,Democrat,8037068318,,0
-Tim,Walberg,Tim Walberg,rep,MI,7.0,Republican,RepWalberg,Rep Tim Walberg,100044152703467
-Debbie,Wasserman Schultz,Debbie Wasserman Schultz,rep,FL,23.0,Democrat,RepDWS,Rep. Debbie Wasserman Schultz,100044638800139
-Maxine,Waters,Maxine Waters,rep,CA,43.0,Democrat,MaxineWaters,,0
-Daniel,Webster,Daniel Webster,rep,FL,11.0,Republican,RepWebster,,0
-Peter,Welch,Peter Welch,rep,VT,0.0,Democrat,PeterWelch,,0
-Joe,Wilson,Joe Wilson,rep,SC,2.0,Republican,JoeWilson,,0
-Frederica,Wilson,Frederica S. Wilson,rep,FL,24.0,Democrat,RepWilson,,0
-Robert,Wittman,Robert J. Wittman,rep,VA,1.0,Republican,RepRobWittman,Rep. Rob Wittman,100044426469931
-Steve,Womack,Steve Womack,rep,AR,3.0,Republican,RepSteveWomack,,0
-Ron,Wyden,Ron Wyden,sen,OR,,Democrat,,,0
-John,Yarmuth,John A. Yarmuth,rep,KY,3.0,Democrat,214258646163,Congressman John Yarmuth (KY-3),100044285683368
-Don,Young,Don Young,rep,AK,0.0,Republican,RepDonYoung,Congressman Don Young,100044852987202
-Todd,Young,Todd Young,sen,IN,,Republican,SenatorToddYoung,Senator Todd Young,100044136504228
-Mark,Amodei,Mark E. Amodei,rep,NV,2.0,Republican,MarkAmodeiNV2,,0
-Suzanne,Bonamici,Suzanne Bonamici,rep,OR,1.0,Democrat,congresswomanbonamici,Congresswoman Suzanne Bonamici,100044882989374
-Suzan,DelBene,Suzan K. DelBene,rep,WA,1.0,Democrat,RepDelBene,,0
-Thomas,Massie,Thomas Massie,rep,KY,4.0,Republican,RepThomasMassie,,0
-Donald,Payne,"Donald M. Payne, Jr.",rep,NJ,10.0,Democrat,DonaldPayneJr,Donald M. Payne Jr.,100047258616004
-Brian,Schatz,Brian Schatz,sen,HI,,Democrat,SenBrianSchatz,Senator Brian Schatz,100046859811307
-Bill,Foster,Bill Foster,rep,IL,11.0,Democrat,CongressmanBillFoster,,0
-Dina,Titus,Dina Titus,rep,NV,1.0,Democrat,CongresswomanTitus,,0
-Tom,Cotton,Tom Cotton,sen,AR,,Republican,SenatorTomCotton,Senator Tom Cotton,100044233759125
-Kyrsten,Sinema,Kyrsten Sinema,sen,AZ,,Democrat,CongresswomanSinema,,0
-Doug,LaMalfa,Doug LaMalfa,rep,CA,1.0,Republican,RepLaMalfa,Rep. Doug LaMalfa,100044702941828
-Jared,Huffman,Jared Huffman,rep,CA,2.0,Democrat,RepHuffman,Congressman Jared Huffman,100044422871861
-Ami,Bera,Ami Bera,rep,CA,7.0,Democrat,RepAmiBera,Congressman Ami Bera,100044617980971
-Eric,Swalwell,Eric Swalwell,rep,CA,15.0,Democrat,CongressmanEricSwalwell,,0
-Julia,Brownley,Julia Brownley,rep,CA,26.0,Democrat,RepJuliaBrownley,,0
-Tony,Cárdenas,Tony Cárdenas,rep,CA,29.0,Democrat,repcardenas,,0
-Raul,Ruiz,Raul Ruiz,rep,CA,36.0,Democrat,CongressmanRaulRuizMD,,0
-Mark,Takano,Mark Takano,rep,CA,41.0,Democrat,RepMarkTakano,,0
-Alan,Lowenthal,Alan S. Lowenthal,rep,CA,47.0,Democrat,RepLowenthal,,0
-Juan,Vargas,Juan Vargas,rep,CA,51.0,Democrat,RepJuanVargas,,0
-Scott,Peters,Scott H. Peters,rep,CA,52.0,Democrat,RepScottPeters,Congressman Scott Peters,100045080170090
-Lois,Frankel,Lois Frankel,rep,FL,21.0,Democrat,RepLoisFrankel,Rep. Lois Frankel,100044894083793
-Tammy,Duckworth,Tammy Duckworth,sen,IL,,Democrat,SenDuckworth,,0
-Rodney,Davis,Rodney Davis,rep,IL,13.0,Republican,RepRodneyDavis,Rep. Rodney Davis,100044510976355
-Cheri,Bustos,Cheri Bustos,rep,IL,17.0,Democrat,RepCheri,,0
-Jackie,Walorski,Jackie Walorski,rep,IN,2.0,Republican,RepJackieWalorski,,0
-Garland,Barr,Andy Barr,rep,KY,6.0,Republican,RepAndyBarr,,0
-Elizabeth,Warren,Elizabeth Warren,sen,MA,,Democrat,senatorelizabethwarren,,0
-Angus,King,"Angus S. King, Jr.",sen,ME,,Independent,SenatorAngusSKingJr,,0
-Daniel,Kildee,Daniel T. Kildee,rep,MI,5.0,Democrat,RepDanKildee,,0
-Ann,Wagner,Ann Wagner,rep,MO,2.0,Republican,RepAnnWagner,,0
-Steve,Daines,Steve Daines,sen,MT,,Republican,SteveDainesMT,Senator Steve Daines,100044199231545
-Richard,Hudson,Richard Hudson,rep,NC,8.0,Republican,RepRichHudson,,0
-Kevin,Cramer,Kevin Cramer,sen,ND,,Republican,CongressmanKevinCramer,,0
-Deb,Fischer,Deb Fischer,sen,NE,,Republican,senatordebfischer,,0
-Ann,Kuster,Ann Kuster,rep,NH,2.0,Democrat,CongresswomanAnnieKuster,Congresswoman Annie Kuster,100044720431222
-Grace,Meng,Grace Meng,rep,NY,6.0,Democrat,repgracemeng,Grace Meng,100045073540372
-Hakeem,Jeffries,Hakeem S. Jeffries,rep,NY,8.0,Democrat,RepHakeemJeffries,,0
-Sean,Maloney,Sean Patrick Maloney,rep,NY,18.0,Democrat,RepSeanMaloney,Rep. Sean Patrick Maloney,100044495827065
-Brad,Wenstrup,Brad R. Wenstrup,rep,OH,2.0,Republican,RepBradWenstrup,Brad Wenstrup,100044377778080
-Joyce,Beatty,Joyce Beatty,rep,OH,3.0,Democrat,RepJoyceBeatty,Joyce Beatty,100044311455327
-David,Joyce,David P. Joyce,rep,OH,14.0,Republican,RepDaveJoyce,Rep. Dave Joyce,100044470177938
-Markwayne,Mullin,Markwayne Mullin,rep,OK,2.0,Republican,RepMullin,,0
-Scott,Perry,Scott Perry,rep,PA,10.0,Republican,repscottperry,Rep. Scott Perry,100044323905116
-Matthew,Cartwright,Matt Cartwright,rep,PA,8.0,Democrat,CongressmanMattCartwright,Congressman Matt Cartwright,100044538935055
-Tom,Rice,Tom Rice,rep,SC,7.0,Republican,reptomrice,Congressman Tom Rice,100044313345338
-Ted,Cruz,Ted Cruz,sen,TX,,Republican,SenatorTedCruz,Senator Ted Cruz,100044423499786
-Randy,Weber,"Randy K. Weber, Sr.",rep,TX,14.0,Republican,TXRandy14,Congressman Randy Weber,100044455595316
-Joaquin,Castro,Joaquin Castro,rep,TX,20.0,Democrat,326420614138023,Congressman Joaquin Castro,100044718652227
-Roger,Williams,Roger Williams,rep,TX,25.0,Republican,RepRogerWilliams,,0
-Marc,Veasey,Marc A. Veasey,rep,TX,33.0,Democrat,CongressmanMarcVeasey,Congressman Marc Veasey,100045313320763
-Filemon,Vela,Filemon Vela,rep,TX,34.0,Democrat,USCongressmanFilemonVela,Congressman Filemon Vela,100045125317959
-Chris,Stewart,Chris Stewart,rep,UT,2.0,Republican,RepChrisStewart,Congressman Chris Stewart,100044411440267
-Timothy,Kaine,Tim Kaine,sen,VA,,Democrat,SenatorKaine,,0
-Derek,Kilmer,Derek Kilmer,rep,WA,6.0,Democrat,derek.kilmer,Derek Kilmer,100044393647483
-Mark,Pocan,Mark Pocan,rep,WI,2.0,Democrat,repmarkpocan,,0
-Robin,Kelly,Robin L. Kelly,rep,IL,2.0,Democrat,reprobinkelly,Robin Kelly,100045080140134
-Jason,Smith,Jason Smith,rep,MO,8.0,Republican,repjasonsmith,Congressman Jason Smith,100044576192987
-Cory,Booker,Cory A. Booker,sen,NJ,,Democrat,,,0
-Katherine,Clark,Katherine M. Clark,rep,MA,5.0,Democrat,CongresswomanClark,,0
-Donald,Norcross,Donald Norcross,rep,NJ,1.0,Democrat,DonaldNorcrossNJ,,0
-Alma,Adams,Alma S. Adams,rep,NC,12.0,Democrat,CongresswomanAdams,"Congresswoman Alma S. Adams, PhD",100044794400197
-Gary,Palmer,Gary J. Palmer,rep,AL,6.0,Republican,CongressmanGaryPalmer,Congressman Gary Palmer,100044530758499
-J.,Hill,J. Hill,rep,AR,2.0,Republican,RepFrenchHill,,0
-Bruce,Westerman,Bruce Westerman,rep,AR,4.0,Republican,RepWesterman,Congressman Bruce Westerman,100044627318649
-Ruben,Gallego,Ruben Gallego,rep,AZ,7.0,Democrat,RepRubenGallego,Rep. Ruben Gallego,100044404540330
-Mark,DeSaulnier,Mark DeSaulnier,rep,CA,11.0,Democrat,RepMarkDeSaulnier,Rep. Mark DeSaulnier,100044288956834
-Pete,Aguilar,Pete Aguilar,rep,CA,31.0,Democrat,reppeteaguilar,Rep. Pete Aguilar,100045202234574
-Ted,Lieu,Ted Lieu,rep,CA,33.0,Democrat,RepTedLieu,,0
-Norma,Torres,Norma J. Torres,rep,CA,35.0,Democrat,RepNormaTorres,,0
-Ken,Buck,Ken Buck,rep,CO,4.0,Republican,repkenbuck,,0
-Earl,Carter,"Earl L. ""Buddy"" Carter",rep,GA,1.0,Republican,congressmanbuddycarter,Congressman Buddy Carter,100044233036282
-Jody,Hice,Jody B. Hice,rep,GA,10.0,Republican,CongressmanJodyHice,,0
-Barry,Loudermilk,Barry Loudermilk,rep,GA,11.0,Republican,reploudermilk,Congressman Barry Loudermilk,100045089229539
-Rick,Allen,Rick W. Allen,rep,GA,12.0,Republican,CongressmanRickAllen,Congressman Rick Allen,100044564190648
-Mike,Bost,Mike Bost,rep,IL,12.0,Republican,RepBost,Rep. Mike Bost,100043862242825
-Garret,Graves,Garret Graves,rep,LA,6.0,Republican,CongressmanGarretGraves,,0
-Seth,Moulton,Seth Moulton,rep,MA,6.0,Democrat,CongressmanSethMoulton,,0
-John,Moolenaar,John R. Moolenaar,rep,MI,4.0,Republican,RepMoolenaar,,0
-Debbie,Dingell,Debbie Dingell,rep,MI,12.0,Democrat,RepDebbieDingell,,0
-Brenda,Lawrence,Brenda L. Lawrence,rep,MI,14.0,Democrat,395759603917487,Rep. Brenda Lawrence,100044327024736
-Tom,Emmer,Tom Emmer,rep,MN,6.0,Republican,reptomemmer,Congressman Tom Emmer,100044815463014
-David,Rouzer,David Rouzer,rep,NC,7.0,Republican,RepRouzer,Rep. David Rouzer,100044355702998
-Bonnie,Watson Coleman,Bonnie Watson Coleman,rep,NJ,12.0,Democrat,RepBonnie,,0
-Lee,Zeldin,Lee M. Zeldin,rep,NY,1.0,Republican,RepLeeZeldin,,0
-Kathleen,Rice,Kathleen M. Rice,rep,NY,4.0,Democrat,RepKathleenRice,,0
-Elise,Stefanik,Elise M. Stefanik,rep,NY,21.0,Republican,RepEliseStefanik,Rep. Elise Stefanik,100044381141073
-John,Katko,John Katko,rep,NY,24.0,Republican,RepJohnKatko,Congressman John Katko,100044348443248
-Brendan,Boyle,Brendan F. Boyle,rep,PA,2.0,Democrat,CongressmanBoyle,,0
-Brian,Babin,Brian Babin,rep,TX,36.0,Republican,RepBrianBabin,Rep. Brian Babin,100044375983242
-Donald,Beyer,"Donald S. Beyer, Jr.",rep,VA,8.0,Democrat,RepDonBeyer,Congressman Don Beyer,100044424588071
-Stacey,Plaskett,Stacey E. Plaskett,rep,VI,0.0,Democrat,repstaceyplaskett,Congresswoman Stacey Plaskett,100050806146320
-Dan,Newhouse,Dan Newhouse,rep,WA,4.0,Republican,RepNewhouse,Rep. Dan Newhouse,100044409640227
-Glenn,Grothman,Glenn Grothman,rep,WI,6.0,Republican,RepGrothman,,0
-Alexander,Mooney,Alexander Mooney,rep,WV,2.0,Republican,CongressmanAlexMooney,Congressman Alex Mooney,100044928491860
-Aumua Amata,Radewagen,Aumua Amata Coleman Radewagen,rep,AS,0.0,Republican,aumuaamata,,0
-Dan,Sullivan,Dan Sullivan,sen,AK,,Republican,SenDanSullivan,Senator Dan Sullivan,100044483767390
-Joni,Ernst,Joni Ernst,sen,IA,,Republican,senjoniernst,,0
-Thom,Tillis,Thom Tillis,sen,NC,,Republican,SenatorThomTillis,,0
-Mike,Rounds,Mike Rounds,sen,SD,,Republican,SenatorMikeRounds,U.S. Senator Mike Rounds,100044238915948
-Benjamin,Sasse,Ben Sasse,sen,NE,,Republican,SenatorSasse,,0
-Trent,Kelly,Trent Kelly,rep,MS,1.0,Republican,reptrentkelly,Representative Trent Kelly,100044573081370
-Darin,LaHood,Darin LaHood,rep,IL,18.0,Republican,replahood,Rep. Darin LaHood,100044629050325
-Warren,Davidson,Warren Davidson,rep,OH,8.0,Republican,CongressmanWarrenDavidson,Congressman Warren Davidson,100044783221697
-James,Comer,James Comer,rep,KY,1.0,Republican,congressmancomer,Congressman James Comer,100044648137998
-Dwight,Evans,Dwight Evans,rep,PA,3.0,Democrat,RepDwightEvans,,0
-John,Kennedy,John Kennedy,sen,LA,,Republican,JohnKennedyLouisiana,,0
-Margaret,Hassan,Margaret Wood Hassan,sen,NH,,Democrat,SenatorHassan,,0
-Catherine,Cortez Masto,Catherine Cortez Masto,sen,NV,,Democrat,SenatorCortezMasto,,0
-Bradley,Schneider,Bradley Scott Schneider,rep,IL,10.0,Democrat,CongressmanBradSchneider,Congressman Brad Schneider,100044780869664
-Tom,O’Halleran,Tom O’Halleran,rep,AZ,1.0,Democrat,repohalleran,,0
-Andy,Biggs,Andy Biggs,rep,AZ,5.0,Republican,RepAndyBiggs,Congressman Andy Biggs,100044390320909
-Ro,Khanna,Ro Khanna,rep,CA,17.0,Democrat,RepRoKhanna,Rep. Ro Khanna,100044515176138
-Jimmy,Panetta,Jimmy Panetta,rep,CA,20.0,Democrat,RepJimmyPanetta,,0
-Salud,Carbajal,Salud O. Carbajal,rep,CA,24.0,Democrat,repsaludcarbajal,,0
-Nanette,Barragán,Nanette Diaz Barragán,rep,CA,44.0,Democrat,CongresswomanBarragan,US Rep Nanette Diaz Barragán,100044740083870
-J.,Correa,J. Luis Correa,rep,CA,46.0,Democrat,RepLouCorrea,,0
-Lisa,Blunt Rochester,Lisa Blunt Rochester,rep,DE,0.0,Democrat,Rep.BluntRochester,,0
-Matt,Gaetz,Matt Gaetz,rep,FL,1.0,Republican,CongressmanMattGaetz,Congressman Matt Gaetz,100044404090370
-Neal,Dunn,Neal P. Dunn,rep,FL,2.0,Republican,drnealdunnfl2,,0
-John,Rutherford,John H. Rutherford,rep,FL,4.0,Republican,RepRutherfordFL,Congressman John Rutherford,100044334071227
-Al,Lawson,"Al Lawson, Jr.",rep,FL,5.0,Democrat,RepAlLawsonJr,Rep Al Lawson Jr.,100058062459613
-Stephanie,Murphy,Stephanie N. Murphy,rep,FL,7.0,Democrat,RepStephMurphy,U.S. Congresswoman Stephanie Murphy,100044901450384
-Darren,Soto,Darren Soto,rep,FL,9.0,Democrat,CongressmanDarrenSoto,,0
-Val,Demings,Val Butler Demings,rep,FL,10.0,Democrat,RepresentativeValDemings,,0
-Charlie,Crist,Charlie Crist,rep,FL,13.0,Democrat,RepCharlieCrist,Congressman Charlie Crist,100044456108915
-Brian,Mast,Brian J. Mast,rep,FL,18.0,Republican,repbrianmast,Congressman Brian Mast,100044157383419
-A.,Ferguson,A. Drew Ferguson IV,rep,GA,3.0,Republican,RepDrewFerguson,Congressman Drew Ferguson,100044629290307
-Raja,Krishnamoorthi,Raja Krishnamoorthi,rep,IL,8.0,Democrat,congressmanraja,,0
-Jim,Banks,Jim Banks,rep,IN,3.0,Republican,RepJimBanks,Congressman Jim Banks,100064574777029
-Trey,Hollingsworth,Trey Hollingsworth,rep,IN,9.0,Republican,reptrey,Representative Trey Hollingsworth,100044906118519
-Roger,Marshall,Roger Marshall,sen,KS,,Republican,,,0
-Clay,Higgins,Clay Higgins,rep,LA,3.0,Republican,CongressmanClayHiggins,Congressman Clay Higgins,100044641928314
-Mike,Johnson,Mike Johnson,rep,LA,4.0,Republican,RepMikeJohnson,,0
-Anthony,Brown,Anthony Brown,rep,MD,4.0,Democrat,RepAnthonyBrown,Anthony Brown,100044348361560
-Jamie,Raskin,Jamie Raskin,rep,MD,8.0,Democrat,repraskin,Rep. Jamie Raskin,100044407540585
-Jack,Bergman,Jack Bergman,rep,MI,1.0,Republican,RepJackBergman,Rep. Jack Bergman,100044497386878
-Ted,Budd,Ted Budd,rep,NC,13.0,Republican,RepTedBudd,Congressman Ted Budd,100044245908589
-Don,Bacon,Don Bacon,rep,NE,2.0,Republican,RepDonBacon,Congressman Don Bacon,100057293956777
-Josh,Gottheimer,Josh Gottheimer,rep,NJ,5.0,Democrat,RepJoshG,Rep Josh Gottheimer,100044160383033
-Jacky,Rosen,Jacky Rosen,sen,NV,,Democrat,RepJackyRosen,,0
-Thomas,Suozzi,Thomas R. Suozzi,rep,NY,3.0,Democrat,RepTomSuozzi,,0
-Adriano,Espaillat,Adriano Espaillat,rep,NY,13.0,Democrat,RepEspaillat,,0
-Brian,Fitzpatrick,Brian K. Fitzpatrick,rep,PA,1.0,Republican,repbrianfitzpatrick,,0
-Lloyd,Smucker,Lloyd Smucker,rep,PA,11.0,Republican,RepSmucker,Congressman Lloyd Smucker,100044571873473
-Jenniffer,González-Colón,Jenniffer González-Colón,rep,PR,0.0,Republican,RepJennifferGonzalezColon,,0
-David,Kustoff,David Kustoff,rep,TN,8.0,Republican,RepDavidKustoff,,0
-Vicente,Gonzalez,Vicente Gonzalez,rep,TX,15.0,Democrat,USCongressmanVicenteGonzalez,,0
-Jodey,Arrington,Jodey C. Arrington,rep,TX,19.0,Republican,JodeyArrington,,0
-A.,McEachin,A. Donald McEachin,rep,VA,4.0,Democrat,RepMcEachin,Congressman Donald McEachin,100058013050152
-Pramila,Jayapal,Pramila Jayapal,rep,WA,7.0,Democrat,RepJayapal,,0
-Mike,Gallagher,Mike Gallagher,rep,WI,8.0,Republican,RepMikeGallagher,Rep. Mike Gallagher,100044260609716
-Liz,Cheney,Liz Cheney,rep,WY,0.0,Republican,replizcheney,,0
-Ron,Estes,Ron Estes,rep,KS,4.0,Republican,RepRonEstes,,0
-Ralph,Norman,Ralph Norman,rep,SC,5.0,Republican,RepRalphNorman,,0
-Jimmy,Gomez,Jimmy Gomez,rep,CA,34.0,Democrat,RepJimmyGomez,Rep. Jimmy Gomez,100047019825444
-John,Curtis,John R. Curtis,rep,UT,3.0,Republican,RepJohnCurtis,,0
-Tina,Smith,Tina Smith,sen,MN,,Democrat,USSenTinaSmith,U.S. Senator Tina Smith,100044342803525
-Cindy,Hyde-Smith,Cindy Hyde-Smith,sen,MS,,Republican,,,0
-Conor,Lamb,Conor Lamb,rep,PA,17.0,Democrat,RepConorLamb,Rep. Conor Lamb,100057778552282
-Debbie,Lesko,Debbie Lesko,rep,AZ,8.0,Republican,RepDebbieLesko,,0
-Michael,Cloud,Michael Cloud,rep,TX,27.0,Republican,,,0
-Troy,Balderson,Troy Balderson,rep,OH,12.0,Republican,,,0
-Kevin,Hern,Kevin Hern,rep,OK,1.0,Republican,,,0
-Joseph,Morelle,Joseph D. Morelle,rep,NY,25.0,Democrat,,,0
-Mary,Scanlon,Mary Gay Scanlon,rep,PA,5.0,Democrat,,,0
-Susan,Wild,Susan Wild,rep,PA,7.0,Democrat,,,0
-Ed,Case,Ed Case,rep,HI,1.0,Democrat,,,0
-Steven,Horsford,Steven Horsford,rep,NV,4.0,Democrat,,,0
-Ann,Kirkpatrick,Ann Kirkpatrick,rep,AZ,2.0,Democrat,,,0
-Greg,Stanton,Greg Stanton,rep,AZ,9.0,Democrat,,,0
-Josh,Harder,Josh Harder,rep,CA,10.0,Democrat,,,0
-Katie,Porter,Katie Porter,rep,CA,45.0,Democrat,,,0
-Mike,Levin,Mike Levin,rep,CA,49.0,Democrat,,,0
-Joe,Neguse,Joe Neguse,rep,CO,2.0,Democrat,,,0
-Jason,Crow,Jason Crow,rep,CO,6.0,Democrat,,,0
-Jahana,Hayes,Jahana Hayes,rep,CT,5.0,Democrat,,,0
-Michael,Waltz,Michael Waltz,rep,FL,6.0,Republican,,,0
-W.,Steube,W. Gregory Steube,rep,FL,17.0,Republican,,,0
-Lucy,McBath,Lucy McBath,rep,GA,6.0,Democrat,,,0
-Michael,San Nicolas,Michael F. Q. San Nicolas,rep,GU,0.0,Democrat,CongressmanMichaelF.Q.SanNicolas,Congressman Michael F.Q. San Nicolas - Guam,100057709434580
-Cynthia,Axne,Cynthia Axne,rep,IA,3.0,Democrat,,,0
-Russ,Fulcher,Russ Fulcher,rep,ID,1.0,Republican,,,0
-Jesús,García,"Jesús G. ""Chuy"" García",rep,IL,4.0,Democrat,,,0
-Sean,Casten,Sean Casten,rep,IL,6.0,Democrat,,,0
-Lauren,Underwood,Lauren Underwood,rep,IL,14.0,Democrat,,,0
-James,Baird,James R. Baird,rep,IN,4.0,Republican,,,0
-Greg,Pence,Greg Pence,rep,IN,6.0,Republican,,,0
-Sharice,Davids,Sharice Davids,rep,KS,3.0,Democrat,,,0
-Lori,Trahan,Lori Trahan,rep,MA,3.0,Democrat,,,0
-Ayanna,Pressley,Ayanna Pressley,rep,MA,7.0,Democrat,,,0
-David,Trone,David J. Trone,rep,MD,6.0,Democrat,,,0
-Elissa,Slotkin,Elissa Slotkin,rep,MI,8.0,Democrat,,,0
-Andy,Levin,Andy Levin,rep,MI,9.0,Democrat,,,0
-Haley,Stevens,Haley M. Stevens,rep,MI,11.0,Democrat,,,0
-Rashida,Tlaib,Rashida Tlaib,rep,MI,13.0,Democrat,,,0
-Jim,Hagedorn,Jim Hagedorn,rep,MN,1.0,Republican,,,0
-Angie,Craig,Angie Craig,rep,MN,2.0,Democrat,,,0
-Dean,Phillips,Dean Phillips,rep,MN,3.0,Democrat,,,0
-Ilhan,Omar,Ilhan Omar,rep,MN,5.0,Democrat,,,0
-Pete,Stauber,Pete Stauber,rep,MN,8.0,Republican,,,0
-Michael,Guest,Michael Guest,rep,MS,3.0,Republican,,,0
-Kelly,Armstrong,Kelly Armstrong,rep,ND,0.0,Republican,,,0
-Chris,Pappas,Chris Pappas,rep,NH,1.0,Democrat,,,0
-Jefferson,Van Drew,Jefferson Van Drew,rep,NJ,2.0,Republican,,,0
-Andy,Kim,Andy Kim,rep,NJ,3.0,Democrat,,,0
-Tom,Malinowski,Tom Malinowski,rep,NJ,7.0,Democrat,,,0
-Mikie,Sherrill,Mikie Sherrill,rep,NJ,11.0,Democrat,,,0
-Susie,Lee,Susie Lee,rep,NV,3.0,Democrat,,,0
-Alexandria,Ocasio-Cortez,Alexandria Ocasio-Cortez,rep,NY,14.0,Democrat,,,0
-Antonio,Delgado,Antonio Delgado,rep,NY,19.0,Democrat,,,0
-Anthony,Gonzalez,Anthony Gonzalez,rep,OH,16.0,Republican,,,0
-Madeleine,Dean,Madeleine Dean,rep,PA,4.0,Democrat,,,0
-Chrissy,Houlahan,Chrissy Houlahan,rep,PA,6.0,Democrat,,,0
-Daniel,Meuser,Daniel Meuser,rep,PA,9.0,Republican,,,0
-John,Joyce,John Joyce,rep,PA,13.0,Republican,,,0
-Guy,Reschenthaler,Guy Reschenthaler,rep,PA,14.0,Republican,,,0
-William,Timmons,William R. Timmons IV,rep,SC,4.0,Republican,,,0
-Dusty,Johnson,Dusty Johnson,rep,SD,0.0,Republican,,,0
-Tim,Burchett,Tim Burchett,rep,TN,2.0,Republican,,,0
-John,Rose,John Rose,rep,TN,6.0,Republican,,,0
-Mark,Green,Mark E. Green,rep,TN,7.0,Republican,,,0
-Dan,Crenshaw,Dan Crenshaw,rep,TX,2.0,Republican,,,0
-Van,Taylor,Van Taylor,rep,TX,3.0,Republican,,,0
-Lance,Gooden,Lance Gooden,rep,TX,5.0,Republican,,,0
-Lizzie,Fletcher,Lizzie Fletcher,rep,TX,7.0,Democrat,,,0
-Veronica,Escobar,Veronica Escobar,rep,TX,16.0,Democrat,,,0
-Chip,Roy,Chip Roy,rep,TX,21.0,Republican,,,0
-Sylvia,Garcia,Sylvia R. Garcia,rep,TX,29.0,Democrat,,,0
-Colin,Allred,Colin Z. Allred,rep,TX,32.0,Democrat,,,0
-Elaine,Luria,Elaine G. Luria,rep,VA,2.0,Democrat,,,0
-Ben,Cline,Ben Cline,rep,VA,6.0,Republican,,,0
-Abigail,Spanberger,Abigail Davis Spanberger,rep,VA,7.0,Democrat,,,0
-Jennifer,Wexton,Jennifer Wexton,rep,VA,10.0,Democrat,,,0
-Kim,Schrier,Kim Schrier,rep,WA,8.0,Democrat,,,0
-Bryan,Steil,Bryan Steil,rep,WI,1.0,Republican,,,0
-Carol,Miller,Carol D. Miller,rep,WV,3.0,Republican,,,0
-Rick,Scott,Rick Scott,sen,FL,,Republican,RickScottSenOffice,,0
-Mike,Braun,Mike Braun,sen,IN,,Republican,,,0
-Joshua,Hawley,Josh Hawley,sen,MO,,Republican,,,0
-Mitt,Romney,Mitt Romney,sen,UT,,Republican,,,0
-Jared,Golden,Jared F. Golden,rep,ME,2.0,Democrat,,,0
-Fred,Keller,Fred Keller,rep,PA,12.0,Republican,CongressmanFredKeller,,0
-Dan,Bishop,Dan Bishop,rep,NC,9.0,Republican,repdanbishop,Congressman Dan Bishop,100058212543209
-Gregory,Murphy,Gregory F. Murphy,rep,NC,3.0,Republican,RepGregMurphy,,0
-Kweisi,Mfume,Kweisi Mfume,rep,MD,7.0,Democrat,RepKweisiMfume,,0
-Thomas,Tiffany,Thomas P. Tiffany,rep,WI,7.0,Republican,,,0
-Mike,Garcia,Mike Garcia,rep,CA,25.0,Republican,RepMikeGarcia,,0
-Chris,Jacobs,Chris Jacobs,rep,NY,27.0,Republican,,,0
-Mark,Kelly,Mark Kelly,sen,AZ,,Democrat,SenMarkKelly,Senator Mark Kelly,100046928411353
-Cynthia,Lummis,Cynthia M. Lummis,sen,WY,,Republican,,,0
-Darrell,Issa,Darrell Issa,rep,CA,50.0,Republican,,,0
-Pete,Sessions,Pete Sessions,rep,TX,17.0,Republican,,,0
-David,Valadao,David G. Valadao,rep,CA,21.0,Republican,,,0
-Tommy,Tuberville,Tommy Tuberville,sen,AL,,Republican,,,0
-John,Hickenlooper,John W. Hickenlooper,sen,CO,,Democrat,,,0
-Bill,Hagerty,Bill Hagerty,sen,TN,,Republican,,,0
-Jerry,Carl,Jerry L. Carl,rep,AL,1.0,Republican,,,0
-Barry,Moore,Barry Moore,rep,AL,2.0,Republican,,,0
-Jay,Obernolte,Jay Obernolte,rep,CA,8.0,Republican,,,0
-Young,Kim,Young Kim,rep,CA,39.0,Republican,,,0
-Michelle,Steel,Michelle Steel,rep,CA,48.0,Republican,,,0
-Sara,Jacobs,Sara Jacobs,rep,CA,53.0,Democrat,,,0
-Lauren,Boebert,Lauren Boebert,rep,CO,3.0,Republican,,,0
-Katherine,Cammack,Kat Cammack,rep,FL,3.0,Republican,,,0
-C.,Franklin,C. Scott Franklin,rep,FL,15.0,Republican,,,0
-Byron,Donalds,Byron Donalds,rep,FL,19.0,Republican,,,0
-Carlos,Gimenez,Carlos A. Gimenez,rep,FL,26.0,Republican,,,0
-Maria,Salazar,Maria Elvira Salazar,rep,FL,27.0,Republican,,,0
-Nikema,Williams,Nikema Williams,rep,GA,5.0,Democrat,,,0
-Carolyn,Bourdeaux,Carolyn Bourdeaux,rep,GA,7.0,Democrat,,,0
-Andrew,Clyde,Andrew S. Clyde,rep,GA,9.0,Republican,,,0
-Marjorie,Greene,Marjorie Taylor Greene,rep,GA,14.0,Republican,,,0
-Kaialiʻi,Kahele,Kaiali’i Kahele,rep,HI,2.0,Democrat,,,0
-Ashley,Hinson,Ashley Hinson,rep,IA,1.0,Republican,,,0
-Mariannette,Miller-Meeks,Mariannette Miller-Meeks,rep,IA,2.0,Republican,,,0
-Randy,Feenstra,Randy Feenstra,rep,IA,4.0,Republican,,,0
-Marie,Newman,Marie Newman,rep,IL,3.0,Democrat,,,0
-Mary,Miller,Mary E. Miller,rep,IL,15.0,Republican,,,0
-Frank,Mrvan,Frank J. Mrvan,rep,IN,1.0,Democrat,,,0
-Victoria,Spartz,Victoria Spartz,rep,IN,5.0,Republican,,,0
-Tracey,Mann,Tracey Mann,rep,KS,1.0,Republican,,,0
-Jacob,LaTurner,Jake LaTurner,rep,KS,2.0,Republican,,,0
-Jake,Auchincloss,Jake Auchincloss,rep,MA,4.0,Democrat,,,0
-Peter,Meijer,Peter Meijer,rep,MI,3.0,Republican,,,0
-Lisa,McClain,Lisa C. McClain,rep,MI,10.0,Republican,,,0
-Michelle,Fischbach,Michelle Fischbach,rep,MN,7.0,Republican,,,0
-Cori,Bush,Cori Bush,rep,MO,1.0,Democrat,,,0
-Matthew,Rosendale,Matthew M. Rosendale,rep,MT,0.0,Republican,,,0
-Deborah,Ross,Deborah K. Ross,rep,NC,2.0,Democrat,,,0
-Kathy,Manning,Kathy E. Manning,rep,NC,6.0,Democrat,,,0
-David,Cawthorn,Madison Cawthorn,rep,NC,11.0,Republican,,,0
-Yvette,Herrell,Yvette Herrell,rep,NM,2.0,Republican,,,0
-Teresa,Leger Fernandez,Teresa Leger Fernandez,rep,NM,3.0,Democrat,,,0
-Andrew,Garbarino,Andrew R. Garbarino,rep,NY,2.0,Republican,,,0
-Nicole,Malliotakis,Nicole Malliotakis,rep,NY,11.0,Republican,,,0
-Ritchie,Torres,Ritchie Torres,rep,NY,15.0,Democrat,,,0
-Jamaal,Bowman,Jamaal Bowman,rep,NY,16.0,Democrat,,,0
-Mondaire,Jones,Mondaire Jones,rep,NY,17.0,Democrat,,,0
-Stephanie,Bice,Stephanie I. Bice,rep,OK,5.0,Republican,,,0
-Cliff,Bentz,Cliff Bentz,rep,OR,2.0,Republican,,,0
-Nancy,Mace,Nancy Mace,rep,SC,1.0,Republican,,,0
-Diana,Harshbarger,Diana Harshbarger,rep,TN,1.0,Republican,,,0
-Patrick,Fallon,Pat Fallon,rep,TX,4.0,Republican,,,0
-August,Pfluger,August Pfluger,rep,TX,11.0,Republican,,,0
-Ronny,Jackson,Ronny Jackson,rep,TX,13.0,Republican,,,0
-Troy,Nehls,Troy E. Nehls,rep,TX,22.0,Republican,,,0
-Ernest,Gonzales,Tony Gonzales,rep,TX,23.0,Republican,,,0
-Beth,Van Duyne,Beth Van Duyne,rep,TX,24.0,Republican,,,0
-Blake,Moore,Blake D. Moore,rep,UT,1.0,Republican,,,0
-Clarence,Owens,Burgess Owens,rep,UT,4.0,Republican,,,0
-Robert,Good,Bob Good,rep,VA,5.0,Republican,,,0
-Marilyn,Strickland,Marilyn Strickland,rep,WA,10.0,Democrat,,,0
-Scott,Fitzgerald,Scott Fitzgerald,rep,WI,5.0,Republican,,,0
-Alejandro,Padilla,Alex Padilla,sen,CA,,Democrat,,,0
-Jon,Ossoff,Jon Ossoff,sen,GA,,Democrat,,,0
-Raphael,Warnock,Raphael G. Warnock,sen,GA,,Democrat,,,0
-Claudia,Tenney,Claudia Tenney,rep,NY,22.0,Republican,,,0
-Julia,Letlow,Julia Letlow,rep,LA,5.0,Republican,,,0
-Troy,Carter,Troy A. Carter,rep,LA,2.0,Democrat,,,0
-Melanie,Stansbury,Melanie A. Stansbury,rep,NM,1.0,Democrat,,,0
-Jake,Ellzey,,rep,TX,6.0,Republican,,,0
+first_name,last_name,full_name,type,state,district,party,facebook,page_name,identifier,page_id
+Sherrod,Brown,Sherrod Brown,sen,OH,,Democrat,SenatorSherrodBrown,,0,6266829799
+Maria,Cantwell,Maria Cantwell,sen,WA,,Democrat,senatorcantwell,Senator Maria Cantwell,100044609161538,9351652533
+Benjamin,Cardin,Benjamin L. Cardin,sen,MD,,Democrat,senatorbencardin,Senator Ben Cardin,100044326544838,no match
+Thomas,Carper,Thomas R. Carper,sen,DE,,Democrat,tomcarper,Senator Tom Carper,100044593172202,no match
+Robert,Casey,"Robert P. Casey, Jr.",sen,PA,,Democrat,SenatorBobCasey,U.S. Senator Bob Casey,100044143479624,no match
+Dianne,Feinstein,Dianne Feinstein,sen,CA,,Democrat,senatorfeinstein,SenatorFeinstein,334887279867783,6314129300
+Amy,Klobuchar,Amy Klobuchar,sen,MN,,Democrat,amyklobuchar,Amy Klobuchar,100044165272627,7606381190
+Robert,Menendez,Robert Menendez,sen,NJ,,Democrat,senatormenendez,Senator Bob Menendez,100044150273701,no match
+Bernard,Sanders,Bernard Sanders,sen,VT,,Independent,senatorsanders,U.S. Senator Bernie Sanders,100044564583792,no match
+Debbie,Stabenow,Debbie Stabenow,sen,MI,,Democrat,SenatorStabenow,Senator Debbie Stabenow,100044295016482,8408030527
+Jon,Tester,Jon Tester,sen,MT,,Democrat,senatortester,Senator Jon Tester,100044314455346,6316744206
+Sheldon,Whitehouse,Sheldon Whitehouse,sen,RI,,Democrat,SenatorWhitehouse,Senator Sheldon Whitehouse,100044412038231,10519905140
+John,Barrasso,John Barrasso,sen,WY,,Republican,johnbarrasso,John Barrasso,100044388431065,1099779163410386
+Roger,Wicker,Roger F. Wicker,sen,MS,,Republican,wicker,Roger Wicker,6690879844,no match
+Susan,Collins,Susan M. Collins,sen,ME,,Republican,susancollins,U.S. Senator Susan Collins,0,no match
+John,Cornyn,John Cornyn,sen,TX,,Republican,sen.johncornyn,John Cornyn,100044537825073,355316521236121
+Richard,Durbin,Richard J. Durbin,sen,IL,,Democrat,SenatorDurbin,Senator Dick Durbin,100043928209397,no match
+Lindsey,Graham,Lindsey Graham,sen,SC,,Republican,USSenatorLindseyGraham,U.S. Senator Lindsey Graham,257937783228,165987503528599
+James,Inhofe,James M. Inhofe,sen,OK,,Republican,jiminhofe,Senator Jim Inhofe,100044181078674,no match
+Mitch,McConnell,Mitch McConnell,sen,KY,,Republican,mitchmcconnell,Senator Mitch McConnell,123994667639233,259130650776119
+Jeff,Merkley,Jeff Merkley,sen,OR,,Democrat,jeffmerkley,Senator Jeff Merkley,100044540165037,496696933682736
+John,Reed,Jack Reed,sen,RI,,Democrat,SenJackReed,Senator Jack Reed,0,1411485062416786
+James,Risch,James E. Risch,sen,ID,,Republican,senatorjimrisch,Senator Jim Risch,500772543609803,no match
+Jeanne,Shaheen,Jeanne Shaheen,sen,NH,,Democrat,SenatorShaheen,Senator Jeanne Shaheen,100044415254490,6691963292
+Mark,Warner,Mark R. Warner,sen,VA,,Democrat,MarkRWarner,Senator Mark Warner,0,no match
+Kirsten,Gillibrand,Kirsten E. Gillibrand,sen,NY,,Democrat,SenKirstenGillibrand,U.S. Senator Kirsten Gillibrand,100044454368535,no match
+Christopher,Coons,Christopher A. Coons,sen,DE,,Democrat,senatorchriscoons,U.S. Senator Chris Coons,254950754518205,no match
+Joe,Manchin,"Joe Manchin, III",sen,WV,,Democrat,JoeManchinIII,,0,no match
+Robert,Aderholt,Robert B. Aderholt,rep,AL,4.0,Republican,RobertAderholt,,0,no match
+Tammy,Baldwin,Tammy Baldwin,sen,WI,,Democrat,senatortammybaldwin,Senator Tammy Baldwin,100044433726307,7357041101
+Karen,Bass,Karen Bass,rep,CA,37.0,Democrat,RepKarenBass,Congressmember Karen Bass,100044594076632,47918118982
+Michael,Bennet,Michael F. Bennet,sen,CO,,Democrat,senbennetco,,0,no match
+Gus,Bilirakis,Gus M. Bilirakis,rep,FL,12.0,Republican,GusBilirakis,Congressman Gus Bilirakis,100044423799906,no match
+Sanford,Bishop,"Sanford D. Bishop, Jr.",rep,GA,2.0,Democrat,sanfordbishop,Congressman Sanford Bishop,100045124418094,no match
+Marsha,Blackburn,Marsha Blackburn,sen,TN,,Republican,marshablackburn,Sen. Marsha Blackburn,100044142653727,143089732792
+Earl,Blumenauer,Earl Blumenauer,rep,OR,3.0,Democrat,,,0,9252726787
+Richard,Blumenthal,Richard Blumenthal,sen,CT,,Democrat,SenBlumenthal,,0,233344132673
+Roy,Blunt,Roy Blunt,sen,MO,,Republican,SenatorBlunt,Senator Roy Blunt,100044579762923,6541047167
+John,Boozman,John Boozman,sen,AR,,Republican,JohnBoozman,John Boozman,100044412170685,314808986017
+Kevin,Brady,Kevin Brady,rep,TX,8.0,Republican,kevinbrady,Rep. Kevin Brady,100044337643923,204845412960834
+Mo,Brooks,Mo Brooks,rep,AL,5.0,Republican,RepMoBrooks,,0,105473048278
+Vern,Buchanan,Vern Buchanan,rep,FL,16.0,Republican,CongressmanBuchanan,,0,105464510836
+Larry,Bucshon,Larry Bucshon,rep,IN,8.0,Republican,RepLarryBucshon,,0,151186089494
+Michael,Burgess,Michael C. Burgess,rep,TX,26.0,Republican,michaelcburgess,,0,no match
+Richard,Burr,Richard Burr,sen,NC,,Republican,SenatorRichardBurr,,0,1596102157365797
+George,Butterfield,G. K. Butterfield,rep,NC,1.0,Democrat,congressmangkbutterfield,Congressman G. K. Butterfield,100044851851201,108864587529774
+Ken,Calvert,Ken Calvert,rep,CA,42.0,Republican,70063393423,Congressman Ken Calvert,100045027553955,9157920604
+Shelley,Capito,Shelley Moore Capito,sen,WV,,Republican,senshelley,Senator Shelley Moore Capito,100044442309350,492934580740220
+André,Carson,André Carson,rep,IN,7.0,Democrat,CongressmanAndreCarson,Congressman André Carson,100045029617095,123884330964019
+John,Carter,John R. Carter,rep,TX,31.0,Republican,judgecarter,U.S. Representative John Carter,100044035693797,no match
+Bill,Cassidy,Bill Cassidy,sen,LA,,Republican,,,0,80987211775
+Kathy,Castor,Kathy Castor,rep,FL,14.0,Democrat,USRepKathyCastor,,0,no match
+Steve,Chabot,Steve Chabot,rep,OH,1.0,Republican,RepSteveChabot,,0,105908984600679
+Judy,Chu,Judy Chu,rep,CA,27.0,Democrat,RepJudyChu,,0,41228315130
+David,Cicilline,David N. Cicilline,rep,RI,1.0,Democrat,CongressmanDavidCicilline,Congressman David Cicilline,100044261597843,9514417573
+Yvette,Clarke,Yvette D. Clarke,rep,NY,9.0,Democrat,repyvettedclarke,,0,208375572621634
+Emanuel,Cleaver,Emanuel Cleaver,rep,MO,5.0,Democrat,emanuelcleaverii,,0,7954512692
+James,Clyburn,James E. Clyburn,rep,SC,6.0,Democrat,jameseclyburn,,0,127744320598870
+Steve,Cohen,Steve Cohen,rep,TN,9.0,Democrat,CongressmanSteveCohen,,0,6358769182
+Tom,Cole,Tom Cole,rep,OK,4.0,Republican,TomColeOK04,,0,239866352781313
+Gerald,Connolly,Gerald E. Connolly,rep,VA,11.0,Democrat,CongressmanGerryConnolly,Congressman Gerry Connolly,100045108333439,no match
+Jim,Cooper,Jim Cooper,rep,TN,5.0,Democrat,JimCooper,,0,318714801543186
+Jim,Costa,Jim Costa,rep,CA,16.0,Democrat,RepJimCosta,Congressman Jim Costa,100057718496123,704516012940877
+Joe,Courtney,Joe Courtney,rep,CT,2.0,Democrat,joecourtney,Joe Courtney,100045079025366,6596078916
+Michael,Crapo,Mike Crapo,sen,ID,,Republican,mikecrapo,,0,286049384763373
+Eric,Crawford,"Eric A. ""Rick"" Crawford",rep,AR,1.0,Republican,RepRickCrawford,,0,no match
+Henry,Cuellar,Henry Cuellar,rep,TX,28.0,Democrat,152569121550,,0,248922701788783
+Danny,Davis,Danny K. Davis,rep,IL,7.0,Democrat,CongressmanDKDavis,,0,109673587226930
+Peter,DeFazio,Peter A. DeFazio,rep,OR,4.0,Democrat,RepPeterDeFazio,Peter DeFazio,100044856351141,no match
+Diana,DeGette,Diana DeGette,rep,CO,1.0,Democrat,DianaDeGette,,0,9068720389
+Rosa,DeLauro,Rosa L. DeLauro,rep,CT,3.0,Democrat,CongresswomanRosaDeLauro,Rosa DeLauro,100044446690856,no match
+Scott,DesJarlais,Scott DesJarlais,rep,TN,4.0,Republican,ScottDesJarlaisTN04,,0,no match
+Theodore,Deutch,Theodore E. Deutch,rep,FL,22.0,Democrat,CongressmanTedDeutch,Congressman Ted Deutch,100044155463550,no match
+Mario,Diaz-Balart,Mario Diaz-Balart,rep,FL,25.0,Republican,mdiazbalart,,0,9312415125
+Lloyd,Doggett,Lloyd Doggett,rep,TX,35.0,Democrat,lloyddoggett,,0,6433783047
+Michael,Doyle,Michael F. Doyle,rep,PA,18.0,Democrat,usrepmikedoyle,,0,no match
+Jeff,Duncan,Jeff Duncan,rep,SC,3.0,Republican,RepJeffDuncan,,0,612876695419919
+Anna,Eshoo,Anna G. Eshoo,rep,CA,18.0,Democrat,RepAnnaEshoo,,0,no match
+Charles,Fleischmann,"Charles J. ""Chuck"" Fleischmann",rep,TN,3.0,Republican,repchuck,,0,no match
+Jeff,Fortenberry,Jeff Fortenberry,rep,NE,1.0,Republican,jefffortenberry,,0,102247451379798
+Virginia,Foxx,Virginia Foxx,rep,NC,5.0,Republican,RepVirginiaFoxx,,0,116487955096504
+John,Garamendi,John Garamendi,rep,CA,3.0,Democrat,repgaramendi,,0,182567716746
+Bob,Gibbs,Bob Gibbs,rep,OH,7.0,Republican,RepBobGibbs,,0,191159267565100
+Louie,Gohmert,Louie Gohmert,rep,TX,1.0,Republican,50375006903,,0,no match
+Paul,Gosar,Paul A. Gosar,rep,AZ,4.0,Republican,repgosar,Rep. Paul Gosar,100044080644052,no match
+Kay,Granger,Kay Granger,rep,TX,12.0,Republican,RepKayGranger,Kay Granger,100044256918117,112767930190251
+Charles,Grassley,Chuck Grassley,sen,IA,,Republican,grassley,,0,1626709737546995
+Sam,Graves,Sam Graves,rep,MO,6.0,Republican,118514606128,,0,258648987534331
+Al,Green,Al Green,rep,TX,9.0,Democrat,repalgreen,Rep. Al Green,100044385372786,224027854297805
+H.,Griffith,H. Morgan Griffith,rep,VA,9.0,Republican,RepMorganGriffith,,0,no match
+Raúl,Grijalva,Raúl M. Grijalva,rep,AZ,3.0,Democrat,Rep.Grijalva,Raul M. Grijalva,100044620061397,no match
+Brett,Guthrie,Brett Guthrie,rep,KY,2.0,Republican,CongressmanGuthrie,,0,21836146886
+Andy,Harris,Andy Harris,rep,MD,1.0,Republican,AndyHarrisMD,,0,113771221981233
+Vicky,Hartzler,Vicky Hartzler,rep,MO,4.0,Republican,Congresswoman.Hartzler,,0,113511682005041
+Martin,Heinrich,Martin Heinrich,sen,NM,,Democrat,MartinHeinrich,Senator Martin Heinrich,100044238679030,137363449669160
+Jaime,Herrera Beutler,Jaime Herrera Beutler,rep,WA,3.0,Republican,herrerabeutler,Jaime Herrera Beutler,100044428599704,177551525610164
+Brian,Higgins,Brian Higgins,rep,NY,26.0,Democrat,RepBrianHiggins,,0,15087035334
+James,Himes,James A. Himes,rep,CT,4.0,Democrat,CongressmanJimHimes,,0,no match
+Mazie,Hirono,Mazie K. Hirono,sen,HI,,Democrat,senatorhirono,,0,no match
+John,Hoeven,John Hoeven,sen,ND,,Republican,SenatorJohnHoeven,Senator John Hoeven,100044866340344,no match
+Steny,Hoyer,Steny H. Hoyer,rep,MD,5.0,Democrat,WhipHoyer,,0,no match
+Bill,Huizenga,Bill Huizenga,rep,MI,2.0,Republican,RepHuizenga,,0,129208720460165
+Sheila,Jackson Lee,Sheila Jackson Lee,rep,TX,18.0,Democrat,CongresswomanSheilaJacksonLee,Congresswoman Sheila Jackson Lee,100044202950815,552403241860058
+Bill,Johnson,Bill Johnson,rep,OH,6.0,Republican,RepBillJohnson,Bill Johnson,100044241828943,208149456389
+Eddie,Johnson,Eddie Bernice Johnson,rep,TX,30.0,Democrat,CongresswomanEBJtx30,,0,no match
+Henry,Johnson,"Henry C. ""Hank"" Johnson, Jr.",rep,GA,4.0,Democrat,115356957005,Congressman Hank Johnson,100044497151545,no match
+Ron,Johnson,Ron Johnson,sen,WI,,Republican,senronjohnson,,0,119707748062556
+Jim,Jordan,Jim Jordan,rep,OH,4.0,Republican,repjimjordan,Jim Jordan,100044528765819,7814597100
+Marcy,Kaptur,Marcy Kaptur,rep,OH,9.0,Democrat,RepresentativeMarcyKaptur,,0,173753129419169
+William,Keating,William R. Keating,rep,MA,9.0,Democrat,Congressman.Keating,,0,no match
+Mike,Kelly,Mike Kelly,rep,PA,16.0,Republican,191056827594903,Representative Mike Kelly,100044579347462,331707031806
+Ron,Kind,Ron Kind,rep,WI,3.0,Democrat,repronkind,Rep. Ron Kind,100044805845460,6396394069
+Adam,Kinzinger,Adam Kinzinger,rep,IL,16.0,Republican,RepKinzinger,Rep. Adam Kinzinger,100044305065600,62009756135
+Doug,Lamborn,Doug Lamborn,rep,CO,5.0,Republican,CongressmanDougLamborn,Congressman Doug Lamborn,100045095824211,219926985268795
+James,Langevin,James R. Langevin,rep,RI,2.0,Democrat,CongressmanJimLangevin,,0,no match
+James,Lankford,James Lankford,sen,OK,,Republican,SenatorLankford,Senator James Lankford,100044432946364,151092200743
+Rick,Larsen,Rick Larsen,rep,WA,2.0,Democrat,RepRickLarsen,Representative Rick Larsen,100044630520266,20809300888
+John,Larson,John B. Larson,rep,CT,1.0,Democrat,RepJohnLarson,,0,107556969286867
+Robert,Latta,Robert E. Latta,rep,OH,5.0,Republican,boblatta,,0,no match
+Patrick,Leahy,Patrick J. Leahy,sen,VT,,Democrat,SenatorPatrickLeahy,,0,no match
+Barbara,Lee,Barbara Lee,rep,CA,13.0,Democrat,RepBarbaraLee,,0,176548369099092
+Mike,Lee,Mike Lee,sen,UT,,Republican,senatormikelee,United States Senator Mike Lee,100044151473855,203550842430
+Zoe,Lofgren,Zoe Lofgren,rep,CA,19.0,Democrat,zoelofgren,,0,6540213748
+Billy,Long,Billy Long,rep,MO,7.0,Republican,Rep.Billy.Long,,0,225418785297
+Frank,Lucas,Frank D. Lucas,rep,OK,3.0,Republican,RepFrankLucas,Congressman Frank Lucas,100044780551768,no match
+Blaine,Luetkemeyer,Blaine Luetkemeyer,rep,MO,3.0,Republican,BlaineLuetkemeyer,,0,315324541967534
+Ben,Luján,Ben Ray Luján,sen,NM,,Democrat,,,0,13063797831
+Stephen,Lynch,Stephen F. Lynch,rep,MA,8.0,Democrat,repstephenlynch,,0,544559152234818
+Carolyn,Maloney,Carolyn B. Maloney,rep,NY,12.0,Democrat,RepCarolynMaloney,Rep. Carolyn B. Maloney,100057727794330,7835151610
+Edward,Markey,Edward J. Markey,sen,MA,,Democrat,EdJMarkey,,0,no match
+Doris,Matsui,Doris O. Matsui,rep,CA,6.0,Democrat,doris.matsui,,0,no match
+Kevin,McCarthy,Kevin McCarthy,rep,CA,23.0,Republican,CongressmanKevinMcCarthy,,0,159964696102
+Michael,McCaul,Michael T. McCaul,rep,TX,10.0,Republican,michaeltmccaul,Michael McCaul,100045271561555,no match
+Tom,McClintock,Tom McClintock,rep,CA,4.0,Republican,81125319109,,0,11234736860
+Betty,McCollum,Betty McCollum,rep,MN,4.0,Democrat,repbettymccollum,Congresswoman Betty McCollum,100045099313469,282013615225217
+James,McGovern,James P. McGovern,rep,MA,2.0,Democrat,RepJimMcGovern,Congressman Jim McGovern,100044176372463,no match
+Patrick,McHenry,Patrick T. McHenry,rep,NC,10.0,Republican,CongressmanMcHenry,Patrick McHenry,100044297570801,no match
+David,McKinley,David B. McKinley,rep,WV,1.0,Republican,RepMcKinley,,0,no match
+Cathy,Rodgers,Cathy McMorris Rodgers,rep,WA,5.0,Republican,mcmorrisrodgers,,0,15351475322
+Jerry,McNerney,Jerry McNerney,rep,CA,9.0,Democrat,jerrymcnerney,Congressman Jerry McNerney,100058093540766,6553468980
+Gregory,Meeks,Gregory W. Meeks,rep,NY,5.0,Democrat,gregorymeeksny05,,0,no match
+Gwen,Moore,Gwen Moore,rep,WI,4.0,Democrat,GwenSMoore,,0,146490545545796
+Jerry,Moran,Jerry Moran,sen,KS,,Republican,jerrymoran,,0,no match
+Lisa,Murkowski,Lisa Murkowski,sen,AK,,Republican,SenLisaMurkowski,Lisa Murkowski,100044343943390,no match
+Christopher,Murphy,Christopher Murphy,sen,CT,,Democrat,chrismurphyct,Chris Murphy,100044529455512,474444949963480
+Patty,Murray,Patty Murray,sen,WA,,Democrat,,,0,131182018871
+Jerrold,Nadler,Jerrold Nadler,rep,NY,10.0,Democrat,CongressmanNadler,,0,no match
+Grace,Napolitano,Grace F. Napolitano,rep,CA,32.0,Democrat,RepGraceNapolitano,,0,no match
+Richard,Neal,Richard E. Neal,rep,MA,1.0,Democrat,reprichardneal,,0,no match
+Eleanor,Norton,Eleanor Holmes Norton,rep,DC,0.0,Democrat,CongresswomanNorton,,0,19575976198
+Devin,Nunes,Devin Nunes,rep,CA,22.0,Republican,,,0,834645469890446
+Steven,Palazzo,Steven M. Palazzo,rep,MS,4.0,Republican,stevenpalazzo,Congressman Steven Palazzo,100044636820202,no match
+Frank,Pallone,"Frank Pallone, Jr.",rep,NJ,6.0,Democrat,repfrankpallone,Frank Pallone Jr.,100044903760147,no match
+Bill,Pascrell,"Bill Pascrell, Jr.",rep,NJ,9.0,Democrat,pascrell,,0,303312929155
+Rand,Paul,Rand Paul,sen,KY,,Republican,SenatorRandPaul,Senator Rand Paul,100044348473513,54172246106
+Nancy,Pelosi,Nancy Pelosi,rep,CA,12.0,Democrat,NancyPelosi,House Speaker Nancy Pelosi,100044484547468,1711465445765878
+Ed,Perlmutter,Ed Perlmutter,rep,CO,7.0,Democrat,RepPerlmutter,,0,7801901317
+Gary,Peters,Gary C. Peters,sen,MI,,Democrat,SenGaryPeters,Senator Gary Peters,100044411500204,no match
+Chellie,Pingree,Chellie Pingree,rep,ME,1.0,Democrat,ChelliePingree,,0,7536934917
+Robert,Portman,Rob Portman,sen,OH,,Republican,senrobportman,,0,45243961073
+Bill,Posey,Bill Posey,rep,FL,8.0,Republican,bill.posey15,,0,280117065340803
+David,Price,David E. Price,rep,NC,4.0,Democrat,RepDavidEPrice,,0,no match
+Mike,Quigley,Mike Quigley,rep,IL,5.0,Democrat,repmikequigley,Mike Quigley,100044421279783,122732761250977
+Tom,Reed,Tom Reed,rep,NY,23.0,Republican,RepTomReed,Rep. Tom Reed,100044304540164,153594440504
+Harold,Rogers,Harold Rogers,rep,KY,5.0,Republican,CongressmanHalRogers,Congressman Hal Rogers,100044814489669,no match
+Mike,Rogers,Mike Rogers,rep,AL,3.0,Republican,CongressmanMikeDRogers,,0,6406874733
+Lucille,Roybal-Allard,Lucille Roybal-Allard,rep,CA,40.0,Democrat,RepRoybalAllard,Rep. Lucille Roybal-Allard,100045750427666,1702437206742877
+Marco,Rubio,Marco Rubio,sen,FL,,Republican,SenatorMarcoRubio,Senator Marco Rubio,100044386058003,58736997707
+C.,Ruppersberger,C. A. Dutch Ruppersberger,rep,MD,2.0,Democrat,DutchRupp,,0,no match
+Bobby,Rush,Bobby L. Rush,rep,IL,1.0,Democrat,congressmanbobbyrush,Congressman Bobby L. Rush,100046980950439,no match
+Tim,Ryan,Tim Ryan,rep,OH,13.0,Democrat,timryan,,0,197908256931216
+Gregorio,Sablan,Gregorio Kilili Camacho Sablan,rep,MP,0.0,Democrat,153423912663,Gregorio Kilili Camacho Sablan,100047143423918,153423912663
+John,Sarbanes,John P. Sarbanes,rep,MD,3.0,Democrat,RepSarbanes,Congressman John Sarbanes,100045256262332,no match
+Steve,Scalise,Steve Scalise,rep,LA,1.0,Republican,RepSteveScalise,Congressman Steve Scalise,100044574243354,745304825534862
+Janice,Schakowsky,Janice D. Schakowsky,rep,IL,9.0,Democrat,janschakowsky,Jan Schakowsky,100044410630117,no match
+Adam,Schiff,Adam B. Schiff,rep,CA,28.0,Democrat,RepAdamSchiff,Congressman Adam Schiff,100044453648646,no match
+Kurt,Schrader,Kurt Schrader,rep,OR,5.0,Democrat,repschrader,Congressman Kurt Schrader,100044865212421,17146554445
+Charles,Schumer,Charles E. Schumer,sen,NY,,Democrat,senschumer,Senator Chuck Schumer,100044238375809,no match
+David,Schweikert,David Schweikert,rep,AZ,6.0,Republican,repdavidschweikert,,0,157652584384932
+Austin,Scott,Austin Scott,rep,GA,8.0,Republican,RepAustinScott,Rep. Austin Scott,100044139954294,131177916946914
+David,Scott,David Scott,rep,GA,13.0,Democrat,113303673339,Congressman David Scott,100047215571162,159817223047
+Robert,Scott,"Robert C. ""Bobby"" Scott",rep,VA,3.0,Democrat,RepBobbyScott,Congressman Bobby Scott,100045212670157,no match
+Tim,Scott,Tim Scott,sen,SC,,Republican,SenatorTimScott,Tim Scott,100044205380834,349068689306
+Terri,Sewell,Terri Sewell,rep,AL,7.0,Democrat,RepSewell,Rep. Terri Sewell,100044561645892,429681917483068
+Richard,Shelby,Richard C. Shelby,sen,AL,,Republican,RichardShelby,Senator Richard Shelby,100044773532258,no match
+Brad,Sherman,Brad Sherman,rep,CA,30.0,Democrat,63158229861,Congressman Brad Sherman,100044693033679,63158229861
+Michael,Simpson,Michael K. Simpson,rep,ID,2.0,Republican,96007744606,,0,no match
+Albio,Sires,Albio Sires,rep,NJ,8.0,Democrat,81058818750,Albio Sires,100045256502221,211797415586435
+Adam,Smith,Adam Smith,rep,WA,9.0,Democrat,RepAdamSmith,Rep. Adam Smith,100044182491773,95538659845
+Adrian,Smith,Adrian Smith,rep,NE,3.0,Republican,,,0,5962789983
+Christopher,Smith,Christopher H. Smith,rep,NJ,4.0,Republican,RepChrisSmith,,0,no match
+Jackie,Speier,Jackie Speier,rep,CA,14.0,Democrat,JackieSpeier,Congresswoman Jackie Speier,100044408410371,99332606976
+Linda,Sánchez,Linda T. Sánchez,rep,CA,38.0,Democrat,CongresswomanLindaSanchez,,0,no match
+Bennie,Thompson,Bennie G. Thompson,rep,MS,2.0,Democrat,CongressmanBennieGThompson,,0,no match
+Mike,Thompson,Mike Thompson,rep,CA,5.0,Democrat,RepMikeThompson,,0,112743960260284
+Glenn,Thompson,Glenn Thompson,rep,PA,15.0,Republican,CongressmanGT,Glenn Thompson,100057630506007,243590732373934
+John,Thune,John Thune,sen,SD,,Republican,,,0,63002536261
+Paul,Tonko,Paul Tonko,rep,NY,20.0,Democrat,reppaultonko,Paul D. Tonko,100045149076953,30671144824
+Patrick,Toomey,Patrick J. Toomey,sen,PA,,Republican,senatortoomey,,0,no match
+Michael,Turner,Michael R. Turner,rep,OH,10.0,Republican,RepMikeTurner,Mike Turner,100044190921043,no match
+Fred,Upton,Fred Upton,rep,MI,6.0,Republican,RepFredUpton,Fred Upton,100044373589903,68563629337
+Chris,Van Hollen,Chris Van Hollen,sen,MD,,Democrat,chrisvanhollen,,0,7320486731
+Nydia,Velázquez,Nydia M. Velázquez,rep,NY,7.0,Democrat,8037068318,,0,no match
+Tim,Walberg,Tim Walberg,rep,MI,7.0,Republican,RepWalberg,Rep Tim Walberg,100044152703467,9268326479
+Debbie,Wasserman Schultz,Debbie Wasserman Schultz,rep,FL,23.0,Democrat,RepDWS,Rep. Debbie Wasserman Schultz,100044638800139,6444958138
+Maxine,Waters,Maxine Waters,rep,CA,43.0,Democrat,MaxineWaters,,0,762930140568210
+Daniel,Webster,Daniel Webster,rep,FL,11.0,Republican,RepWebster,,0,188572961157305
+Peter,Welch,Peter Welch,rep,VT,0.0,Democrat,PeterWelch,,0,no match
+Joe,Wilson,Joe Wilson,rep,SC,2.0,Republican,JoeWilson,,0,143654793536
+Frederica,Wilson,Frederica S. Wilson,rep,FL,24.0,Democrat,RepWilson,,0,no match
+Robert,Wittman,Robert J. Wittman,rep,VA,1.0,Republican,RepRobWittman,Rep. Rob Wittman,100044426469931,no match
+Steve,Womack,Steve Womack,rep,AR,3.0,Republican,RepSteveWomack,,0,no match
+Ron,Wyden,Ron Wyden,sen,OR,,Democrat,,,0,54787697857
+John,Yarmuth,John A. Yarmuth,rep,KY,3.0,Democrat,214258646163,Congressman John Yarmuth (KY-3),100044285683368,no match
+Don,Young,Don Young,rep,AK,0.0,Republican,RepDonYoung,Congressman Don Young,100044852987202,1494279480805358
+Todd,Young,Todd Young,sen,IN,,Republican,SenatorToddYoung,Senator Todd Young,100044136504228,405355946226766
+Mark,Amodei,Mark E. Amodei,rep,NV,2.0,Republican,MarkAmodeiNV2,,0,no match
+Suzanne,Bonamici,Suzanne Bonamici,rep,OR,1.0,Democrat,congresswomanbonamici,Congresswoman Suzanne Bonamici,100044882989374,229108053793264
+Suzan,DelBene,Suzan K. DelBene,rep,WA,1.0,Democrat,RepDelBene,,0,no match
+Thomas,Massie,Thomas Massie,rep,KY,4.0,Republican,RepThomasMassie,,0,218721288205051
+Donald,Payne,"Donald M. Payne, Jr.",rep,NJ,10.0,Democrat,DonaldPayneJr,Donald M. Payne Jr.,100047258616004,no match
+Brian,Schatz,Brian Schatz,sen,HI,,Democrat,SenBrianSchatz,Senator Brian Schatz,100046859811307,58080781287
+Bill,Foster,Bill Foster,rep,IL,11.0,Democrat,CongressmanBillFoster,,0,6196923117
+Dina,Titus,Dina Titus,rep,NV,1.0,Democrat,CongresswomanTitus,,0,301842506513595
+Tom,Cotton,Tom Cotton,sen,AR,,Republican,SenatorTomCotton,Senator Tom Cotton,100044233759125,224684514243482
+Kyrsten,Sinema,Kyrsten Sinema,sen,AZ,,Democrat,CongresswomanSinema,,0,52563647525
+Doug,LaMalfa,Doug LaMalfa,rep,CA,1.0,Republican,RepLaMalfa,Rep. Doug LaMalfa,100044702941828,163202650462603
+Jared,Huffman,Jared Huffman,rep,CA,2.0,Democrat,RepHuffman,Congressman Jared Huffman,100044422871861,344330745672593
+Ami,Bera,Ami Bera,rep,CA,7.0,Democrat,RepAmiBera,Congressman Ami Bera,100044617980971,528662157146886
+Eric,Swalwell,Eric Swalwell,rep,CA,15.0,Democrat,CongressmanEricSwalwell,,0,281835005264380
+Julia,Brownley,Julia Brownley,rep,CA,26.0,Democrat,RepJuliaBrownley,,0,276544112416355
+Tony,Cárdenas,Tony Cárdenas,rep,CA,29.0,Democrat,repcardenas,,0,485493954794945
+Raul,Ruiz,Raul Ruiz,rep,CA,36.0,Democrat,CongressmanRaulRuizMD,,0,245244468941114
+Mark,Takano,Mark Takano,rep,CA,41.0,Democrat,RepMarkTakano,,0,159214207491260
+Alan,Lowenthal,Alan S. Lowenthal,rep,CA,47.0,Democrat,RepLowenthal,,0,no match
+Juan,Vargas,Juan Vargas,rep,CA,51.0,Democrat,RepJuanVargas,,0,1005557252958353
+Scott,Peters,Scott H. Peters,rep,CA,52.0,Democrat,RepScottPeters,Congressman Scott Peters,100045080170090,no match
+Lois,Frankel,Lois Frankel,rep,FL,21.0,Democrat,RepLoisFrankel,Rep. Lois Frankel,100044894083793,145862215492466
+Tammy,Duckworth,Tammy Duckworth,sen,IL,,Democrat,SenDuckworth,,0,228132537208218
+Rodney,Davis,Rodney Davis,rep,IL,13.0,Republican,RepRodneyDavis,Rep. Rodney Davis,100044510976355,334748476594191
+Cheri,Bustos,Cheri Bustos,rep,IL,17.0,Democrat,RepCheri,,0,189777861073219
+Jackie,Walorski,Jackie Walorski,rep,IN,2.0,Republican,RepJackieWalorski,,0,282272406201
+Garland,Barr,Andy Barr,rep,KY,6.0,Republican,RepAndyBarr,,0,129203152966
+Elizabeth,Warren,Elizabeth Warren,sen,MA,,Democrat,senatorelizabethwarren,,0,38471053686
+Angus,King,"Angus S. King, Jr.",sen,ME,,Independent,SenatorAngusSKingJr,,0,no match
+Daniel,Kildee,Daniel T. Kildee,rep,MI,5.0,Democrat,RepDanKildee,,0,no match
+Ann,Wagner,Ann Wagner,rep,MO,2.0,Republican,RepAnnWagner,,0,127216280686110
+Steve,Daines,Steve Daines,sen,MT,,Republican,SteveDainesMT,Senator Steve Daines,100044199231545,176789922364429
+Richard,Hudson,Richard Hudson,rep,NC,8.0,Republican,RepRichHudson,,0,106119737934606
+Kevin,Cramer,Kevin Cramer,sen,ND,,Republican,CongressmanKevinCramer,,0,251734676525
+Deb,Fischer,Deb Fischer,sen,NE,,Republican,senatordebfischer,,0,109592402468562
+Ann,Kuster,Ann Kuster,rep,NH,2.0,Democrat,CongresswomanAnnieKuster,Congresswoman Annie Kuster,100044720431222,no match
+Grace,Meng,Grace Meng,rep,NY,6.0,Democrat,repgracemeng,Grace Meng,100045073540372,983573491675080
+Hakeem,Jeffries,Hakeem S. Jeffries,rep,NY,8.0,Democrat,RepHakeemJeffries,,0,no match
+Sean,Maloney,Sean Patrick Maloney,rep,NY,18.0,Democrat,RepSeanMaloney,Rep. Sean Patrick Maloney,100044495827065,346390085432744
+Brad,Wenstrup,Brad R. Wenstrup,rep,OH,2.0,Republican,RepBradWenstrup,Brad Wenstrup,100044377778080,no match
+Joyce,Beatty,Joyce Beatty,rep,OH,3.0,Democrat,RepJoyceBeatty,Joyce Beatty,100044311455327,329286557095658
+David,Joyce,David P. Joyce,rep,OH,14.0,Republican,RepDaveJoyce,Rep. Dave Joyce,100044470177938,no match
+Markwayne,Mullin,Markwayne Mullin,rep,OK,2.0,Republican,RepMullin,,0,150763151677363
+Scott,Perry,Scott Perry,rep,PA,10.0,Republican,repscottperry,Rep. Scott Perry,100044323905116,184104508356643
+Matthew,Cartwright,Matt Cartwright,rep,PA,8.0,Democrat,CongressmanMattCartwright,Congressman Matt Cartwright,100044538935055,350692761610088
+Tom,Rice,Tom Rice,rep,SC,7.0,Republican,reptomrice,Congressman Tom Rice,100044313345338,139766499461199
+Ted,Cruz,Ted Cruz,sen,TX,,Republican,SenatorTedCruz,Senator Ted Cruz,100044423499786,69983322463
+Randy,Weber,"Randy K. Weber, Sr.",rep,TX,14.0,Republican,TXRandy14,Congressman Randy Weber,100044455595316,no match
+Joaquin,Castro,Joaquin Castro,rep,TX,20.0,Democrat,326420614138023,Congressman Joaquin Castro,100044718652227,219673188073606
+Roger,Williams,Roger Williams,rep,TX,25.0,Republican,RepRogerWilliams,,0,45066294038
+Marc,Veasey,Marc A. Veasey,rep,TX,33.0,Democrat,CongressmanMarcVeasey,Congressman Marc Veasey,100045313320763,no match
+Filemon,Vela,Filemon Vela,rep,TX,34.0,Democrat,USCongressmanFilemonVela,Congressman Filemon Vela,100045125317959,392278561514332
+Chris,Stewart,Chris Stewart,rep,UT,2.0,Republican,RepChrisStewart,Congressman Chris Stewart,100044411440267,172764672811067
+Timothy,Kaine,Tim Kaine,sen,VA,,Democrat,SenatorKaine,,0,7656215652
+Derek,Kilmer,Derek Kilmer,rep,WA,6.0,Democrat,derek.kilmer,Derek Kilmer,100044393647483,107199049318619
+Mark,Pocan,Mark Pocan,rep,WI,2.0,Democrat,repmarkpocan,,0,436881033058309
+Robin,Kelly,Robin L. Kelly,rep,IL,2.0,Democrat,reprobinkelly,Robin Kelly,100045080140134,no match
+Jason,Smith,Jason Smith,rep,MO,8.0,Republican,repjasonsmith,Congressman Jason Smith,100044576192987,467804929927622
+Cory,Booker,Cory A. Booker,sen,NJ,,Democrat,,,0,no match
+Katherine,Clark,Katherine M. Clark,rep,MA,5.0,Democrat,CongresswomanClark,,0,no match
+Donald,Norcross,Donald Norcross,rep,NJ,1.0,Democrat,DonaldNorcrossNJ,,0,591968597559569
+Alma,Adams,Alma S. Adams,rep,NC,12.0,Democrat,CongresswomanAdams,"Congresswoman Alma S. Adams, PhD",100044794400197,no match
+Gary,Palmer,Gary J. Palmer,rep,AL,6.0,Republican,CongressmanGaryPalmer,Congressman Gary Palmer,100044530758499,no match
+J.,Hill,J. Hill,rep,AR,2.0,Republican,RepFrenchHill,,0,714442118654551
+Bruce,Westerman,Bruce Westerman,rep,AR,4.0,Republican,RepWesterman,Congressman Bruce Westerman,100044627318649,521924961194913
+Ruben,Gallego,Ruben Gallego,rep,AZ,7.0,Democrat,RepRubenGallego,Rep. Ruben Gallego,100044404540330,161183970656851
+Mark,DeSaulnier,Mark DeSaulnier,rep,CA,11.0,Democrat,RepMarkDeSaulnier,Rep. Mark DeSaulnier,100044288956834,213999292067099
+Pete,Aguilar,Pete Aguilar,rep,CA,31.0,Democrat,reppeteaguilar,Rep. Pete Aguilar,100045202234574,283932788322459
+Ted,Lieu,Ted Lieu,rep,CA,33.0,Democrat,RepTedLieu,,0,167643896656391
+Norma,Torres,Norma J. Torres,rep,CA,35.0,Democrat,RepNormaTorres,,0,no match
+Ken,Buck,Ken Buck,rep,CO,4.0,Republican,repkenbuck,,0,74184744386
+Earl,Carter,"Earl L. ""Buddy"" Carter",rep,GA,1.0,Republican,congressmanbuddycarter,Congressman Buddy Carter,100044233036282,no match
+Jody,Hice,Jody B. Hice,rep,GA,10.0,Republican,CongressmanJodyHice,,0,no match
+Barry,Loudermilk,Barry Loudermilk,rep,GA,11.0,Republican,reploudermilk,Congressman Barry Loudermilk,100045089229539,123276481201934
+Rick,Allen,Rick W. Allen,rep,GA,12.0,Republican,CongressmanRickAllen,Congressman Rick Allen,100044564190648,no match
+Mike,Bost,Mike Bost,rep,IL,12.0,Republican,RepBost,Rep. Mike Bost,100043862242825,505874336155964
+Garret,Graves,Garret Graves,rep,LA,6.0,Republican,CongressmanGarretGraves,,0,662684547112113
+Seth,Moulton,Seth Moulton,rep,MA,6.0,Democrat,CongressmanSethMoulton,,0,269499756522301
+John,Moolenaar,John R. Moolenaar,rep,MI,4.0,Republican,RepMoolenaar,,0,no match
+Debbie,Dingell,Debbie Dingell,rep,MI,12.0,Democrat,RepDebbieDingell,,0,294879797332635
+Brenda,Lawrence,Brenda L. Lawrence,rep,MI,14.0,Democrat,395759603917487,Rep. Brenda Lawrence,100044327024736,no match
+Tom,Emmer,Tom Emmer,rep,MN,6.0,Republican,reptomemmer,Congressman Tom Emmer,100044815463014,163101747070769
+David,Rouzer,David Rouzer,rep,NC,7.0,Republican,RepRouzer,Rep. David Rouzer,100044355702998,119622908096040
+Bonnie,Watson Coleman,Bonnie Watson Coleman,rep,NJ,12.0,Democrat,RepBonnie,,0,222190161304871
+Lee,Zeldin,Lee M. Zeldin,rep,NY,1.0,Republican,RepLeeZeldin,,0,no match
+Kathleen,Rice,Kathleen M. Rice,rep,NY,4.0,Democrat,RepKathleenRice,,0,no match
+Elise,Stefanik,Elise M. Stefanik,rep,NY,21.0,Republican,RepEliseStefanik,Rep. Elise Stefanik,100044381141073,no match
+John,Katko,John Katko,rep,NY,24.0,Republican,RepJohnKatko,Congressman John Katko,100044348443248,484300471681895
+Brendan,Boyle,Brendan F. Boyle,rep,PA,2.0,Democrat,CongressmanBoyle,,0,no match
+Brian,Babin,Brian Babin,rep,TX,36.0,Republican,RepBrianBabin,Rep. Brian Babin,100044375983242,683901068308643
+Donald,Beyer,"Donald S. Beyer, Jr.",rep,VA,8.0,Democrat,RepDonBeyer,Congressman Don Beyer,100044424588071,no match
+Stacey,Plaskett,Stacey E. Plaskett,rep,VI,0.0,Democrat,repstaceyplaskett,Congresswoman Stacey Plaskett,100050806146320,no match
+Dan,Newhouse,Dan Newhouse,rep,WA,4.0,Republican,RepNewhouse,Rep. Dan Newhouse,100044409640227,309501559175104
+Glenn,Grothman,Glenn Grothman,rep,WI,6.0,Republican,RepGrothman,,0,773301386014306
+Alexander,Mooney,Alexander Mooney,rep,WV,2.0,Republican,CongressmanAlexMooney,Congressman Alex Mooney,100044928491860,no match
+Aumua Amata,Radewagen,Aumua Amata Coleman Radewagen,rep,AS,0.0,Republican,aumuaamata,,0,no match
+Dan,Sullivan,Dan Sullivan,sen,AK,,Republican,SenDanSullivan,Senator Dan Sullivan,100044483767390,698400060189827
+Joni,Ernst,Joni Ernst,sen,IA,,Republican,senjoniernst,,0,586751814690068
+Thom,Tillis,Thom Tillis,sen,NC,,Republican,SenatorThomTillis,,0,104987704684453
+Mike,Rounds,Mike Rounds,sen,SD,,Republican,SenatorMikeRounds,U.S. Senator Mike Rounds,100044238915948,370185306396534
+Benjamin,Sasse,Ben Sasse,sen,NE,,Republican,SenatorSasse,,0,207425149422656
+Trent,Kelly,Trent Kelly,rep,MS,1.0,Republican,reptrentkelly,Representative Trent Kelly,100044573081370,855135964527710
+Darin,LaHood,Darin LaHood,rep,IL,18.0,Republican,replahood,Rep. Darin LaHood,100044629050325,1404888666493762
+Warren,Davidson,Warren Davidson,rep,OH,8.0,Republican,CongressmanWarrenDavidson,Congressman Warren Davidson,100044783221697,1671503326464563
+James,Comer,James Comer,rep,KY,1.0,Republican,congressmancomer,Congressman James Comer,100044648137998,1888216188065538
+Dwight,Evans,Dwight Evans,rep,PA,3.0,Democrat,RepDwightEvans,,0,895094683900337
+John,Kennedy,John Kennedy,sen,LA,,Republican,JohnKennedyLouisiana,,0,491347857894708
+Margaret,Hassan,Margaret Wood Hassan,sen,NH,,Democrat,SenatorHassan,,0,no match
+Catherine,Cortez Masto,Catherine Cortez Masto,sen,NV,,Democrat,SenatorCortezMasto,,0,933921763326425
+Bradley,Schneider,Bradley Scott Schneider,rep,IL,10.0,Democrat,CongressmanBradSchneider,Congressman Brad Schneider,100044780869664,no match
+Tom,O’Halleran,Tom O’Halleran,rep,AZ,1.0,Democrat,repohalleran,,0,no match
+Andy,Biggs,Andy Biggs,rep,AZ,5.0,Republican,RepAndyBiggs,Congressman Andy Biggs,100044390320909,183963015310306
+Ro,Khanna,Ro Khanna,rep,CA,17.0,Democrat,RepRoKhanna,Rep. Ro Khanna,100044515176138,317667194946264
+Jimmy,Panetta,Jimmy Panetta,rep,CA,20.0,Democrat,RepJimmyPanetta,,0,1667702233477156
+Salud,Carbajal,Salud O. Carbajal,rep,CA,24.0,Democrat,repsaludcarbajal,,0,no match
+Nanette,Barragán,Nanette Diaz Barragán,rep,CA,44.0,Democrat,CongresswomanBarragan,US Rep Nanette Diaz Barragán,100044740083870,965181706946254
+J.,Correa,J. Luis Correa,rep,CA,46.0,Democrat,RepLouCorrea,,0,no match
+Lisa,Blunt Rochester,Lisa Blunt Rochester,rep,DE,0.0,Democrat,Rep.BluntRochester,,0,1624206881186861
+Matt,Gaetz,Matt Gaetz,rep,FL,1.0,Republican,CongressmanMattGaetz,Congressman Matt Gaetz,100044404090370,406456986070332
+Neal,Dunn,Neal P. Dunn,rep,FL,2.0,Republican,drnealdunnfl2,,0,no match
+John,Rutherford,John H. Rutherford,rep,FL,4.0,Republican,RepRutherfordFL,Congressman John Rutherford,100044334071227,no match
+Al,Lawson,"Al Lawson, Jr.",rep,FL,5.0,Democrat,RepAlLawsonJr,Rep Al Lawson Jr.,100058062459613,no match
+Stephanie,Murphy,Stephanie N. Murphy,rep,FL,7.0,Democrat,RepStephMurphy,U.S. Congresswoman Stephanie Murphy,100044901450384,no match
+Darren,Soto,Darren Soto,rep,FL,9.0,Democrat,CongressmanDarrenSoto,,0,1798692620212857
+Val,Demings,Val Butler Demings,rep,FL,10.0,Democrat,RepresentativeValDemings,,0,no match
+Charlie,Crist,Charlie Crist,rep,FL,13.0,Democrat,RepCharlieCrist,Congressman Charlie Crist,100044456108915,147447783311
+Brian,Mast,Brian J. Mast,rep,FL,18.0,Republican,repbrianmast,Congressman Brian Mast,100044157383419,no match
+A.,Ferguson,A. Drew Ferguson IV,rep,GA,3.0,Republican,RepDrewFerguson,Congressman Drew Ferguson,100044629290307,no match
+Raja,Krishnamoorthi,Raja Krishnamoorthi,rep,IL,8.0,Democrat,congressmanraja,,0,1844412109137727
+Jim,Banks,Jim Banks,rep,IN,3.0,Republican,RepJimBanks,Congressman Jim Banks,100064574777029,119953292796
+Trey,Hollingsworth,Trey Hollingsworth,rep,IN,9.0,Republican,reptrey,Representative Trey Hollingsworth,100044906118519,178051136001622
+Roger,Marshall,Roger Marshall,sen,KS,,Republican,,,0,111324359048459
+Clay,Higgins,Clay Higgins,rep,LA,3.0,Republican,CongressmanClayHiggins,Congressman Clay Higgins,100044641928314,581436541959362
+Mike,Johnson,Mike Johnson,rep,LA,4.0,Republican,RepMikeJohnson,,0,449202631932231
+Anthony,Brown,Anthony Brown,rep,MD,4.0,Democrat,RepAnthonyBrown,Anthony Brown,100044348361560,1351415261592848
+Jamie,Raskin,Jamie Raskin,rep,MD,8.0,Democrat,repraskin,Rep. Jamie Raskin,100044407540585,297987334762
+Jack,Bergman,Jack Bergman,rep,MI,1.0,Republican,RepJackBergman,Rep. Jack Bergman,100044497386878,1714470218843866
+Ted,Budd,Ted Budd,rep,NC,13.0,Republican,RepTedBudd,Congressman Ted Budd,100044245908589,1585291608451100
+Don,Bacon,Don Bacon,rep,NE,2.0,Republican,RepDonBacon,Congressman Don Bacon,100057293956777,101487585033774
+Josh,Gottheimer,Josh Gottheimer,rep,NJ,5.0,Democrat,RepJoshG,Rep Josh Gottheimer,100044160383033,1024984580892392
+Jacky,Rosen,Jacky Rosen,sen,NV,,Democrat,RepJackyRosen,,0,462669013928631
+Thomas,Suozzi,Thomas R. Suozzi,rep,NY,3.0,Democrat,RepTomSuozzi,,0,no match
+Adriano,Espaillat,Adriano Espaillat,rep,NY,13.0,Democrat,RepEspaillat,,0,1808068199405179
+Brian,Fitzpatrick,Brian K. Fitzpatrick,rep,PA,1.0,Republican,repbrianfitzpatrick,,0,no match
+Lloyd,Smucker,Lloyd Smucker,rep,PA,11.0,Republican,RepSmucker,Congressman Lloyd Smucker,100044571873473,1626954784219531
+Jenniffer,González-Colón,Jenniffer González-Colón,rep,PR,0.0,Republican,RepJennifferGonzalezColon,,0,no match
+David,Kustoff,David Kustoff,rep,TN,8.0,Republican,RepDavidKustoff,,0,1059320777468378
+Vicente,Gonzalez,Vicente Gonzalez,rep,TX,15.0,Democrat,USCongressmanVicenteGonzalez,,0,206690159663661
+Jodey,Arrington,Jodey C. Arrington,rep,TX,19.0,Republican,JodeyArrington,,0,no match
+A.,McEachin,A. Donald McEachin,rep,VA,4.0,Democrat,RepMcEachin,Congressman Donald McEachin,100058013050152,299511650083944
+Pramila,Jayapal,Pramila Jayapal,rep,WA,7.0,Democrat,RepJayapal,,0,221401431386940
+Mike,Gallagher,Mike Gallagher,rep,WI,8.0,Republican,RepMikeGallagher,Rep. Mike Gallagher,100044260609716,533125513515803
+Liz,Cheney,Liz Cheney,rep,WY,0.0,Republican,replizcheney,,0,548407915183371
+Ron,Estes,Ron Estes,rep,KS,4.0,Republican,RepRonEstes,,0,1684674575133005
+Ralph,Norman,Ralph Norman,rep,SC,5.0,Republican,RepRalphNorman,,0,315402818913523
+Jimmy,Gomez,Jimmy Gomez,rep,CA,34.0,Democrat,RepJimmyGomez,Rep. Jimmy Gomez,100047019825444,154054825137425
+John,Curtis,John R. Curtis,rep,UT,3.0,Republican,RepJohnCurtis,,0,no match
+Tina,Smith,Tina Smith,sen,MN,,Democrat,USSenTinaSmith,U.S. Senator Tina Smith,100044342803525,2040270322863853
+Cindy,Hyde-Smith,Cindy Hyde-Smith,sen,MS,,Republican,,,0,179042532903649
+Conor,Lamb,Conor Lamb,rep,PA,17.0,Democrat,RepConorLamb,Rep. Conor Lamb,100057778552282,135002490472474
+Debbie,Lesko,Debbie Lesko,rep,AZ,8.0,Republican,RepDebbieLesko,,0,590393634664831
+Michael,Cloud,Michael Cloud,rep,TX,27.0,Republican,,,0,228056857335
+Troy,Balderson,Troy Balderson,rep,OH,12.0,Republican,,,0,522923054735947
+Kevin,Hern,Kevin Hern,rep,OK,1.0,Republican,,,0,339509270166412
+Joseph,Morelle,Joseph D. Morelle,rep,NY,25.0,Democrat,,,0,no match
+Mary,Scanlon,Mary Gay Scanlon,rep,PA,5.0,Democrat,,,0,406348549806000
+Susan,Wild,Susan Wild,rep,PA,7.0,Democrat,,,0,497741237272262
+Ed,Case,Ed Case,rep,HI,1.0,Democrat,,,0,385494895552183
+Steven,Horsford,Steven Horsford,rep,NV,4.0,Democrat,,,0,156919911022572
+Ann,Kirkpatrick,Ann Kirkpatrick,rep,AZ,2.0,Democrat,,,0,137746666253194
+Greg,Stanton,Greg Stanton,rep,AZ,9.0,Democrat,,,0,346635392021104
+Josh,Harder,Josh Harder,rep,CA,10.0,Democrat,,,0,1400772006635782
+Katie,Porter,Katie Porter,rep,CA,45.0,Democrat,,,0,428821014132730
+Mike,Levin,Mike Levin,rep,CA,49.0,Democrat,,,0,388316574835659
+Joe,Neguse,Joe Neguse,rep,CO,2.0,Democrat,,,0,180252152142614
+Jason,Crow,Jason Crow,rep,CO,6.0,Democrat,,,0,280704452367167
+Jahana,Hayes,Jahana Hayes,rep,CT,5.0,Democrat,,,0,241247646424302
+Michael,Waltz,Michael Waltz,rep,FL,6.0,Republican,,,0,252274592332946
+W.,Steube,W. Gregory Steube,rep,FL,17.0,Republican,,,0,no match
+Lucy,McBath,Lucy McBath,rep,GA,6.0,Democrat,,,0,2046092952294722
+Michael,San Nicolas,Michael F. Q. San Nicolas,rep,GU,0.0,Democrat,CongressmanMichaelF.Q.SanNicolas,Congressman Michael F.Q. San Nicolas - Guam,100057709434580,no match
+Cynthia,Axne,Cynthia Axne,rep,IA,3.0,Democrat,,,0,no match
+Russ,Fulcher,Russ Fulcher,rep,ID,1.0,Republican,,,0,322194751726887
+Jesús,García,"Jesús G. ""Chuy"" García",rep,IL,4.0,Democrat,,,0,no match
+Sean,Casten,Sean Casten,rep,IL,6.0,Democrat,,,0,1934158976830122
+Lauren,Underwood,Lauren Underwood,rep,IL,14.0,Democrat,,,0,241672016328637
+James,Baird,James R. Baird,rep,IN,4.0,Republican,,,0,no match
+Greg,Pence,Greg Pence,rep,IN,6.0,Republican,,,0,868348663497441
+Sharice,Davids,Sharice Davids,rep,KS,3.0,Democrat,,,0,1790258774419239
+Lori,Trahan,Lori Trahan,rep,MA,3.0,Democrat,,,0,598408017216304
+Ayanna,Pressley,Ayanna Pressley,rep,MA,7.0,Democrat,,,0,79820371749
+David,Trone,David J. Trone,rep,MD,6.0,Democrat,,,0,no match
+Elissa,Slotkin,Elissa Slotkin,rep,MI,8.0,Democrat,,,0,1012679305536045
+Andy,Levin,Andy Levin,rep,MI,9.0,Democrat,,,0,253507715172780
+Haley,Stevens,Haley M. Stevens,rep,MI,11.0,Democrat,,,0,no match
+Rashida,Tlaib,Rashida Tlaib,rep,MI,13.0,Democrat,,,0,134597023235240
+Jim,Hagedorn,Jim Hagedorn,rep,MN,1.0,Republican,,,0,108252177711618
+Angie,Craig,Angie Craig,rep,MN,2.0,Democrat,,,0,1642386799323957
+Dean,Phillips,Dean Phillips,rep,MN,3.0,Democrat,,,0,225507764589310
+Ilhan,Omar,Ilhan Omar,rep,MN,5.0,Democrat,,,0,780941275347834
+Pete,Stauber,Pete Stauber,rep,MN,8.0,Republican,,,0,148899492344271
+Michael,Guest,Michael Guest,rep,MS,3.0,Republican,,,0,1446823768756602
+Kelly,Armstrong,Kelly Armstrong,rep,ND,0.0,Republican,,,0,809836039361670
+Chris,Pappas,Chris Pappas,rep,NH,1.0,Democrat,,,0,154510321337994
+Jefferson,Van Drew,Jefferson Van Drew,rep,NJ,2.0,Republican,,,0,no match
+Andy,Kim,Andy Kim,rep,NJ,3.0,Democrat,,,0,1413682351987764
+Tom,Malinowski,Tom Malinowski,rep,NJ,7.0,Democrat,,,0,858210161010020
+Mikie,Sherrill,Mikie Sherrill,rep,NJ,11.0,Democrat,,,0,1156676274461345
+Susie,Lee,Susie Lee,rep,NV,3.0,Democrat,,,0,868259909915525
+Alexandria,Ocasio-Cortez,Alexandria Ocasio-Cortez,rep,NY,14.0,Democrat,,,0,1316372698453411
+Antonio,Delgado,Antonio Delgado,rep,NY,19.0,Democrat,,,0,359153387814647
+Anthony,Gonzalez,Anthony Gonzalez,rep,OH,16.0,Republican,,,0,474676692900828
+Madeleine,Dean,Madeleine Dean,rep,PA,4.0,Democrat,,,0,143909879708775
+Chrissy,Houlahan,Chrissy Houlahan,rep,PA,6.0,Democrat,,,0,1819973358326612
+Daniel,Meuser,Daniel Meuser,rep,PA,9.0,Republican,,,0,no match
+John,Joyce,John Joyce,rep,PA,13.0,Republican,,,0,1054570378014827
+Guy,Reschenthaler,Guy Reschenthaler,rep,PA,14.0,Republican,,,0,1955556614754164
+William,Timmons,William R. Timmons IV,rep,SC,4.0,Republican,,,0,no match
+Dusty,Johnson,Dusty Johnson,rep,SD,0.0,Republican,,,0,2099566776755945
+Tim,Burchett,Tim Burchett,rep,TN,2.0,Republican,,,0,107330253280356
+John,Rose,John Rose,rep,TN,6.0,Republican,,,0,448838595500528
+Mark,Green,Mark E. Green,rep,TN,7.0,Republican,,,0,no match
+Dan,Crenshaw,Dan Crenshaw,rep,TX,2.0,Republican,,,0,514167322309353
+Van,Taylor,Van Taylor,rep,TX,3.0,Republican,,,0,340393855322
+Lance,Gooden,Lance Gooden,rep,TX,5.0,Republican,,,0,139151419572310
+Lizzie,Fletcher,Lizzie Fletcher,rep,TX,7.0,Democrat,,,0,374666643098092
+Veronica,Escobar,Veronica Escobar,rep,TX,16.0,Democrat,,,0,261548845154
+Chip,Roy,Chip Roy,rep,TX,21.0,Republican,,,0,193628397865385
+Sylvia,Garcia,Sylvia R. Garcia,rep,TX,29.0,Democrat,,,0,no match
+Colin,Allred,Colin Z. Allred,rep,TX,32.0,Democrat,,,0,no match
+Elaine,Luria,Elaine G. Luria,rep,VA,2.0,Democrat,,,0,no match
+Ben,Cline,Ben Cline,rep,VA,6.0,Republican,,,0,48631937877
+Abigail,Spanberger,Abigail Davis Spanberger,rep,VA,7.0,Democrat,,,0,no match
+Jennifer,Wexton,Jennifer Wexton,rep,VA,10.0,Democrat,,,0,191975737491988
+Kim,Schrier,Kim Schrier,rep,WA,8.0,Democrat,,,0,1354622541311687
+Bryan,Steil,Bryan Steil,rep,WI,1.0,Republican,,,0,1504873886306347
+Carol,Miller,Carol D. Miller,rep,WV,3.0,Republican,,,0,no match
+Rick,Scott,Rick Scott,sen,FL,,Republican,RickScottSenOffice,,0,370872766769375
+Mike,Braun,Mike Braun,sen,IN,,Republican,,,0,164203030438398
+Joshua,Hawley,Josh Hawley,sen,MO,,Republican,,,0,1636216106590985
+Mitt,Romney,Mitt Romney,sen,UT,,Republican,,,0,107512540818740
+Jared,Golden,Jared F. Golden,rep,ME,2.0,Democrat,,,0,no match
+Fred,Keller,Fred Keller,rep,PA,12.0,Republican,CongressmanFredKeller,,0,2222844871168340
+Dan,Bishop,Dan Bishop,rep,NC,9.0,Republican,repdanbishop,Congressman Dan Bishop,100058212543209,708346842676287
+Gregory,Murphy,Gregory F. Murphy,rep,NC,3.0,Republican,RepGregMurphy,,0,no match
+Kweisi,Mfume,Kweisi Mfume,rep,MD,7.0,Democrat,RepKweisiMfume,,0,110475903727400
+Thomas,Tiffany,Thomas P. Tiffany,rep,WI,7.0,Republican,,,0,no match
+Mike,Garcia,Mike Garcia,rep,CA,25.0,Republican,RepMikeGarcia,,0,2116141045107743
+Chris,Jacobs,Chris Jacobs,rep,NY,27.0,Republican,,,0,1482684292028934
+Mark,Kelly,Mark Kelly,sen,AZ,,Democrat,SenMarkKelly,Senator Mark Kelly,100046928411353,163148530407080
+Cynthia,Lummis,Cynthia M. Lummis,sen,WY,,Republican,,,0,no match
+Darrell,Issa,Darrell Issa,rep,CA,50.0,Republican,,,0,19463427992
+Pete,Sessions,Pete Sessions,rep,TX,17.0,Republican,,,0,22753043010
+David,Valadao,David G. Valadao,rep,CA,21.0,Republican,,,0,105596689621089
+Tommy,Tuberville,Tommy Tuberville,sen,AL,,Republican,,,0,2225580284361712
+John,Hickenlooper,John W. Hickenlooper,sen,CO,,Democrat,,,0,97493741436
+Bill,Hagerty,Bill Hagerty,sen,TN,,Republican,,,0,656263988182462
+Jerry,Carl,Jerry L. Carl,rep,AL,1.0,Republican,,,0,no match
+Barry,Moore,Barry Moore,rep,AL,2.0,Republican,,,0,168857193154545
+Jay,Obernolte,Jay Obernolte,rep,CA,8.0,Republican,,,0,221690171353068
+Young,Kim,Young Kim,rep,CA,39.0,Republican,,,0,118502801658228
+Michelle,Steel,Michelle Steel,rep,CA,48.0,Republican,,,0,1228396643984955
+Sara,Jacobs,Sara Jacobs,rep,CA,53.0,Democrat,,,0,347844152343949
+Lauren,Boebert,Lauren Boebert,rep,CO,3.0,Republican,,,0,107698564046392
+Katherine,Cammack,Kat Cammack,rep,FL,3.0,Republican,,,0,103806957816376
+C.,Franklin,C. Scott Franklin,rep,FL,15.0,Republican,,,0,no match
+Byron,Donalds,Byron Donalds,rep,FL,19.0,Republican,,,0,154269528015922
+Carlos,Gimenez,Carlos A. Gimenez,rep,FL,26.0,Republican,,,0,105624038154155
+Maria,Salazar,Maria Elvira Salazar,rep,FL,27.0,Republican,,,0,666196620070127
+Nikema,Williams,Nikema Williams,rep,GA,5.0,Democrat,,,0,1957446251204909
+Carolyn,Bourdeaux,Carolyn Bourdeaux,rep,GA,7.0,Democrat,,,0,861706743991799
+Andrew,Clyde,Andrew S. Clyde,rep,GA,9.0,Republican,,,0,no match
+Marjorie,Greene,Marjorie Taylor Greene,rep,GA,14.0,Republican,,,0,1809715209318581
+Kaialiʻi,Kahele,Kaiali’i Kahele,rep,HI,2.0,Democrat,,,0,no match
+Ashley,Hinson,Ashley Hinson,rep,IA,1.0,Republican,,,0,894096170667732
+Mariannette,Miller-Meeks,Mariannette Miller-Meeks,rep,IA,2.0,Republican,,,0,1802584223384451
+Randy,Feenstra,Randy Feenstra,rep,IA,4.0,Republican,,,0,1628922377207463
+Marie,Newman,Marie Newman,rep,IL,3.0,Democrat,,,0,1495042817173727
+Mary,Miller,Mary E. Miller,rep,IL,15.0,Republican,,,0,no match
+Frank,Mrvan,Frank J. Mrvan,rep,IN,1.0,Democrat,,,0,no match
+Victoria,Spartz,Victoria Spartz,rep,IN,5.0,Republican,,,0,1295279420598401
+Tracey,Mann,Tracey Mann,rep,KS,1.0,Republican,,,0,61198206469
+Jacob,LaTurner,Jake LaTurner,rep,KS,2.0,Republican,,,0,572946842722169
+Jake,Auchincloss,Jake Auchincloss,rep,MA,4.0,Democrat,,,0,592250887586314
+Peter,Meijer,Peter Meijer,rep,MI,3.0,Republican,,,0,451900515399684
+Lisa,McClain,Lisa C. McClain,rep,MI,10.0,Republican,,,0,no match
+Michelle,Fischbach,Michelle Fischbach,rep,MN,7.0,Republican,,,0,107037332686173
+Cori,Bush,Cori Bush,rep,MO,1.0,Democrat,,,0,1000253160054572
+Matthew,Rosendale,Matthew M. Rosendale,rep,MT,0.0,Republican,,,0,no match
+Deborah,Ross,Deborah K. Ross,rep,NC,2.0,Democrat,,,0,no match
+Kathy,Manning,Kathy E. Manning,rep,NC,6.0,Democrat,,,0,no match
+David,Cawthorn,Madison Cawthorn,rep,NC,11.0,Republican,,,0,100233228182981
+Yvette,Herrell,Yvette Herrell,rep,NM,2.0,Republican,,,0,103774718121881
+Teresa,Leger Fernandez,Teresa Leger Fernandez,rep,NM,3.0,Democrat,,,0,301228420816284
+Andrew,Garbarino,Andrew R. Garbarino,rep,NY,2.0,Republican,,,0,197834643693711
+Nicole,Malliotakis,Nicole Malliotakis,rep,NY,11.0,Republican,,,0,1533092446942704
+Ritchie,Torres,Ritchie Torres,rep,NY,15.0,Democrat,,,0,2142236792490640
+Jamaal,Bowman,Jamaal Bowman,rep,NY,16.0,Democrat,,,0,399366360669553
+Mondaire,Jones,Mondaire Jones,rep,NY,17.0,Democrat,,,0,2382869555319923
+Stephanie,Bice,Stephanie I. Bice,rep,OK,5.0,Republican,,,0,no match
+Cliff,Bentz,Cliff Bentz,rep,OR,2.0,Republican,,,0,180631442719210
+Nancy,Mace,Nancy Mace,rep,SC,1.0,Republican,,,0,628891490457484
+Diana,Harshbarger,Diana Harshbarger,rep,TN,1.0,Republican,,,0,102728205110465
+Patrick,Fallon,Pat Fallon,rep,TX,4.0,Republican,,,0,105512331492146
+August,Pfluger,August Pfluger,rep,TX,11.0,Republican,,,0,102682681124239
+Ronny,Jackson,Ronny Jackson,rep,TX,13.0,Republican,,,0,101724361319410
+Troy,Nehls,Troy E. Nehls,rep,TX,22.0,Republican,,,0,1431647400421353
+Ernest,Gonzales,Tony Gonzales,rep,TX,23.0,Republican,,,0,2146201085498440
+Beth,Van Duyne,Beth Van Duyne,rep,TX,24.0,Republican,,,0,1558042497785635
+Blake,Moore,Blake D. Moore,rep,UT,1.0,Republican,,,0,no match
+Clarence,Owens,Burgess Owens,rep,UT,4.0,Republican,,,0,305643856459460
+Robert,Good,Bob Good,rep,VA,5.0,Republican,,,0,115883606515801
+Marilyn,Strickland,Marilyn Strickland,rep,WA,10.0,Democrat,,,0,103987634439727
+Scott,Fitzgerald,Scott Fitzgerald,rep,WI,5.0,Republican,,,0,103935277670393
+Alejandro,Padilla,Alex Padilla,sen,CA,,Democrat,,,0,471134912978464
+Jon,Ossoff,Jon Ossoff,sen,GA,,Democrat,,,0,1336293769761923
+Raphael,Warnock,Raphael G. Warnock,sen,GA,,Democrat,,,0,no match
+Claudia,Tenney,Claudia Tenney,rep,NY,22.0,Republican,,,0,2220944231249057
+Julia,Letlow,Julia Letlow,rep,LA,5.0,Republican,,,0,101501768597429
+Troy,Carter,Troy A. Carter,rep,LA,2.0,Democrat,,,0,876319055750124
+Melanie,Stansbury,Melanie A. Stansbury,rep,NM,1.0,Democrat,,,0,no match
+Jake,Ellzey,Jake Ellzey,rep,TX,6.0,Republican,,,0,512954815727434

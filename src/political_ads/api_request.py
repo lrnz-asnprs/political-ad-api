@@ -1,7 +1,7 @@
 import requests
 import numpy as np
 import pandas as pd
-from political_ads.helper import *
+# from political_ads.helper import *
 import time
 import json
 
@@ -38,12 +38,17 @@ class API_request:
         counter = 0
         final_response = response["data"] # final response python list initialized and add first result
 
-        while "next" in response["paging"]:
-            response = self.get_json_response(response["paging"]["next"], access_token)
-            final_response.extend(response["data"]) # add the results to final list
-            counter += 1
-            time.sleep(5)
-            print(f"Iteration number {counter} and amount of data: {counter * limit_per_call}")
+        while "paging" in response:  
+            while "next" in response["paging"]:
+                if counter == 2:
+                    break
+                response = self.get_json_response(response["paging"]["next"], access_token)
+                final_response.extend(response["data"]) # add the results to final list
+                counter += 1
+                time.sleep(5)
+                print(f"Iteration number {counter} and amount of data: {counter * limit_per_call}")
+                if "paging" not in response:
+                    break
 
         final_str = json.dumps(final_response) 
         jsonFile = open("..\\data\\generated_dataset.txt", "w") # filepath and name specified here!
@@ -52,7 +57,7 @@ class API_request:
 
 
     #page_ids must be list of ids
-    def generate_dataset_by_pageId(self, limit_per_call: int, page_ids: list(int), access_token: str): # insert your access token here (expires every 2 hours)
+    def generate_dataset_by_pageId(self, limit_per_call: int, page_ids: list[int], access_token: str): # insert your access token here (expires every 2 hours)
         
         # PARAMETERS NECESSARY
         ad_type = "POLITICAL_AND_ISSUE_ADS"
@@ -72,17 +77,72 @@ class API_request:
 
         counter = 0
         final_response = response["data"] # final response python list initialized and add first result
-
-        while "next" in response["paging"]:
-            response = self.get_json_response(response["paging"]["next"], access_token)
-            final_response.extend(response["data"]) # add the results to final list
-            counter += 1
-            time.sleep(5)
-            print(f"Iteration number {counter} and amount of data: {counter * limit_per_call}")
+                
+        while "paging" in response:  
+            # if counter == 1:
+            #         break
+            while "next" in response["paging"]:
+                # if counter == 1:
+                #     break
+                response = self.get_json_response(response["paging"]["next"], access_token)
+                final_response.extend(response["data"]) # add the results to final list
+                counter += 1
+                time.sleep(5)
+                print(f"Iteration number {counter} and amount of data: {counter * limit_per_call}")
+                if "paging" not in response:
+                    break
 
         final_str = json.dumps(final_response) 
         jsonFile = open("..\\data\\dataset_by_pageId.txt", "w") # filepath and name specified here!
         jsonFile.write(final_str)
+        jsonFile.close()
+
+
+    # This method appends the dataset generated to an existing one!!
+    def append_dataset_by_pageId(self, limit_per_call: int, page_ids: list[int], access_token: str): # insert your access token here (expires every 2 hours)
+        
+        # PARAMETERS NECESSARY
+        ad_type = "POLITICAL_AND_ISSUE_ADS"
+        ad_reached_countries = ['US'] # Facebook delivered the ads in these countries. Provided as ISO country codes.
+        search_terms = "" # The terms to search for in your query. We treat a blank space as a logical AND and search for both terms and no other operators. The limit of your string is 100 characters or less.
+        limit = limit_per_call
+        search_page_ids = page_ids
+
+        # FIELDS to specify your results
+        fields = ["ad_creation_time", "ad_creative_body","spend", "impressions", "delivery_by_region", "demographic_distribution","page_id", "page_name","bylines","id"]
+
+        # see here for more parameters and fields: https://www.facebook.com/ads/library/api/?source=archive-landing-page 
+
+        input_url = f"https://graph.facebook.com/v12.0/ads_archive?search_terms={search_terms}&ad_type={ad_type}&ad_reached_countries={ad_reached_countries}&search_page_ids={search_page_ids}&fields={fields}&limit={limit}"
+
+        response = self.get_json_response(input_url, access_token) # generate first response
+
+        counter = 0
+        final_response = response["data"] # final response python list initialized and add first result
+                
+        while "paging" in response:  
+            # if counter == 1:
+            #         break
+            while "next" in response["paging"]:
+                # if counter == 1:
+                #     break
+                response = self.get_json_response(response["paging"]["next"], access_token)
+                final_response.extend(response["data"]) # add the results to final list
+                counter += 1
+                time.sleep(5)
+                print(f"Iteration number {counter} and amount of data: {counter * limit_per_call}")
+                if "paging" not in response:
+                    break
+
+        # final_str = json.dumps(final_response) 
+
+        # load existing file
+        with open('..\\data\\dataset_by_pageId_appended.txt') as f:
+            existing_file = json.load(f)
+        existing_file.extend(final_response) # add string to file
+        jsonFile = open("..\\data\\dataset_by_pageId_appended.txt", "w") # filepath and name specified here!
+        final_file_str = json.dumps(existing_file)
+        jsonFile.write(final_file_str)
         jsonFile.close()
 
 
