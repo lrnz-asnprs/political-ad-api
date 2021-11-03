@@ -1,12 +1,12 @@
 # Class with visualization methods
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
+
 class Visualizer:
 
     def __init__(self) -> None:
         pass
-
-    
 
     # As input needs dataframe containing the advertisements GROUPED BY DAY!
     # Can be done for individual politicians or even groups like reps or dems
@@ -80,3 +80,21 @@ class Visualizer:
         plt.show()
 
     
+    # Makes boxplots of impressions per dollar spend for climate vs non-climate related advertisements
+    def boxplot_impr_per_dollar_comparison(self, climate_ads: pd.DataFrame, non_climate_ads: pd.DataFrame):
+        #helper
+        def calc_spend_per_impr(x):
+            return x.impressions/x.spend
+        # calc impr per dollat
+        climate_ads["impr_per_dollar"] = climate_ads.apply(lambda x: calc_spend_per_impr(x), axis=1)
+        non_climate_ads["impr_per_dollar"] = non_climate_ads.apply(lambda x: calc_spend_per_impr(x), axis=1)
+
+        fig, (ax, ax1) = plt.subplots(1, 2, sharey=True, figsize=(10,5))
+        fig.suptitle('Comparison impressions per dollar')
+        ax.set_title('Non-climate-related ads')
+        ax1.set_title('Climate-related ads')
+        sns.set_theme(style="darkgrid")
+        sns.boxplot(ax=ax, y=non_climate_ads["impr_per_dollar"], color="purple", showmeans=True)
+        sns.boxplot(ax= ax1, y=climate_ads["impr_per_dollar"],color="teal", showmeans=True)
+        ax.set_yscale('log')
+        ax1.set_yscale('log')

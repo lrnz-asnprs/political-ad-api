@@ -78,7 +78,8 @@ class Preprocessor:
         jsonFile.write(final_file_str)
         jsonFile.close()
 
-
+    def calc_spend_per_impr(self,x):
+        return x.impressions/x.spend
 
     def upper_bound(self, entry: dict): # This function returns the average of a range (for impressions and spend)
         if entry.get("upper_bound") == None:
@@ -98,11 +99,11 @@ class Preprocessor:
         # create upper and lower boundaries
         file["spend_lo"] = file["spend"].apply(lambda x: int(x["lower_bound"]))
         file["spend_hi"] = file["spend"].apply(lambda x: self.upper_bound(x))
+        file["spend"] = file["spend"].apply(lambda x: self.avg_range(x))
         file["impressions_lo"] = file["impressions"].apply(lambda x: int(x["lower_bound"]))   
         file["impressions_hi"] = file["impressions"].apply(lambda x: self.upper_bound(x))   
-        # transform spend & impression ranges into average
-        file["spend"] = file["spend"].apply(lambda x: self.avg_range(x))
         file["impressions"] = file["impressions"].apply(lambda x: self.avg_range(x))
+        # transform spend & impression ranges into average
         # transform into datetime
         file["ad_creation_time"] = pd.to_datetime(file["ad_creation_time"])
         return file
