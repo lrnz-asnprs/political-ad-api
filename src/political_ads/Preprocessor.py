@@ -25,25 +25,29 @@ class Preprocessor:
             higher = entry["upper_bound"]
         return int(int(lower) + int(higher)) / 2
 
+    # merge all single files into one bigger!
     def merge_files(self, directory: str):
-        dir = r'..\..\single_files'
+        dir = r'single_files'
         final_list = []
         files = set() # iterate over files in that directory and put in set
         for filename in os.listdir(dir):
-            # checking if it is a file
-            if os.path.isfile(filename) and filename.endswith("txt"):
-                files.add(filename)
-        #
+            print(filename)
+                    # checking if it is a file
+            if filename.endswith("txt"):
+                    files.add(filename)
         while len(files) > 0:
             file = files.pop()
             try:
-                data = self.read_dataset(dir.join(file))
+                print(dir + "\\" + file)
+                joined_path = dir + "\\" + file
+                data = preprocess.read_dataset(joined_path)
                 final_list.extend(data) # concatenate data to list
+                print(len(final_list))
             except:
                 files.add(file) # add file back
                 print(f"There was an error with file {file}")
 
-        jsonFile = open("..\\data\\all_politicians_aggregated.txt", "w") # filepath and name specified here!
+        jsonFile = open("data\\all_politicians_aggregated.txt", "w") # filepath and name specified here!
         final_file_str = json.dumps(final_list)
         jsonFile.write(final_file_str)
         jsonFile.close()
