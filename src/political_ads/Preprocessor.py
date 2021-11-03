@@ -101,8 +101,3 @@ class Preprocessor:
         ).reset_index()
         
         return by_page
-
-
-
-preprocess = Preprocessor()
-preprocess.merge_files("..\\..\\single_files\\")
