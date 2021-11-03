@@ -18,6 +18,31 @@ class API_request:
             raise Exception(response.status_code, response.text)
         return response.json()
 
+
+    # generate single json files for each congress member in the list
+    def create_single_files(self, token, congress_members: pd.DataFrame):
+
+        pid_list = congress_members[congress_members["page_id"] != "no match"]["page_id"].tolist()
+        congress_members_pid_set = set(pid_list) # make set of page ids
+
+        while len(congress_members_pid_set) > 0:
+            p_id = congress_members_pid_set.pop() # get next page_id
+            politician = congress_members[congress_members["page_id"] == p_id]  # get corresponding entry in df
+            politician_name = politician.full_name.values[0].replace(" ", "_") # name of politician
+            try:
+                print(f"Try politician {politician_name} ") 
+                ads_data = self.dataset_by_pageId_asString(500, [p_id], token)
+                final_str = json.dumps(ads_data) 
+                jsonFile = open(f"..\\single_files\\{politician_name}_{p_id}.txt", "w") # filepath and name specified here!
+                jsonFile.write(final_str)
+                jsonFile.close()
+                print(f"Successfully created file for {politician_name}. Length of set is now: {len(congress_members_pid_set)}")
+            except:
+                congress_members_pid_set.add(p_id) # add element back to set and try again
+                print(f"Error occured for politician {politician_name} with page_id {p_id}")
+                pass
+
+
     def generate_dataset(self, limit_per_call: int, search_terms: str, access_token: str): # insert your access token here (expires every 2 hours)
         
         # PARAMETERS NECESSARY

@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import json
-
+import os
 from pandas.core.frame import DataFrame
 from pandas.io.clipboards import read_clipboard
 
@@ -24,6 +24,31 @@ class Preprocessor:
         else:
             higher = entry["upper_bound"]
         return int(int(lower) + int(higher)) / 2
+
+    def merge_files(self, directory: str):
+
+        final_list = []
+        files = set() # iterate over files in that directory and put in set
+        for filename in os.listdir(directory):
+            # checking if it is a file
+            if os.path.isfile(filename) and filename.endswith("txt"):
+                files.add(filename)
+        #
+        while len(files) > 0:
+            file = files.pop()
+            try:
+                data = self.read_dataset(directory.join(file))
+                final_list.extend(data) # concatenate data to list
+            except:
+                files.add(file) # add file back
+                print(f"There was an error with file {file}")
+
+        jsonFile = open("..\\data\\all_politicians_aggregated.txt", "w") # filepath and name specified here!
+        final_file_str = json.dumps(final_list)
+        jsonFile.write(final_file_str)
+        jsonFile.close()
+
+
 
     def upper_bound(self, entry: dict): # This function returns the average of a range (for impressions and spend)
         if entry.get("upper_bound") == None:
@@ -72,3 +97,8 @@ class Preprocessor:
         ).reset_index()
         
         return by_page
+
+
+
+preprocess = Preprocessor()
+preprocess.merge_files("..\\..\\single_files\\")
