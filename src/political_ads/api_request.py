@@ -82,7 +82,7 @@ class API_request:
 
 
     #page_ids must be list of ids
-    def generate_dataset_by_pageId(self, limit_per_call: int, page_ids: list[int], access_token: str): # insert your access token here (expires every 2 hours)
+    def generate_dataset_by_pageId(self, limit_per_call, page_ids, access_token): # insert your access token here (expires every 2 hours)
         
         # PARAMETERS NECESSARY
         ad_type = "POLITICAL_AND_ISSUE_ADS"
@@ -124,7 +124,7 @@ class API_request:
 
 
     # This method appends the dataset generated to an existing one!!
-    def append_dataset_by_pageId(self, limit_per_call: int, page_ids: list[int], access_token: str): # insert your access token here (expires every 2 hours)
+    def append_dataset_by_pageId(self, limit_per_call: int, page_ids: list, access_token: str): # insert your access token here (expires every 2 hours)
         
         # PARAMETERS NECESSARY
         ad_type = "POLITICAL_AND_ISSUE_ADS"
@@ -175,7 +175,7 @@ class API_request:
 
 
     # This method returns a json string of ALL ads by one page_id!
-    def dataset_by_pageId_asString(self, limit_per_call: int, page_ids: list[int], access_token: str): # insert your access token here (expires every 2 hours)
+    def dataset_by_pageId_asString(self, limit_per_call: int, page_ids: list, access_token: str): # insert your access token here (expires every 2 hours)
         # PARAMETERS NECESSARY
         ad_type = "POLITICAL_AND_ISSUE_ADS"
         ad_reached_countries = ['US'] # Facebook delivered the ads in these countries. Provided as ISO country codes.

@@ -52,6 +52,32 @@ class Preprocessor:
         jsonFile.write(final_file_str)
         jsonFile.close()
 
+    def merge_files_gg(self, directory: str):
+        dir = r'single_files'
+        final_list = []
+        files = set() # iterate over files in that directory and put in set
+        for filename in os.listdir(dir):
+            print(filename)
+                    # checking if it is a file
+            if filename.endswith("txt"):
+                    files.add(filename)
+        while len(files) > 0:
+            file = files.pop()
+            try:
+                print(dir + "/" + file)
+                joined_path = dir + "/" + file
+                data = self.read_dataset(joined_path)
+                final_list.extend(data) # concatenate data to list
+                print(len(final_list))
+            except:
+                files.add(file) # add file back
+                print(f"There was an error with file {file}")
+
+        jsonFile = open("data/all_politicians_aggregated.txt", "w") # filepath and name specified here!
+        final_file_str = json.dumps(final_list)
+        jsonFile.write(final_file_str)
+        jsonFile.close()
+
 
 
     def upper_bound(self, entry: dict): # This function returns the average of a range (for impressions and spend)
