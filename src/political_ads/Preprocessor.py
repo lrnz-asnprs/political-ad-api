@@ -40,7 +40,7 @@ class Preprocessor:
             try:
                 print(dir + "\\" + file)
                 joined_path = dir + "\\" + file
-                data = preprocess.read_dataset(joined_path)
+                data = self.read_dataset(joined_path)
                 final_list.extend(data) # concatenate data to list
                 print(len(final_list))
             except:
