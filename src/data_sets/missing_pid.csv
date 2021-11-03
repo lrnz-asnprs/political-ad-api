@@ -1,0 +1,182 @@
+,first_name,last_name,full_name,type,state,district,party,facebook,page_name,identifier,page_id,already_fetched
+1,Maria,Cantwell,Maria Cantwell,sen,WA,,Democrat,senatorcantwell,Senator Maria Cantwell,100044609161538,9351652533,missing
+2,Benjamin,Cardin,Benjamin L. Cardin,sen,MD,,Democrat,senatorbencardin,Senator Ben Cardin,100044326544838,no match,missing
+3,Thomas,Carper,Thomas R. Carper,sen,DE,,Democrat,tomcarper,Senator Tom Carper,100044593172202,no match,missing
+4,Robert,Casey,"Robert P. Casey, Jr.",sen,PA,,Democrat,SenatorBobCasey,U.S. Senator Bob Casey,100044143479624,no match,missing
+7,Robert,Menendez,Robert Menendez,sen,NJ,,Democrat,senatormenendez,Senator Bob Menendez,100044150273701,no match,missing
+8,Bernard,Sanders,Bernard Sanders,sen,VT,,Independent,senatorsanders,U.S. Senator Bernie Sanders,100044564583792,no match,missing
+13,Roger,Wicker,Roger F. Wicker,sen,MS,,Republican,wicker,Roger Wicker,6690879844,no match,missing
+14,Susan,Collins,Susan M. Collins,sen,ME,,Republican,susancollins,U.S. Senator Susan Collins,0,no match,missing
+16,Richard,Durbin,Richard J. Durbin,sen,IL,,Democrat,SenatorDurbin,Senator Dick Durbin,100043928209397,no match,missing
+18,James,Inhofe,James M. Inhofe,sen,OK,,Republican,jiminhofe,Senator Jim Inhofe,100044181078674,no match,missing
+22,James,Risch,James E. Risch,sen,ID,,Republican,senatorjimrisch,Senator Jim Risch,500772543609803,no match,missing
+24,Mark,Warner,Mark R. Warner,sen,VA,,Democrat,MarkRWarner,Senator Mark Warner,0,no match,missing
+25,Kirsten,Gillibrand,Kirsten E. Gillibrand,sen,NY,,Democrat,SenKirstenGillibrand,U.S. Senator Kirsten Gillibrand,100044454368535,no match,missing
+26,Christopher,Coons,Christopher A. Coons,sen,DE,,Democrat,senatorchriscoons,U.S. Senator Chris Coons,254950754518205,no match,missing
+27,Joe,Manchin,"Joe Manchin, III",sen,WV,,Democrat,JoeManchinIII,,0,no match,missing
+28,Robert,Aderholt,Robert B. Aderholt,rep,AL,4.0,Republican,RobertAderholt,,0,no match,missing
+31,Michael,Bennet,Michael F. Bennet,sen,CO,,Democrat,senbennetco,,0,no match,missing
+32,Gus,Bilirakis,Gus M. Bilirakis,rep,FL,12.0,Republican,GusBilirakis,Congressman Gus Bilirakis,100044423799906,no match,missing
+33,Sanford,Bishop,"Sanford D. Bishop, Jr.",rep,GA,2.0,Democrat,sanfordbishop,Congressman Sanford Bishop,100045124418094,no match,missing
+43,Michael,Burgess,Michael C. Burgess,rep,TX,26.0,Republican,michaelcburgess,,0,no match,missing
+49,John,Carter,John R. Carter,rep,TX,31.0,Republican,judgecarter,U.S. Representative John Carter,100044035693797,no match,missing
+51,Kathy,Castor,Kathy Castor,rep,FL,14.0,Democrat,USRepKathyCastor,,0,no match,missing
+60,Gerald,Connolly,Gerald E. Connolly,rep,VA,11.0,Democrat,CongressmanGerryConnolly,Congressman Gerry Connolly,100045108333439,no match,missing
+64,Michael,Crapo,Mike Crapo,sen,ID,,Republican,mikecrapo,,0,286049384763373,missing
+65,Eric,Crawford,"Eric A. ""Rick"" Crawford",rep,AR,1.0,Republican,RepRickCrawford,,0,no match,missing
+68,Peter,DeFazio,Peter A. DeFazio,rep,OR,4.0,Democrat,RepPeterDeFazio,Peter DeFazio,100044856351141,no match,missing
+70,Rosa,DeLauro,Rosa L. DeLauro,rep,CT,3.0,Democrat,CongresswomanRosaDeLauro,Rosa DeLauro,100044446690856,no match,missing
+71,Scott,DesJarlais,Scott DesJarlais,rep,TN,4.0,Republican,ScottDesJarlaisTN04,,0,no match,missing
+72,Theodore,Deutch,Theodore E. Deutch,rep,FL,22.0,Democrat,CongressmanTedDeutch,Congressman Ted Deutch,100044155463550,no match,missing
+75,Michael,Doyle,Michael F. Doyle,rep,PA,18.0,Democrat,usrepmikedoyle,,0,no match,missing
+77,Anna,Eshoo,Anna G. Eshoo,rep,CA,18.0,Democrat,RepAnnaEshoo,,0,no match,missing
+78,Charles,Fleischmann,"Charles J. ""Chuck"" Fleischmann",rep,TN,3.0,Republican,repchuck,,0,no match,missing
+83,Louie,Gohmert,Louie Gohmert,rep,TX,1.0,Republican,50375006903,,0,no match,missing
+84,Paul,Gosar,Paul A. Gosar,rep,AZ,4.0,Republican,repgosar,Rep. Paul Gosar,100044080644052,no match,missing
+89,H.,Griffith,H. Morgan Griffith,rep,VA,9.0,Republican,RepMorganGriffith,,0,no match,missing
+90,Raúl,Grijalva,Raúl M. Grijalva,rep,AZ,3.0,Democrat,Rep.Grijalva,Raul M. Grijalva,100044620061397,no match,missing
+97,James,Himes,James A. Himes,rep,CT,4.0,Democrat,CongressmanJimHimes,,0,no match,missing
+98,Mazie,Hirono,Mazie K. Hirono,sen,HI,,Democrat,senatorhirono,,0,no match,missing
+99,John,Hoeven,John Hoeven,sen,ND,,Republican,SenatorJohnHoeven,Senator John Hoeven,100044866340344,no match,missing
+100,Steny,Hoyer,Steny H. Hoyer,rep,MD,5.0,Democrat,WhipHoyer,,0,no match,missing
+104,Eddie,Johnson,Eddie Bernice Johnson,rep,TX,30.0,Democrat,CongresswomanEBJtx30,,0,no match,missing
+105,Henry,Johnson,"Henry C. ""Hank"" Johnson, Jr.",rep,GA,4.0,Democrat,115356957005,Congressman Hank Johnson,100044497151545,no match,missing
+109,William,Keating,William R. Keating,rep,MA,9.0,Democrat,Congressman.Keating,,0,no match,missing
+114,James,Langevin,James R. Langevin,rep,RI,2.0,Democrat,CongressmanJimLangevin,,0,no match,missing
+118,Robert,Latta,Robert E. Latta,rep,OH,5.0,Republican,boblatta,,0,no match,missing
+119,Patrick,Leahy,Patrick J. Leahy,sen,VT,,Democrat,SenatorPatrickLeahy,,0,no match,missing
+124,Frank,Lucas,Frank D. Lucas,rep,OK,3.0,Republican,RepFrankLucas,Congressman Frank Lucas,100044780551768,no match,missing
+129,Edward,Markey,Edward J. Markey,sen,MA,,Democrat,EdJMarkey,,0,no match,missing
+130,Doris,Matsui,Doris O. Matsui,rep,CA,6.0,Democrat,doris.matsui,,0,no match,missing
+131,Kevin,McCarthy,Kevin McCarthy,rep,CA,23.0,Republican,CongressmanKevinMcCarthy,,0,159964696102,missing
+132,Michael,McCaul,Michael T. McCaul,rep,TX,10.0,Republican,michaeltmccaul,Michael McCaul,100045271561555,no match,missing
+135,James,McGovern,James P. McGovern,rep,MA,2.0,Democrat,RepJimMcGovern,Congressman Jim McGovern,100044176372463,no match,missing
+136,Patrick,McHenry,Patrick T. McHenry,rep,NC,10.0,Republican,CongressmanMcHenry,Patrick McHenry,100044297570801,no match,missing
+137,David,McKinley,David B. McKinley,rep,WV,1.0,Republican,RepMcKinley,,0,no match,missing
+140,Gregory,Meeks,Gregory W. Meeks,rep,NY,5.0,Democrat,gregorymeeksny05,,0,no match,missing
+142,Jerry,Moran,Jerry Moran,sen,KS,,Republican,jerrymoran,,0,no match,missing
+143,Lisa,Murkowski,Lisa Murkowski,sen,AK,,Republican,SenLisaMurkowski,Lisa Murkowski,100044343943390,no match,missing
+145,Patty,Murray,Patty Murray,sen,WA,,Democrat,,,0,131182018871,missing
+146,Jerrold,Nadler,Jerrold Nadler,rep,NY,10.0,Democrat,CongressmanNadler,,0,no match,missing
+147,Grace,Napolitano,Grace F. Napolitano,rep,CA,32.0,Democrat,RepGraceNapolitano,,0,no match,missing
+148,Richard,Neal,Richard E. Neal,rep,MA,1.0,Democrat,reprichardneal,,0,no match,missing
+150,Devin,Nunes,Devin Nunes,rep,CA,22.0,Republican,,,0,834645469890446,missing
+151,Steven,Palazzo,Steven M. Palazzo,rep,MS,4.0,Republican,stevenpalazzo,Congressman Steven Palazzo,100044636820202,no match,missing
+152,Frank,Pallone,"Frank Pallone, Jr.",rep,NJ,6.0,Democrat,repfrankpallone,Frank Pallone Jr.,100044903760147,no match,missing
+157,Gary,Peters,Gary C. Peters,sen,MI,,Democrat,SenGaryPeters,Senator Gary Peters,100044411500204,no match,missing
+161,David,Price,David E. Price,rep,NC,4.0,Democrat,RepDavidEPrice,,0,no match,missing
+164,Harold,Rogers,Harold Rogers,rep,KY,5.0,Republican,CongressmanHalRogers,Congressman Hal Rogers,100044814489669,no match,missing
+168,C.,Ruppersberger,C. A. Dutch Ruppersberger,rep,MD,2.0,Democrat,DutchRupp,,0,no match,missing
+169,Bobby,Rush,Bobby L. Rush,rep,IL,1.0,Democrat,congressmanbobbyrush,Congressman Bobby L. Rush,100046980950439,no match,missing
+172,John,Sarbanes,John P. Sarbanes,rep,MD,3.0,Democrat,RepSarbanes,Congressman John Sarbanes,100045256262332,no match,missing
+174,Janice,Schakowsky,Janice D. Schakowsky,rep,IL,9.0,Democrat,janschakowsky,Jan Schakowsky,100044410630117,no match,missing
+175,Adam,Schiff,Adam B. Schiff,rep,CA,28.0,Democrat,RepAdamSchiff,Congressman Adam Schiff,100044453648646,no match,missing
+177,Charles,Schumer,Charles E. Schumer,sen,NY,,Democrat,senschumer,Senator Chuck Schumer,100044238375809,no match,missing
+181,Robert,Scott,"Robert C. ""Bobby"" Scott",rep,VA,3.0,Democrat,RepBobbyScott,Congressman Bobby Scott,100045212670157,no match,missing
+184,Richard,Shelby,Richard C. Shelby,sen,AL,,Republican,RichardShelby,Senator Richard Shelby,100044773532258,no match,missing
+186,Michael,Simpson,Michael K. Simpson,rep,ID,2.0,Republican,96007744606,,0,no match,missing
+190,Christopher,Smith,Christopher H. Smith,rep,NJ,4.0,Republican,RepChrisSmith,,0,no match,missing
+192,Linda,Sánchez,Linda T. Sánchez,rep,CA,38.0,Democrat,CongresswomanLindaSanchez,,0,no match,missing
+193,Bennie,Thompson,Bennie G. Thompson,rep,MS,2.0,Democrat,CongressmanBennieGThompson,,0,no match,missing
+198,Patrick,Toomey,Patrick J. Toomey,sen,PA,,Republican,senatortoomey,,0,no match,missing
+199,Michael,Turner,Michael R. Turner,rep,OH,10.0,Republican,RepMikeTurner,Mike Turner,100044190921043,no match,missing
+200,Fred,Upton,Fred Upton,rep,MI,6.0,Republican,RepFredUpton,Fred Upton,100044373589903,68563629337,missing
+202,Nydia,Velázquez,Nydia M. Velázquez,rep,NY,7.0,Democrat,8037068318,,0,no match,missing
+207,Peter,Welch,Peter Welch,rep,VT,0.0,Democrat,PeterWelch,,0,no match,missing
+209,Frederica,Wilson,Frederica S. Wilson,rep,FL,24.0,Democrat,RepWilson,,0,no match,missing
+210,Robert,Wittman,Robert J. Wittman,rep,VA,1.0,Republican,RepRobWittman,Rep. Rob Wittman,100044426469931,no match,missing
+211,Steve,Womack,Steve Womack,rep,AR,3.0,Republican,RepSteveWomack,,0,no match,missing
+213,John,Yarmuth,John A. Yarmuth,rep,KY,3.0,Democrat,214258646163,Congressman John Yarmuth (KY-3),100044285683368,no match,missing
+216,Mark,Amodei,Mark E. Amodei,rep,NV,2.0,Republican,MarkAmodeiNV2,,0,no match,missing
+218,Suzan,DelBene,Suzan K. DelBene,rep,WA,1.0,Democrat,RepDelBene,,0,no match,missing
+220,Donald,Payne,"Donald M. Payne, Jr.",rep,NJ,10.0,Democrat,DonaldPayneJr,Donald M. Payne Jr.,100047258616004,no match,missing
+234,Alan,Lowenthal,Alan S. Lowenthal,rep,CA,47.0,Democrat,RepLowenthal,,0,no match,missing
+236,Scott,Peters,Scott H. Peters,rep,CA,52.0,Democrat,RepScottPeters,Congressman Scott Peters,100045080170090,no match,missing
+243,Elizabeth,Warren,Elizabeth Warren,sen,MA,,Democrat,senatorelizabethwarren,,0,38471053686,missing
+244,Angus,King,"Angus S. King, Jr.",sen,ME,,Independent,SenatorAngusSKingJr,,0,no match,missing
+245,Daniel,Kildee,Daniel T. Kildee,rep,MI,5.0,Democrat,RepDanKildee,,0,no match,missing
+251,Ann,Kuster,Ann Kuster,rep,NH,2.0,Democrat,CongresswomanAnnieKuster,Congresswoman Annie Kuster,100044720431222,no match,missing
+253,Hakeem,Jeffries,Hakeem S. Jeffries,rep,NY,8.0,Democrat,RepHakeemJeffries,,0,no match,missing
+255,Brad,Wenstrup,Brad R. Wenstrup,rep,OH,2.0,Republican,RepBradWenstrup,Brad Wenstrup,100044377778080,no match,missing
+257,David,Joyce,David P. Joyce,rep,OH,14.0,Republican,RepDaveJoyce,Rep. Dave Joyce,100044470177938,no match,missing
+263,Randy,Weber,"Randy K. Weber, Sr.",rep,TX,14.0,Republican,TXRandy14,Congressman Randy Weber,100044455595316,no match,missing
+266,Marc,Veasey,Marc A. Veasey,rep,TX,33.0,Democrat,CongressmanMarcVeasey,Congressman Marc Veasey,100045313320763,no match,missing
+272,Robin,Kelly,Robin L. Kelly,rep,IL,2.0,Democrat,reprobinkelly,Robin Kelly,100045080140134,no match,missing
+274,Cory,Booker,Cory A. Booker,sen,NJ,,Democrat,,,0,no match,missing
+275,Katherine,Clark,Katherine M. Clark,rep,MA,5.0,Democrat,CongresswomanClark,,0,no match,missing
+277,Alma,Adams,Alma S. Adams,rep,NC,12.0,Democrat,CongresswomanAdams,"Congresswoman Alma S. Adams, PhD",100044794400197,no match,missing
+278,Gary,Palmer,Gary J. Palmer,rep,AL,6.0,Republican,CongressmanGaryPalmer,Congressman Gary Palmer,100044530758499,no match,missing
+285,Norma,Torres,Norma J. Torres,rep,CA,35.0,Democrat,RepNormaTorres,,0,no match,missing
+287,Earl,Carter,"Earl L. ""Buddy"" Carter",rep,GA,1.0,Republican,congressmanbuddycarter,Congressman Buddy Carter,100044233036282,no match,missing
+288,Jody,Hice,Jody B. Hice,rep,GA,10.0,Republican,CongressmanJodyHice,,0,no match,missing
+290,Rick,Allen,Rick W. Allen,rep,GA,12.0,Republican,CongressmanRickAllen,Congressman Rick Allen,100044564190648,no match,missing
+294,John,Moolenaar,John R. Moolenaar,rep,MI,4.0,Republican,RepMoolenaar,,0,no match,missing
+296,Brenda,Lawrence,Brenda L. Lawrence,rep,MI,14.0,Democrat,395759603917487,Rep. Brenda Lawrence,100044327024736,no match,missing
+300,Lee,Zeldin,Lee M. Zeldin,rep,NY,1.0,Republican,RepLeeZeldin,,0,no match,missing
+301,Kathleen,Rice,Kathleen M. Rice,rep,NY,4.0,Democrat,RepKathleenRice,,0,no match,missing
+302,Elise,Stefanik,Elise M. Stefanik,rep,NY,21.0,Republican,RepEliseStefanik,Rep. Elise Stefanik,100044381141073,no match,missing
+304,Brendan,Boyle,Brendan F. Boyle,rep,PA,2.0,Democrat,CongressmanBoyle,,0,no match,missing
+306,Donald,Beyer,"Donald S. Beyer, Jr.",rep,VA,8.0,Democrat,RepDonBeyer,Congressman Don Beyer,100044424588071,no match,missing
+307,Stacey,Plaskett,Stacey E. Plaskett,rep,VI,0.0,Democrat,repstaceyplaskett,Congresswoman Stacey Plaskett,100050806146320,no match,missing
+309,Glenn,Grothman,Glenn Grothman,rep,WI,6.0,Republican,RepGrothman,,0,773301386014306,missing
+310,Alexander,Mooney,Alexander Mooney,rep,WV,2.0,Republican,CongressmanAlexMooney,Congressman Alex Mooney,100044928491860,no match,missing
+311,Aumua Amata,Radewagen,Aumua Amata Coleman Radewagen,rep,AS,0.0,Republican,aumuaamata,,0,no match,missing
+323,Margaret,Hassan,Margaret Wood Hassan,sen,NH,,Democrat,SenatorHassan,,0,no match,missing
+325,Bradley,Schneider,Bradley Scott Schneider,rep,IL,10.0,Democrat,CongressmanBradSchneider,Congressman Brad Schneider,100044780869664,no match,missing
+326,Tom,O’Halleran,Tom O’Halleran,rep,AZ,1.0,Democrat,repohalleran,,0,no match,missing
+328,Ro,Khanna,Ro Khanna,rep,CA,17.0,Democrat,RepRoKhanna,Rep. Ro Khanna,100044515176138,317667194946264,missing
+330,Salud,Carbajal,Salud O. Carbajal,rep,CA,24.0,Democrat,repsaludcarbajal,,0,no match,missing
+332,J.,Correa,J. Luis Correa,rep,CA,46.0,Democrat,RepLouCorrea,,0,no match,missing
+335,Neal,Dunn,Neal P. Dunn,rep,FL,2.0,Republican,drnealdunnfl2,,0,no match,missing
+336,John,Rutherford,John H. Rutherford,rep,FL,4.0,Republican,RepRutherfordFL,Congressman John Rutherford,100044334071227,no match,missing
+337,Al,Lawson,"Al Lawson, Jr.",rep,FL,5.0,Democrat,RepAlLawsonJr,Rep Al Lawson Jr.,100058062459613,no match,missing
+338,Stephanie,Murphy,Stephanie N. Murphy,rep,FL,7.0,Democrat,RepStephMurphy,U.S. Congresswoman Stephanie Murphy,100044901450384,no match,missing
+340,Val,Demings,Val Butler Demings,rep,FL,10.0,Democrat,RepresentativeValDemings,,0,no match,missing
+342,Brian,Mast,Brian J. Mast,rep,FL,18.0,Republican,repbrianmast,Congressman Brian Mast,100044157383419,no match,missing
+343,A.,Ferguson,A. Drew Ferguson IV,rep,GA,3.0,Republican,RepDrewFerguson,Congressman Drew Ferguson,100044629290307,no match,missing
+344,Raja,Krishnamoorthi,Raja Krishnamoorthi,rep,IL,8.0,Democrat,congressmanraja,,0,1844412109137727,missing
+357,Thomas,Suozzi,Thomas R. Suozzi,rep,NY,3.0,Democrat,RepTomSuozzi,,0,no match,missing
+359,Brian,Fitzpatrick,Brian K. Fitzpatrick,rep,PA,1.0,Republican,repbrianfitzpatrick,,0,no match,missing
+361,Jenniffer,González-Colón,Jenniffer González-Colón,rep,PR,0.0,Republican,RepJennifferGonzalezColon,,0,no match,missing
+364,Jodey,Arrington,Jodey C. Arrington,rep,TX,19.0,Republican,JodeyArrington,,0,no match,missing
+372,John,Curtis,John R. Curtis,rep,UT,3.0,Republican,RepJohnCurtis,,0,no match,missing
+380,Joseph,Morelle,Joseph D. Morelle,rep,NY,25.0,Democrat,,,0,no match,missing
+394,W.,Steube,W. Gregory Steube,rep,FL,17.0,Republican,,,0,no match,missing
+396,Michael,San Nicolas,Michael F. Q. San Nicolas,rep,GU,0.0,Democrat,CongressmanMichaelF.Q.SanNicolas,Congressman Michael F.Q. San Nicolas - Guam,100057709434580,no match,missing
+397,Cynthia,Axne,Cynthia Axne,rep,IA,3.0,Democrat,,,0,no match,missing
+399,Jesús,García,"Jesús G. ""Chuy"" García",rep,IL,4.0,Democrat,,,0,no match,missing
+402,James,Baird,James R. Baird,rep,IN,4.0,Republican,,,0,no match,missing
+407,David,Trone,David J. Trone,rep,MD,6.0,Democrat,,,0,no match,missing
+410,Haley,Stevens,Haley M. Stevens,rep,MI,11.0,Democrat,,,0,no match,missing
+420,Jefferson,Van Drew,Jefferson Van Drew,rep,NJ,2.0,Republican,,,0,no match,missing
+428,Madeleine,Dean,Madeleine Dean,rep,PA,4.0,Democrat,,,0,143909879708775,missing
+430,Daniel,Meuser,Daniel Meuser,rep,PA,9.0,Republican,,,0,no match,missing
+431,John,Joyce,John Joyce,rep,PA,13.0,Republican,,,0,1054570378014827,missing
+433,William,Timmons,William R. Timmons IV,rep,SC,4.0,Republican,,,0,no match,missing
+437,Mark,Green,Mark E. Green,rep,TN,7.0,Republican,,,0,no match,missing
+444,Sylvia,Garcia,Sylvia R. Garcia,rep,TX,29.0,Democrat,,,0,no match,missing
+445,Colin,Allred,Colin Z. Allred,rep,TX,32.0,Democrat,,,0,no match,missing
+446,Elaine,Luria,Elaine G. Luria,rep,VA,2.0,Democrat,,,0,no match,missing
+448,Abigail,Spanberger,Abigail Davis Spanberger,rep,VA,7.0,Democrat,,,0,no match,missing
+450,Kim,Schrier,Kim Schrier,rep,WA,8.0,Democrat,,,0,1354622541311687,missing
+452,Carol,Miller,Carol D. Miller,rep,WV,3.0,Republican,,,0,no match,missing
+457,Jared,Golden,Jared F. Golden,rep,ME,2.0,Democrat,,,0,no match,missing
+460,Gregory,Murphy,Gregory F. Murphy,rep,NC,3.0,Republican,RepGregMurphy,,0,no match,missing
+462,Thomas,Tiffany,Thomas P. Tiffany,rep,WI,7.0,Republican,,,0,no match,missing
+466,Cynthia,Lummis,Cynthia M. Lummis,sen,WY,,Republican,,,0,no match,missing
+473,Jerry,Carl,Jerry L. Carl,rep,AL,1.0,Republican,,,0,no match,missing
+481,C.,Franklin,C. Scott Franklin,rep,FL,15.0,Republican,,,0,no match,missing
+487,Andrew,Clyde,Andrew S. Clyde,rep,GA,9.0,Republican,,,0,no match,missing
+488,Marjorie,Greene,Marjorie Taylor Greene,rep,GA,14.0,Republican,,,0,1809715209318581,missing
+489,Kaialiʻi,Kahele,Kaiali’i Kahele,rep,HI,2.0,Democrat,,,0,no match,missing
+494,Mary,Miller,Mary E. Miller,rep,IL,15.0,Republican,,,0,no match,missing
+495,Frank,Mrvan,Frank J. Mrvan,rep,IN,1.0,Democrat,,,0,no match,missing
+501,Lisa,McClain,Lisa C. McClain,rep,MI,10.0,Republican,,,0,no match,missing
+504,Matthew,Rosendale,Matthew M. Rosendale,rep,MT,0.0,Republican,,,0,no match,missing
+505,Deborah,Ross,Deborah K. Ross,rep,NC,2.0,Democrat,,,0,no match,missing
+506,Kathy,Manning,Kathy E. Manning,rep,NC,6.0,Democrat,,,0,no match,missing
+510,Andrew,Garbarino,Andrew R. Garbarino,rep,NY,2.0,Republican,,,0,197834643693711,missing
+515,Stephanie,Bice,Stephanie I. Bice,rep,OK,5.0,Republican,,,0,no match,missing
+525,Blake,Moore,Blake D. Moore,rep,UT,1.0,Republican,,,0,no match,missing
+532,Raphael,Warnock,Raphael G. Warnock,sen,GA,,Democrat,,,0,no match,missing
+536,Melanie,Stansbury,Melanie A. Stansbury,rep,NM,1.0,Democrat,,,0,no match,missing
