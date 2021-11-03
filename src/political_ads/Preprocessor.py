@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import json
-
+import os
 from pandas.core.frame import DataFrame
 from pandas.io.clipboards import read_clipboard
 
@@ -24,6 +24,35 @@ class Preprocessor:
         else:
             higher = entry["upper_bound"]
         return int(int(lower) + int(higher)) / 2
+
+    # merge all single files into one bigger!
+    def merge_files(self, directory: str):
+        dir = r'single_files'
+        final_list = []
+        files = set() # iterate over files in that directory and put in set
+        for filename in os.listdir(dir):
+            print(filename)
+                    # checking if it is a file
+            if filename.endswith("txt"):
+                    files.add(filename)
+        while len(files) > 0:
+            file = files.pop()
+            try:
+                print(dir + "\\" + file)
+                joined_path = dir + "\\" + file
+                data = preprocess.read_dataset(joined_path)
+                final_list.extend(data) # concatenate data to list
+                print(len(final_list))
+            except:
+                files.add(file) # add file back
+                print(f"There was an error with file {file}")
+
+        jsonFile = open("data\\all_politicians_aggregated.txt", "w") # filepath and name specified here!
+        final_file_str = json.dumps(final_list)
+        jsonFile.write(final_file_str)
+        jsonFile.close()
+
+
 
     def upper_bound(self, entry: dict): # This function returns the average of a range (for impressions and spend)
         if entry.get("upper_bound") == None:
@@ -51,3 +80,29 @@ class Preprocessor:
         # transform into datetime
         file["ad_creation_time"] = pd.to_datetime(file["ad_creation_time"])
         return file
+
+
+    def group_by_pages(self, data: pd.DataFrame) -> pd.DataFrame:    
+        '''
+        Amount spend by facebook page
+        '''
+        by_page = data.groupby("page_name").agg(
+            # Aggregate no of ads
+            no_ads = ('id', 'count'),
+            # Aggregate sum of spend & total impressions generated
+            spend_lo = ('spend_lo', 'sum'),
+            spend_hi = ('spend_hi', 'sum'),
+            impressions_lo = ('impressions_lo', 'sum'),
+            impressions_hi = ('impressions_hi', 'sum'),
+            # Average number of impressions & spend per ad
+            avg_impressions = ('impressions', 'mean'),
+            avg_spend = ('spend', 'mean')
+
+        ).reset_index()
+        
+        return by_page
+
+
+
+preprocess = Preprocessor()
+preprocess.merge_files("..\\..\\single_files\\")
