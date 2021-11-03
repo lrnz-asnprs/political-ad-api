@@ -26,10 +26,10 @@ class Preprocessor:
         return int(int(lower) + int(higher)) / 2
 
     def merge_files(self, directory: str):
-
+        dir = r'..\..\single_files'
         final_list = []
         files = set() # iterate over files in that directory and put in set
-        for filename in os.listdir(directory):
+        for filename in os.listdir(dir):
             # checking if it is a file
             if os.path.isfile(filename) and filename.endswith("txt"):
                 files.add(filename)
@@ -37,7 +37,7 @@ class Preprocessor:
         while len(files) > 0:
             file = files.pop()
             try:
-                data = self.read_dataset(directory.join(file))
+                data = self.read_dataset(dir.join(file))
                 final_list.extend(data) # concatenate data to list
             except:
                 files.add(file) # add file back
