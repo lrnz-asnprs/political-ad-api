@@ -1,2 +1,0 @@
-dict = {    'Henry C. \"Hank\" Johnson, Jr.': ['Henry Quinn Johnson for PBC Circuit Court Judge, Group 25', ],
-            ''
