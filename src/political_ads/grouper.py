@@ -51,7 +51,7 @@ class Grouper:
     # Takes as input dataframe containing ads and groups them by day
     def group_ads_by_party_by_day(self, data: pd.DataFrame, party: str) -> pd.DataFrame:
 
-        congress = pd.read_csv("..\\src\\data_sets\\legislators_fb_info.csv") # read congress member info
+        congress = pd.read_csv("..\\src\\data_sets\\legislators_fb_info_final.csv") # read congress member info
         
         party_members = congress[congress["party"] == party]  # get all page id's that match the given party
 
@@ -60,6 +60,9 @@ class Grouper:
         data_party_by_day = self.group_ads_by_day(data_party_members) # group those ads by day
 
         return data_party_by_day
+
+
+
 
 
 
