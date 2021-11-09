@@ -112,7 +112,7 @@
 110,110,Mike,Kelly,Mike Kelly,rep,PA,16.0,Republican,191056827594903,Representative Mike Kelly,100044579347462,331707031806
 111,111,Ron,Kind,Ron Kind,rep,WI,3.0,Democrat,repronkind,Rep. Ron Kind,100044805845460,6396394069
 112,112,Adam,Kinzinger,Adam Kinzinger,rep,IL,16.0,Republican,RepKinzinger,Rep. Adam Kinzinger,100044305065600,62009756135
-113,113,Doug,Lamborn,Doug Lamborn,rep,CO,5.0,Republican,CongressmanDougLamborn,Congressman Doug Lamborn,100045095824211,219926985268795
+113,113,Doug,Lamborn,Doug Lamborn,rep,CO,5.0,Republican,CongressmanDougLamborn,Congressman Doug Lamborn,100045095824211,no match
 114,114,James,Langevin,James R. Langevin,rep,RI,2.0,Democrat,CongressmanJimLangevin,,0,124939484209078
 115,115,James,Lankford,James Lankford,sen,OK,,Republican,SenatorLankford,Senator James Lankford,100044432946364,151092200743
 116,116,Rick,Larsen,Rick Larsen,rep,WA,2.0,Democrat,RepRickLarsen,Representative Rick Larsen,100044630520266,20809300888
@@ -194,7 +194,7 @@
 192,192,Linda,Sánchez,Linda T. Sánchez,rep,CA,38.0,Democrat,CongresswomanLindaSanchez,,0,29921386086
 193,193,Bennie,Thompson,Bennie G. Thompson,rep,MS,2.0,Democrat,CongressmanBennieGThompson,,0,1839188776364414
 194,194,Mike,Thompson,Mike Thompson,rep,CA,5.0,Democrat,RepMikeThompson,,0,112743960260284
-195,195,Glenn,Thompson,Glenn Thompson,rep,PA,15.0,Republican,CongressmanGT,Glenn Thompson,100057630506007,243590732373934
+195,195,Glenn,Thompson,Glenn Thompson,rep,PA,15.0,Republican,CongressmanGT,Glenn Thompson,100057630506007,no match
 196,196,John,Thune,John Thune,sen,SD,,Republican,,,0,63002536261
 197,197,Paul,Tonko,Paul Tonko,rep,NY,20.0,Democrat,reppaultonko,Paul D. Tonko,100045149076953,30671144824
 198,198,Patrick,Toomey,Patrick J. Toomey,sen,PA,,Republican,senatortoomey,,0,89324781720
@@ -204,7 +204,7 @@
 202,202,Nydia,Velázquez,Nydia M. Velázquez,rep,NY,7.0,Democrat,8037068318,,0,110909022379213
 203,203,Tim,Walberg,Tim Walberg,rep,MI,7.0,Republican,RepWalberg,Rep Tim Walberg,100044152703467,9268326479
 204,204,Debbie,Wasserman Schultz,Debbie Wasserman Schultz,rep,FL,23.0,Democrat,RepDWS,Rep. Debbie Wasserman Schultz,100044638800139,6444958138
-205,205,Maxine,Waters,Maxine Waters,rep,CA,43.0,Democrat,MaxineWaters,,0,762930140568210
+205,205,Maxine,Waters,Maxine Waters,rep,CA,43.0,Democrat,MaxineWaters,,0,no match
 206,206,Daniel,Webster,Daniel Webster,rep,FL,11.0,Republican,RepWebster,,0,188572961157305
 207,207,Peter,Welch,Peter Welch,rep,VT,0.0,Democrat,PeterWelch,,0,287477271319818
 208,208,Joe,Wilson,Joe Wilson,rep,SC,2.0,Republican,JoeWilson,,0,143654793536
@@ -247,7 +247,7 @@
 245,245,Daniel,Kildee,Daniel T. Kildee,rep,MI,5.0,Democrat,RepDanKildee,,0,175335262547741
 246,246,Ann,Wagner,Ann Wagner,rep,MO,2.0,Republican,RepAnnWagner,,0,127216280686110
 247,247,Steve,Daines,Steve Daines,sen,MT,,Republican,SteveDainesMT,Senator Steve Daines,100044199231545,176789922364429
-248,248,Richard,Hudson,Richard Hudson,rep,NC,8.0,Republican,RepRichHudson,,0,106119737934606
+248,248,Richard,Hudson,Richard Hudson,rep,NC,8.0,Republican,RepRichHudson,,0,229083393820990
 249,249,Kevin,Cramer,Kevin Cramer,sen,ND,,Republican,CongressmanKevinCramer,,0,251734676525
 250,250,Deb,Fischer,Deb Fischer,sen,NE,,Republican,senatordebfischer,,0,109592402468562
 251,251,Ann,Kuster,Ann Kuster,rep,NH,2.0,Democrat,CongresswomanAnnieKuster,Congresswoman Annie Kuster,100044720431222,198923770576
@@ -278,7 +278,7 @@
 276,276,Donald,Norcross,Donald Norcross,rep,NJ,1.0,Democrat,DonaldNorcrossNJ,,0,591968597559569
 277,277,Alma,Adams,Alma S. Adams,rep,NC,12.0,Democrat,CongresswomanAdams,"Congresswoman Alma S. Adams, PhD",100044794400197,659925804037339
 278,278,Gary,Palmer,Gary J. Palmer,rep,AL,6.0,Republican,CongressmanGaryPalmer,Congressman Gary Palmer,100044530758499,238609612987036
-279,279,J.,Hill,J. Hill,rep,AR,2.0,Republican,RepFrenchHill,,0,714442118654551
+279,279,J.,Hill,J. Hill,rep,AR,2.0,Republican,RepFrenchHill,,0,1374601146109275
 280,280,Bruce,Westerman,Bruce Westerman,rep,AR,4.0,Republican,RepWesterman,Congressman Bruce Westerman,100044627318649,521924961194913
 281,281,Ruben,Gallego,Ruben Gallego,rep,AZ,7.0,Democrat,RepRubenGallego,Rep. Ruben Gallego,100044404540330,161183970656851
 282,282,Mark,DeSaulnier,Mark DeSaulnier,rep,CA,11.0,Democrat,RepMarkDeSaulnier,Rep. Mark DeSaulnier,100044288956834,213999292067099
@@ -313,7 +313,7 @@
 311,311,Aumua Amata,Radewagen,Aumua Amata Coleman Radewagen,rep,AS,0.0,Republican,aumuaamata,,0,no match
 312,312,Dan,Sullivan,Dan Sullivan,sen,AK,,Republican,SenDanSullivan,Senator Dan Sullivan,100044483767390,698400060189827
 313,313,Joni,Ernst,Joni Ernst,sen,IA,,Republican,senjoniernst,,0,586751814690068
-314,314,Thom,Tillis,Thom Tillis,sen,NC,,Republican,SenatorThomTillis,,0,104987704684453
+314,314,Thom,Tillis,Thom Tillis,sen,NC,,Republican,SenatorThomTillis,,0,375301089246439
 315,315,Mike,Rounds,Mike Rounds,sen,SD,,Republican,SenatorMikeRounds,U.S. Senator Mike Rounds,100044238915948,370185306396534
 316,316,Benjamin,Sasse,Ben Sasse,sen,NE,,Republican,SenatorSasse,,0,207425149422656
 317,317,Trent,Kelly,Trent Kelly,rep,MS,1.0,Republican,reptrentkelly,Representative Trent Kelly,100044573081370,855135964527710
@@ -321,7 +321,7 @@
 319,319,Warren,Davidson,Warren Davidson,rep,OH,8.0,Republican,CongressmanWarrenDavidson,Congressman Warren Davidson,100044783221697,1671503326464563
 320,320,James,Comer,James Comer,rep,KY,1.0,Republican,congressmancomer,Congressman James Comer,100044648137998,1888216188065538
 321,321,Dwight,Evans,Dwight Evans,rep,PA,3.0,Democrat,RepDwightEvans,,0,895094683900337
-322,322,John,Kennedy,John Kennedy,sen,LA,,Republican,JohnKennedyLouisiana,,0,491347857894708
+322,322,John,Kennedy,John Kennedy,sen,LA,,Republican,JohnKennedyLouisiana,,0,160513344045084
 323,323,Margaret,Hassan,Margaret Wood Hassan,sen,NH,,Democrat,SenatorHassan,,0,134535726580904
 324,324,Catherine,Cortez Masto,Catherine Cortez Masto,sen,NV,,Democrat,SenatorCortezMasto,,0,933921763326425
 325,325,Bradley,Schneider,Bradley Scott Schneider,rep,IL,10.0,Democrat,CongressmanBradSchneider,Congressman Brad Schneider,100044780869664,401029529980053
@@ -532,7 +532,7 @@
 530,530,Alejandro,Padilla,Alex Padilla,sen,CA,,Democrat,,,0,471134912978464
 531,531,Jon,Ossoff,Jon Ossoff,sen,GA,,Democrat,,,0,1336293769761923
 532,532,Raphael,Warnock,Raphael G. Warnock,sen,GA,,Democrat,,,0,109111900634787
-533,533,Claudia,Tenney,Claudia Tenney,rep,NY,22.0,Republican,,,0,2220944231249057
+533,533,Claudia,Tenney,Claudia Tenney,rep,NY,22.0,Republican,,,0,183020072173458
 534,534,Julia,Letlow,Julia Letlow,rep,LA,5.0,Republican,,,0,101501768597429
 535,535,Troy,Carter,Troy A. Carter,rep,LA,2.0,Democrat,,,0,876319055750124
 536,536,Melanie,Stansbury,Melanie A. Stansbury,rep,NM,1.0,Democrat,,,0,128551641258085
