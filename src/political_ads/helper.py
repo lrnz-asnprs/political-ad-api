@@ -1,10 +1,25 @@
 #Get gender distribution
+list_of_failed_g = []
+
 def get_gender_distribution(lst:list):
-    percentage = 0.0
-    for item in lst:
-        if item['gender'] == 'male':
-            percentage += float(item['percentage'])
-    return percentage
+    
+    #initializing percentages
+    percentage_male = 0.0
+    percentage_female = 0.0
+    percentage_unknown = 0.0
+
+    try:
+        for item in lst:
+            if item['gender'] == 'male':
+                percentage_male += float(item['percentage'])
+            elif item['gender'] == 'female':
+                percentage_female += float(item['percentage'])
+            elif item['gender'] == 'Unknown':
+                percentage_unknown += float(item['percentage'])
+    except:
+        list_of_failed_g.append(lst)
+           
+    return percentage_male, percentage_female, percentage_unknown
 
 #Get age distribution
 def get_age_distribution(lst:list, all_ages=False):
