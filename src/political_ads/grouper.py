@@ -65,6 +65,7 @@ class Grouper:
         ).reset_index()
 
         congress = pd.read_csv("..\\src\\data_sets\\legislators_fb_info_final.csv") # read congress member info
+        # Check if available
         by_page["party"] = by_page["page_id"].apply(lambda x: congress[congress["page_id"] == x]["party"].values[0]) # add party to pages
 
         return by_page
