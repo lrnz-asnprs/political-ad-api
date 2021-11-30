@@ -28,9 +28,10 @@ def merge_files(directory: str):
                 files.add(file) # add file back
                 print(f"There was an error with file {file}")
 
-        jsonFile = open("data\\all_politicians_aggregated.txt", "w") # filepath and name specified here!
+        jsonFile = open("data\\all_politicians_aggregated_final.txt", "w") # filepath and name specified here!
         final_file_str = json.dumps(final_list)
         jsonFile.write(final_file_str)
         jsonFile.close()
 
 merge_files("single_files")
+print("done")

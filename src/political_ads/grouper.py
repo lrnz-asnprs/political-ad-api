@@ -76,7 +76,10 @@ class Grouper:
 
         congress = pd.read_csv("..\\src\\data_sets\\legislators_fb_info_final.csv") # read congress member info
         
-        party_members = congress[congress["party"] == party]  # get all page id's that match the given party
+        if party == "Democrat": # If democrats, also include independent
+            party_members = congress[(congress["party"] == party) | (congress["party"] == "Independent")]  # get all page id's that match the given party
+        else: 
+            party_members = congress[congress["party"] == party]  # get all page id's that match the given party
 
         data_party_members = data[data.page_id.isin(party_members.page_id)] # get all the ads where page id matches with the party page id's
 
@@ -89,7 +92,10 @@ class Grouper:
 
         congress = pd.read_csv("..\\src\\data_sets\\legislators_fb_info_final.csv") # read congress member info
         
-        party_members = congress[congress["party"] == party]  # get all page id's that match the given party
+        if party == "Democrat": # If democrats, also include independent
+            party_members = congress[(congress["party"] == party) | (congress["party"] == "Independent")]  # get all page id's that match the given party
+        else: 
+            party_members = congress[congress["party"] == party]   # get all page id's that match the given party
 
         data_party_members = data[data.page_id.isin(party_members.page_id)] # get all the ads where page id matches with the party page id's
 
