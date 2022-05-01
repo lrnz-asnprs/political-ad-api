@@ -212,15 +212,3 @@ class API_request:
         # final_str = json.dumps(final_response) 
 
         return final_response
-
-        # # load existing file
-        # with open('..\\data\\dataset_by_pageId_appended.txt') as f:
-        #     existing_file = json.load(f)
-
-        # existing_file.extend(final_response) # add string to file
-
-        # jsonFile = open("..\\data\\dataset_by_pageId_appended.txt", "w") # filepath and name specified here!
-        
-        # final_file_str = json.dumps(existing_file)
-        # jsonFile.write(final_file_str)
-        # jsonFile.close()
