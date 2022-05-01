@@ -10,7 +10,7 @@ For a full reference, please see our paper: (https://github.com/lrnz-asnprs/poli
 
 ## Main results
 
-<img src="plots/top politicians/top_CLIMATE_advertisers_by_spend.pdf" alt="Alt text" title="Optional title">
+<img src="plots/top politicians/top_CLIMATE_advertisers_by_spend.png" alt="Alt text" title="Optional title">
 
 ### Dependencies
 
