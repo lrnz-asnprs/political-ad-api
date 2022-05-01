@@ -15,7 +15,7 @@ For a full reference, please see our paper: (https://github.com/lrnz-asnprs/poli
 <img
   src="plots/top politicians/top_CLIMATE_advertisers_by_spend.png"
   alt="Alt text"
-  title="Optional title"
+  title="Politicians according to top spend"
   style="display: inline-block; margin: auto; max-width: 300px">
 
 ### How do the temporal dynamics of climate related advertisements by US congress members look like?
@@ -23,7 +23,7 @@ For a full reference, please see our paper: (https://github.com/lrnz-asnprs/poli
 <img
   src="plots/time series/climate_both_spend_inclBernie-1.jpg"
   alt="Alt text"
-  title="Optional title"
+  title="Temporal dynamics of climate ads spending"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### How is the demographic distribution of advertisements characterized?
@@ -31,29 +31,36 @@ For a full reference, please see our paper: (https://github.com/lrnz-asnprs/poli
 <img
   src="plots/demographics/Democrat_climate_ads_demographic_pyramid-1.jpg"
   alt="Alt text"
-  title="Optional title"
+  title="Democrats demographic distribution"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+(X-axis represents total impressions generated)
 
 <img
   src="plots/demographics/Republican_climate_ads_demographic_pyramid-1.jpg"
   alt="Alt text"
-  title="Optional title"
+  title="Repuplicans demographic distribution"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+(X-axis represents total impressions generated)
 
 ### How is the geographic distribution of advertisements characterized?
 
 <img
   src="plots/geographics/Democrat_climate_ads_geographic_distribution_popnormalized-1.jpg"
   alt="Alt text"
-  title="Optional title"
+  title="Democrats geographic distribution"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+(Impressions generated for each US state normalized by state population size)
   
  <img
   src="plots/geographics/Republican_climate_ads_geographic_distribution_popnormalized-1.jpg"
   alt="Alt text"
-  title="Optional title"
+  title="Republicans geopgrahic distribution"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
+(Impressions generated for each US state normalized by state population size)
 
 ### Executing program
 
