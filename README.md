@@ -16,7 +16,7 @@ For a full reference, please see our paper: (https://github.com/lrnz-asnprs/poli
   src="plots/top politicians/top_CLIMATE_advertisers_by_spend.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: auto; max-width: 300px">
 
 ### How do the temporal dynamics of climate related advertisements by US congress members look like?
 
