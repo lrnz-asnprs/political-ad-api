@@ -1,0 +1,539 @@
+,first_name,last_name,full_name,type,state,district,party,page_id
+0,Sherrod,Brown,Sherrod Brown,sen,OH,,Democrat,6266829799
+1,Maria,Cantwell,Maria Cantwell,sen,WA,,Democrat,9351652533
+2,Benjamin,Cardin,Benjamin L. Cardin,sen,MD,,Democrat,
+3,Thomas,Carper,Thomas R. Carper,sen,DE,,Democrat,165571920202215
+4,Robert,Casey,"Robert P. Casey, Jr.",sen,PA,,Democrat,6781166087
+5,Dianne,Feinstein,Dianne Feinstein,sen,CA,,Democrat,6314129300
+6,Amy,Klobuchar,Amy Klobuchar,sen,MN,,Democrat,7606381190
+7,Robert,Menendez,Robert Menendez,sen,NJ,,Democrat,6520632191
+8,Bernard,Sanders,Bernard Sanders,sen,VT,,Independent,124955570892789
+9,Debbie,Stabenow,Debbie Stabenow,sen,MI,,Democrat,8408030527
+10,Jon,Tester,Jon Tester,sen,MT,,Democrat,6316744206
+11,Sheldon,Whitehouse,Sheldon Whitehouse,sen,RI,,Democrat,10519905140
+12,John,Barrasso,John Barrasso,sen,WY,,Republican,1099779163410386
+13,Roger,Wicker,Roger F. Wicker,sen,MS,,Republican,6690879844
+14,Susan,Collins,Susan M. Collins,sen,ME,,Republican,419237048158257
+15,John,Cornyn,John Cornyn,sen,TX,,Republican,355316521236121
+16,Richard,Durbin,Richard J. Durbin,sen,IL,,Democrat,6170309302
+17,Lindsey,Graham,Lindsey Graham,sen,SC,,Republican,165987503528599
+18,James,Inhofe,James M. Inhofe,sen,OK,,Republican,7686808625
+19,Mitch,McConnell,Mitch McConnell,sen,KY,,Republican,259130650776119
+20,Jeff,Merkley,Jeff Merkley,sen,OR,,Democrat,496696933682736
+21,John,Reed,Jack Reed,sen,RI,,Democrat,1411485062416786
+22,James,Risch,James E. Risch,sen,ID,,Republican,10148632367
+23,Jeanne,Shaheen,Jeanne Shaheen,sen,NH,,Democrat,6691963292
+24,Mark,Warner,Mark R. Warner,sen,VA,,Democrat,181467702005600
+25,Kirsten,Gillibrand,Kirsten E. Gillibrand,sen,NY,,Democrat,6820348410
+26,Christopher,Coons,Christopher A. Coons,sen,DE,,Democrat,7209432197
+27,Joe,Manchin,"Joe Manchin, III",sen,WV,,Democrat,225201434308108
+28,Robert,Aderholt,Robert B. Aderholt,rep,AL,4.0,Republican,110557007154443
+29,Tammy,Baldwin,Tammy Baldwin,sen,WI,,Democrat,7357041101
+30,Karen,Bass,Karen Bass,rep,CA,37.0,Democrat,47918118982
+31,Michael,Bennet,Michael F. Bennet,sen,CO,,Democrat,57495285387
+32,Gus,Bilirakis,Gus M. Bilirakis,rep,FL,12.0,Republican,284624954962951
+33,Sanford,Bishop,"Sanford D. Bishop, Jr.",rep,GA,2.0,Democrat,200259660733791
+34,Marsha,Blackburn,Marsha Blackburn,sen,TN,,Republican,143089732792
+35,Earl,Blumenauer,Earl Blumenauer,rep,OR,3.0,Democrat,9252726787
+36,Richard,Blumenthal,Richard Blumenthal,sen,CT,,Democrat,233344132673
+37,Roy,Blunt,Roy Blunt,sen,MO,,Republican,6541047167
+38,John,Boozman,John Boozman,sen,AR,,Republican,314808986017
+39,Kevin,Brady,Kevin Brady,rep,TX,8.0,Republican,204845412960834
+40,Mo,Brooks,Mo Brooks,rep,AL,5.0,Republican,105473048278
+41,Vern,Buchanan,Vern Buchanan,rep,FL,16.0,Republican,105464510836
+42,Larry,Bucshon,Larry Bucshon,rep,IN,8.0,Republican,151186089494
+43,Michael,Burgess,Michael C. Burgess,rep,TX,26.0,Republican,104898837935556
+44,Richard,Burr,Richard Burr,sen,NC,,Republican,1596102157365797
+45,George,Butterfield,G. K. Butterfield,rep,NC,1.0,Democrat,108864587529774
+46,Ken,Calvert,Ken Calvert,rep,CA,42.0,Republican,9157920604
+47,Shelley,Capito,Shelley Moore Capito,sen,WV,,Republican,492934580740220
+48,André,Carson,André Carson,rep,IN,7.0,Democrat,123884330964019
+49,John,Carter,John R. Carter,rep,TX,31.0,Republican,6766783198
+50,Bill,Cassidy,Bill Cassidy,sen,LA,,Republican,80987211775
+51,Kathy,Castor,Kathy Castor,rep,FL,14.0,Democrat,1756203764401219
+52,Steve,Chabot,Steve Chabot,rep,OH,1.0,Republican,105908984600679
+53,Judy,Chu,Judy Chu,rep,CA,27.0,Democrat,41228315130
+54,David,Cicilline,David N. Cicilline,rep,RI,1.0,Democrat,9514417573
+55,Yvette,Clarke,Yvette D. Clarke,rep,NY,9.0,Democrat,208375572621634
+56,Emanuel,Cleaver,Emanuel Cleaver,rep,MO,5.0,Democrat,7954512692
+57,James,Clyburn,James E. Clyburn,rep,SC,6.0,Democrat,127744320598870
+58,Steve,Cohen,Steve Cohen,rep,TN,9.0,Democrat,6358769182
+59,Tom,Cole,Tom Cole,rep,OK,4.0,Republican,239866352781313
+60,Gerald,Connolly,Gerald E. Connolly,rep,VA,11.0,Democrat,15224565129
+61,Jim,Cooper,Jim Cooper,rep,TN,5.0,Democrat,318714801543186
+62,Jim,Costa,Jim Costa,rep,CA,16.0,Democrat,704516012940877
+63,Joe,Courtney,Joe Courtney,rep,CT,2.0,Democrat,6596078916
+64,Michael,Crapo,Mike Crapo,sen,ID,,Republican,286049384763373
+65,Eric,Crawford,"Eric A. ""Rick"" Crawford",rep,AR,1.0,Republican,2429204567121956
+66,Henry,Cuellar,Henry Cuellar,rep,TX,28.0,Democrat,248922701788783
+67,Danny,Davis,Danny K. Davis,rep,IL,7.0,Democrat,109673587226930
+68,Peter,DeFazio,Peter A. DeFazio,rep,OR,4.0,Democrat,7090829369
+69,Diana,DeGette,Diana DeGette,rep,CO,1.0,Democrat,9068720389
+70,Rosa,DeLauro,Rosa L. DeLauro,rep,CT,3.0,Democrat,6274109770
+71,Scott,DesJarlais,Scott DesJarlais,rep,TN,4.0,Republican,
+72,Theodore,Deutch,Theodore E. Deutch,rep,FL,22.0,Democrat,187975486067
+73,Mario,Diaz-Balart,Mario Diaz-Balart,rep,FL,25.0,Republican,9312415125
+74,Lloyd,Doggett,Lloyd Doggett,rep,TX,35.0,Democrat,6433783047
+75,Michael,Doyle,Michael F. Doyle,rep,PA,18.0,Democrat,174750213023790
+76,Jeff,Duncan,Jeff Duncan,rep,SC,3.0,Republican,612876695419919
+77,Anna,Eshoo,Anna G. Eshoo,rep,CA,18.0,Democrat,323937814315116
+78,Charles,Fleischmann,"Charles J. ""Chuck"" Fleischmann",rep,TN,3.0,Republican,62808739121
+79,Jeff,Fortenberry,Jeff Fortenberry,rep,NE,1.0,Republican,102247451379798
+80,Virginia,Foxx,Virginia Foxx,rep,NC,5.0,Republican,116487955096504
+81,John,Garamendi,John Garamendi,rep,CA,3.0,Democrat,182567716746
+82,Bob,Gibbs,Bob Gibbs,rep,OH,7.0,Republican,191159267565100
+83,Louie,Gohmert,Louie Gohmert,rep,TX,1.0,Republican,
+84,Paul,Gosar,Paul A. Gosar,rep,AZ,4.0,Republican,148700451434
+85,Kay,Granger,Kay Granger,rep,TX,12.0,Republican,112767930190251
+86,Charles,Grassley,Chuck Grassley,sen,IA,,Republican,1626709737546995
+87,Sam,Graves,Sam Graves,rep,MO,6.0,Republican,258648987534331
+88,Al,Green,Al Green,rep,TX,9.0,Democrat,224027854297805
+89,H.,Griffith,H. Morgan Griffith,rep,VA,9.0,Republican,109504242401933
+90,Raúl,Grijalva,Raúl M. Grijalva,rep,AZ,3.0,Democrat,7707979947
+91,Brett,Guthrie,Brett Guthrie,rep,KY,2.0,Republican,21836146886
+92,Andy,Harris,Andy Harris,rep,MD,1.0,Republican,113771221981233
+93,Vicky,Hartzler,Vicky Hartzler,rep,MO,4.0,Republican,113511682005041
+94,Martin,Heinrich,Martin Heinrich,sen,NM,,Democrat,137363449669160
+95,Jaime,Herrera Beutler,Jaime Herrera Beutler,rep,WA,3.0,Republican,177551525610164
+96,Brian,Higgins,Brian Higgins,rep,NY,26.0,Democrat,15087035334
+97,James,Himes,James A. Himes,rep,CT,4.0,Democrat,7530258205
+98,Mazie,Hirono,Mazie K. Hirono,sen,HI,,Democrat,13883923426
+99,John,Hoeven,John Hoeven,sen,ND,,Republican,
+100,Steny,Hoyer,Steny H. Hoyer,rep,MD,5.0,Democrat,7845419973
+101,Bill,Huizenga,Bill Huizenga,rep,MI,2.0,Republican,129208720460165
+102,Sheila,Jackson Lee,Sheila Jackson Lee,rep,TX,18.0,Democrat,552403241860058
+103,Bill,Johnson,Bill Johnson,rep,OH,6.0,Republican,208149456389
+104,Eddie,Johnson,Eddie Bernice Johnson,rep,TX,30.0,Democrat,
+105,Henry,Johnson,"Henry C. ""Hank"" Johnson, Jr.",rep,GA,4.0,Democrat,115356957005
+106,Ron,Johnson,Ron Johnson,sen,WI,,Republican,119707748062556
+107,Jim,Jordan,Jim Jordan,rep,OH,4.0,Republican,7814597100
+108,Marcy,Kaptur,Marcy Kaptur,rep,OH,9.0,Democrat,173753129419169
+109,William,Keating,William R. Keating,rep,MA,9.0,Democrat,412968318875397
+110,Mike,Kelly,Mike Kelly,rep,PA,16.0,Republican,331707031806
+111,Ron,Kind,Ron Kind,rep,WI,3.0,Democrat,6396394069
+112,Adam,Kinzinger,Adam Kinzinger,rep,IL,16.0,Republican,62009756135
+113,Doug,Lamborn,Doug Lamborn,rep,CO,5.0,Republican,
+114,James,Langevin,James R. Langevin,rep,RI,2.0,Democrat,124939484209078
+115,James,Lankford,James Lankford,sen,OK,,Republican,151092200743
+116,Rick,Larsen,Rick Larsen,rep,WA,2.0,Democrat,20809300888
+117,John,Larson,John B. Larson,rep,CT,1.0,Democrat,107556969286867
+118,Robert,Latta,Robert E. Latta,rep,OH,5.0,Republican,208525282490982
+119,Patrick,Leahy,Patrick J. Leahy,sen,VT,,Democrat,15359195337
+120,Barbara,Lee,Barbara Lee,rep,CA,13.0,Democrat,176548369099092
+121,Mike,Lee,Mike Lee,sen,UT,,Republican,203550842430
+122,Zoe,Lofgren,Zoe Lofgren,rep,CA,19.0,Democrat,6540213748
+123,Billy,Long,Billy Long,rep,MO,7.0,Republican,225418785297
+124,Frank,Lucas,Frank D. Lucas,rep,OK,3.0,Republican,288035911228085
+125,Blaine,Luetkemeyer,Blaine Luetkemeyer,rep,MO,3.0,Republican,315324541967534
+126,Ben,Luján,Ben Ray Luján,sen,NM,,Democrat,13063797831
+127,Stephen,Lynch,Stephen F. Lynch,rep,MA,8.0,Democrat,544559152234818
+128,Carolyn,Maloney,Carolyn B. Maloney,rep,NY,12.0,Democrat,7835151610
+129,Edward,Markey,Edward J. Markey,sen,MA,,Democrat,303167829786891
+130,Doris,Matsui,Doris O. Matsui,rep,CA,6.0,Democrat,6277148057
+131,Kevin,McCarthy,Kevin McCarthy,rep,CA,23.0,Republican,159964696102
+132,Michael,McCaul,Michael T. McCaul,rep,TX,10.0,Republican,6355254859
+133,Tom,McClintock,Tom McClintock,rep,CA,4.0,Republican,11234736860
+134,Betty,McCollum,Betty McCollum,rep,MN,4.0,Democrat,282013615225217
+135,James,McGovern,James P. McGovern,rep,MA,2.0,Democrat,7609325759
+136,Patrick,McHenry,Patrick T. McHenry,rep,NC,10.0,Republican,313842111853
+137,David,McKinley,David B. McKinley,rep,WV,1.0,Republican,224723288732
+138,Cathy,Rodgers,Cathy McMorris Rodgers,rep,WA,5.0,Republican,15351475322
+139,Jerry,McNerney,Jerry McNerney,rep,CA,9.0,Democrat,6553468980
+140,Gregory,Meeks,Gregory W. Meeks,rep,NY,5.0,Democrat,
+141,Gwen,Moore,Gwen Moore,rep,WI,4.0,Democrat,146490545545796
+142,Jerry,Moran,Jerry Moran,sen,KS,,Republican,
+143,Lisa,Murkowski,Lisa Murkowski,sen,AK,,Republican,
+144,Christopher,Murphy,Christopher Murphy,sen,CT,,Democrat,474444949963480
+145,Patty,Murray,Patty Murray,sen,WA,,Democrat,131182018871
+146,Jerrold,Nadler,Jerrold Nadler,rep,NY,10.0,Democrat,413721418649914
+147,Grace,Napolitano,Grace F. Napolitano,rep,CA,32.0,Democrat,1179140112096711
+148,Richard,Neal,Richard E. Neal,rep,MA,1.0,Democrat,388547605724
+149,Eleanor,Norton,Eleanor Holmes Norton,rep,DC,0.0,Democrat,19575976198
+150,Devin,Nunes,Devin Nunes,rep,CA,22.0,Republican,834645469890446
+151,Steven,Palazzo,Steven M. Palazzo,rep,MS,4.0,Republican,186908658003781
+152,Frank,Pallone,"Frank Pallone, Jr.",rep,NJ,6.0,Democrat,6517277731
+153,Bill,Pascrell,"Bill Pascrell, Jr.",rep,NJ,9.0,Democrat,303312929155
+154,Rand,Paul,Rand Paul,sen,KY,,Republican,54172246106
+155,Nancy,Pelosi,Nancy Pelosi,rep,CA,12.0,Democrat,1711465445765878
+156,Ed,Perlmutter,Ed Perlmutter,rep,CO,7.0,Democrat,7801901317
+157,Gary,Peters,Gary C. Peters,sen,MI,,Democrat,6713653788
+158,Chellie,Pingree,Chellie Pingree,rep,ME,1.0,Democrat,7536934917
+159,Robert,Portman,Rob Portman,sen,OH,,Republican,45243961073
+160,Bill,Posey,Bill Posey,rep,FL,8.0,Republican,280117065340803
+161,David,Price,David E. Price,rep,NC,4.0,Democrat,8338225975
+162,Mike,Quigley,Mike Quigley,rep,IL,5.0,Democrat,122732761250977
+163,Tom,Reed,Tom Reed,rep,NY,23.0,Republican,153594440504
+164,Harold,Rogers,Harold Rogers,rep,KY,5.0,Republican,1536243343254565
+165,Mike,Rogers,Mike Rogers,rep,AL,3.0,Republican,6406874733
+166,Lucille,Roybal-Allard,Lucille Roybal-Allard,rep,CA,40.0,Democrat,1702437206742877
+167,Marco,Rubio,Marco Rubio,sen,FL,,Republican,58736997707
+168,C.,Ruppersberger,C. A. Dutch Ruppersberger,rep,MD,2.0,Democrat,184854668287658
+169,Bobby,Rush,Bobby L. Rush,rep,IL,1.0,Democrat,405814980262805
+170,Tim,Ryan,Tim Ryan,rep,OH,13.0,Democrat,197908256931216
+171,Gregorio,Sablan,Gregorio Kilili Camacho Sablan,rep,MP,0.0,Democrat,153423912663
+172,John,Sarbanes,John P. Sarbanes,rep,MD,3.0,Democrat,22429695864
+173,Steve,Scalise,Steve Scalise,rep,LA,1.0,Republican,745304825534862
+174,Janice,Schakowsky,Janice D. Schakowsky,rep,IL,9.0,Democrat,15338600709
+175,Adam,Schiff,Adam B. Schiff,rep,CA,28.0,Democrat,109092142462587
+176,Kurt,Schrader,Kurt Schrader,rep,OR,5.0,Democrat,17146554445
+177,Charles,Schumer,Charles E. Schumer,sen,NY,,Democrat,828902563856302
+178,David,Schweikert,David Schweikert,rep,AZ,6.0,Republican,157652584384932
+179,Austin,Scott,Austin Scott,rep,GA,8.0,Republican,131177916946914
+180,David,Scott,David Scott,rep,GA,13.0,Democrat,159817223047
+181,Robert,Scott,"Robert C. ""Bobby"" Scott",rep,VA,3.0,Democrat,106904617757749
+182,Tim,Scott,Tim Scott,sen,SC,,Republican,349068689306
+183,Terri,Sewell,Terri Sewell,rep,AL,7.0,Democrat,429681917483068
+184,Richard,Shelby,Richard C. Shelby,sen,AL,,Republican,108358104117725
+185,Brad,Sherman,Brad Sherman,rep,CA,30.0,Democrat,63158229861
+186,Michael,Simpson,Michael K. Simpson,rep,ID,2.0,Republican,150114079016438
+187,Albio,Sires,Albio Sires,rep,NJ,8.0,Democrat,211797415586435
+188,Adam,Smith,Adam Smith,rep,WA,9.0,Democrat,95538659845
+189,Adrian,Smith,Adrian Smith,rep,NE,3.0,Republican,5962789983
+190,Christopher,Smith,Christopher H. Smith,rep,NJ,4.0,Republican,6547233882
+191,Jackie,Speier,Jackie Speier,rep,CA,14.0,Democrat,99332606976
+192,Linda,Sánchez,Linda T. Sánchez,rep,CA,38.0,Democrat,29921386086
+193,Bennie,Thompson,Bennie G. Thompson,rep,MS,2.0,Democrat,1839188776364414
+194,Mike,Thompson,Mike Thompson,rep,CA,5.0,Democrat,112743960260284
+195,Glenn,Thompson,Glenn Thompson,rep,PA,15.0,Republican,
+196,John,Thune,John Thune,sen,SD,,Republican,63002536261
+197,Paul,Tonko,Paul Tonko,rep,NY,20.0,Democrat,30671144824
+198,Patrick,Toomey,Patrick J. Toomey,sen,PA,,Republican,89324781720
+199,Michael,Turner,Michael R. Turner,rep,OH,10.0,Republican,286532221381219
+200,Fred,Upton,Fred Upton,rep,MI,6.0,Republican,68563629337
+201,Chris,Van Hollen,Chris Van Hollen,sen,MD,,Democrat,7320486731
+202,Nydia,Velázquez,Nydia M. Velázquez,rep,NY,7.0,Democrat,110909022379213
+203,Tim,Walberg,Tim Walberg,rep,MI,7.0,Republican,9268326479
+204,Debbie,Wasserman Schultz,Debbie Wasserman Schultz,rep,FL,23.0,Democrat,6444958138
+205,Maxine,Waters,Maxine Waters,rep,CA,43.0,Democrat,
+206,Daniel,Webster,Daniel Webster,rep,FL,11.0,Republican,188572961157305
+207,Peter,Welch,Peter Welch,rep,VT,0.0,Democrat,287477271319818
+208,Joe,Wilson,Joe Wilson,rep,SC,2.0,Republican,143654793536
+209,Frederica,Wilson,Frederica S. Wilson,rep,FL,24.0,Democrat,250056628438648
+210,Robert,Wittman,Robert J. Wittman,rep,VA,1.0,Republican,102734125953
+211,Steve,Womack,Steve Womack,rep,AR,3.0,Republican,328347723883364
+212,Ron,Wyden,Ron Wyden,sen,OR,,Democrat,54787697857
+213,John,Yarmuth,John A. Yarmuth,rep,KY,3.0,Democrat,18904726924
+214,Don,Young,Don Young,rep,AK,0.0,Republican,1494279480805358
+215,Todd,Young,Todd Young,sen,IN,,Republican,405355946226766
+216,Mark,Amodei,Mark E. Amodei,rep,NV,2.0,Republican,104187388110503
+217,Suzanne,Bonamici,Suzanne Bonamici,rep,OR,1.0,Democrat,229108053793264
+218,Suzan,DelBene,Suzan K. DelBene,rep,WA,1.0,Democrat,136326264034
+219,Thomas,Massie,Thomas Massie,rep,KY,4.0,Republican,218721288205051
+220,Donald,Payne,"Donald M. Payne, Jr.",rep,NJ,10.0,Democrat,
+221,Brian,Schatz,Brian Schatz,sen,HI,,Democrat,58080781287
+222,Bill,Foster,Bill Foster,rep,IL,11.0,Democrat,6196923117
+223,Dina,Titus,Dina Titus,rep,NV,1.0,Democrat,301842506513595
+224,Tom,Cotton,Tom Cotton,sen,AR,,Republican,224684514243482
+225,Kyrsten,Sinema,Kyrsten Sinema,sen,AZ,,Democrat,52563647525
+226,Doug,LaMalfa,Doug LaMalfa,rep,CA,1.0,Republican,163202650462603
+227,Jared,Huffman,Jared Huffman,rep,CA,2.0,Democrat,344330745672593
+228,Ami,Bera,Ami Bera,rep,CA,7.0,Democrat,528662157146886
+229,Eric,Swalwell,Eric Swalwell,rep,CA,15.0,Democrat,281835005264380
+230,Julia,Brownley,Julia Brownley,rep,CA,26.0,Democrat,276544112416355
+231,Tony,Cárdenas,Tony Cárdenas,rep,CA,29.0,Democrat,485493954794945
+232,Raul,Ruiz,Raul Ruiz,rep,CA,36.0,Democrat,245244468941114
+233,Mark,Takano,Mark Takano,rep,CA,41.0,Democrat,159214207491260
+234,Alan,Lowenthal,Alan S. Lowenthal,rep,CA,47.0,Democrat,392631677490897
+235,Juan,Vargas,Juan Vargas,rep,CA,51.0,Democrat,1005557252958353
+236,Scott,Peters,Scott H. Peters,rep,CA,52.0,Democrat,184609361596971
+237,Lois,Frankel,Lois Frankel,rep,FL,21.0,Democrat,145862215492466
+238,Tammy,Duckworth,Tammy Duckworth,sen,IL,,Democrat,228132537208218
+239,Rodney,Davis,Rodney Davis,rep,IL,13.0,Republican,334748476594191
+240,Cheri,Bustos,Cheri Bustos,rep,IL,17.0,Democrat,189777861073219
+241,Jackie,Walorski,Jackie Walorski,rep,IN,2.0,Republican,282272406201
+242,Garland,Barr,Andy Barr,rep,KY,6.0,Republican,129203152966
+243,Elizabeth,Warren,Elizabeth Warren,sen,MA,,Democrat,38471053686
+244,Angus,King,"Angus S. King, Jr.",sen,ME,,Independent,344010372303511
+245,Daniel,Kildee,Daniel T. Kildee,rep,MI,5.0,Democrat,175335262547741
+246,Ann,Wagner,Ann Wagner,rep,MO,2.0,Republican,127216280686110
+247,Steve,Daines,Steve Daines,sen,MT,,Republican,176789922364429
+248,Richard,Hudson,Richard Hudson,rep,NC,8.0,Republican,229083393820990
+249,Kevin,Cramer,Kevin Cramer,sen,ND,,Republican,251734676525
+250,Deb,Fischer,Deb Fischer,sen,NE,,Republican,109592402468562
+251,Ann,Kuster,Ann Kuster,rep,NH,2.0,Democrat,198923770576
+252,Grace,Meng,Grace Meng,rep,NY,6.0,Democrat,983573491675080
+253,Hakeem,Jeffries,Hakeem S. Jeffries,rep,NY,8.0,Democrat,111824001908
+254,Sean,Maloney,Sean Patrick Maloney,rep,NY,18.0,Democrat,346390085432744
+255,Brad,Wenstrup,Brad R. Wenstrup,rep,OH,2.0,Republican,99990019454
+256,Joyce,Beatty,Joyce Beatty,rep,OH,3.0,Democrat,329286557095658
+257,David,Joyce,David P. Joyce,rep,OH,14.0,Republican,277414242013
+258,Markwayne,Mullin,Markwayne Mullin,rep,OK,2.0,Republican,150763151677363
+259,Scott,Perry,Scott Perry,rep,PA,10.0,Republican,184104508356643
+260,Matthew,Cartwright,Matt Cartwright,rep,PA,8.0,Democrat,350692761610088
+261,Tom,Rice,Tom Rice,rep,SC,7.0,Republican,139766499461199
+262,Ted,Cruz,Ted Cruz,sen,TX,,Republican,69983322463
+263,Randy,Weber,"Randy K. Weber, Sr.",rep,TX,14.0,Republican,272083892815201
+264,Joaquin,Castro,Joaquin Castro,rep,TX,20.0,Democrat,219673188073606
+265,Roger,Williams,Roger Williams,rep,TX,25.0,Republican,45066294038
+266,Marc,Veasey,Marc A. Veasey,rep,TX,33.0,Democrat,411431975550358
+267,Filemon,Vela,Filemon Vela,rep,TX,34.0,Democrat,392278561514332
+268,Chris,Stewart,Chris Stewart,rep,UT,2.0,Republican,172764672811067
+269,Timothy,Kaine,Tim Kaine,sen,VA,,Democrat,7656215652
+270,Derek,Kilmer,Derek Kilmer,rep,WA,6.0,Democrat,107199049318619
+271,Mark,Pocan,Mark Pocan,rep,WI,2.0,Democrat,436881033058309
+272,Robin,Kelly,Robin L. Kelly,rep,IL,2.0,Democrat,
+273,Jason,Smith,Jason Smith,rep,MO,8.0,Republican,467804929927622
+274,Cory,Booker,Cory A. Booker,sen,NJ,,Democrat,36872302227
+275,Katherine,Clark,Katherine M. Clark,rep,MA,5.0,Democrat,358951317539562
+276,Donald,Norcross,Donald Norcross,rep,NJ,1.0,Democrat,591968597559569
+277,Alma,Adams,Alma S. Adams,rep,NC,12.0,Democrat,659925804037339
+278,Gary,Palmer,Gary J. Palmer,rep,AL,6.0,Republican,238609612987036
+279,J.,Hill,J. Hill,rep,AR,2.0,Republican,1374601146109275
+280,Bruce,Westerman,Bruce Westerman,rep,AR,4.0,Republican,521924961194913
+281,Ruben,Gallego,Ruben Gallego,rep,AZ,7.0,Democrat,161183970656851
+282,Mark,DeSaulnier,Mark DeSaulnier,rep,CA,11.0,Democrat,213999292067099
+283,Pete,Aguilar,Pete Aguilar,rep,CA,31.0,Democrat,283932788322459
+284,Ted,Lieu,Ted Lieu,rep,CA,33.0,Democrat,167643896656391
+285,Norma,Torres,Norma J. Torres,rep,CA,35.0,Democrat,324545627570369
+286,Ken,Buck,Ken Buck,rep,CO,4.0,Republican,74184744386
+287,Earl,Carter,"Earl L. ""Buddy"" Carter",rep,GA,1.0,Republican,1925027940842417
+288,Jody,Hice,Jody B. Hice,rep,GA,10.0,Republican,122571921086301
+289,Barry,Loudermilk,Barry Loudermilk,rep,GA,11.0,Republican,123276481201934
+290,Rick,Allen,Rick W. Allen,rep,GA,12.0,Republican,1548853772019803
+291,Mike,Bost,Mike Bost,rep,IL,12.0,Republican,505874336155964
+292,Garret,Graves,Garret Graves,rep,LA,6.0,Republican,662684547112113
+293,Seth,Moulton,Seth Moulton,rep,MA,6.0,Democrat,269499756522301
+294,John,Moolenaar,John R. Moolenaar,rep,MI,4.0,Republican,620769971337937
+295,Debbie,Dingell,Debbie Dingell,rep,MI,12.0,Democrat,294879797332635
+296,Brenda,Lawrence,Brenda L. Lawrence,rep,MI,14.0,Democrat,395759603917487
+297,Tom,Emmer,Tom Emmer,rep,MN,6.0,Republican,163101747070769
+298,David,Rouzer,David Rouzer,rep,NC,7.0,Republican,119622908096040
+299,Bonnie,Watson Coleman,Bonnie Watson Coleman,rep,NJ,12.0,Democrat,222190161304871
+300,Lee,Zeldin,Lee M. Zeldin,rep,NY,1.0,Republican,6817812700
+301,Kathleen,Rice,Kathleen M. Rice,rep,NY,4.0,Democrat,432815573442336
+302,Elise,Stefanik,Elise M. Stefanik,rep,NY,21.0,Republican,345378512258813
+303,John,Katko,John Katko,rep,NY,24.0,Republican,484300471681895
+304,Brendan,Boyle,Brendan F. Boyle,rep,PA,2.0,Democrat,516725565030981
+305,Brian,Babin,Brian Babin,rep,TX,36.0,Republican,683901068308643
+306,Donald,Beyer,"Donald S. Beyer, Jr.",rep,VA,8.0,Democrat,
+307,Stacey,Plaskett,Stacey E. Plaskett,rep,VI,0.0,Democrat,362717827142514
+308,Dan,Newhouse,Dan Newhouse,rep,WA,4.0,Republican,309501559175104
+309,Glenn,Grothman,Glenn Grothman,rep,WI,6.0,Republican,773301386014306
+310,Alexander,Mooney,Alexander Mooney,rep,WV,2.0,Republican,671413332977763
+311,Aumua Amata,Radewagen,Aumua Amata Coleman Radewagen,rep,AS,0.0,Republican,
+312,Dan,Sullivan,Dan Sullivan,sen,AK,,Republican,698400060189827
+313,Joni,Ernst,Joni Ernst,sen,IA,,Republican,586751814690068
+314,Thom,Tillis,Thom Tillis,sen,NC,,Republican,375301089246439
+315,Mike,Rounds,Mike Rounds,sen,SD,,Republican,370185306396534
+316,Benjamin,Sasse,Ben Sasse,sen,NE,,Republican,207425149422656
+317,Trent,Kelly,Trent Kelly,rep,MS,1.0,Republican,855135964527710
+318,Darin,LaHood,Darin LaHood,rep,IL,18.0,Republican,1404888666493762
+319,Warren,Davidson,Warren Davidson,rep,OH,8.0,Republican,1671503326464563
+320,James,Comer,James Comer,rep,KY,1.0,Republican,1888216188065538
+321,Dwight,Evans,Dwight Evans,rep,PA,3.0,Democrat,895094683900337
+322,John,Kennedy,John Kennedy,sen,LA,,Republican,160513344045084
+323,Margaret,Hassan,Margaret Wood Hassan,sen,NH,,Democrat,134535726580904
+324,Catherine,Cortez Masto,Catherine Cortez Masto,sen,NV,,Democrat,933921763326425
+325,Bradley,Schneider,Bradley Scott Schneider,rep,IL,10.0,Democrat,401029529980053
+326,Tom,O’Halleran,Tom O’Halleran,rep,AZ,1.0,Democrat,1342596452479696
+327,Andy,Biggs,Andy Biggs,rep,AZ,5.0,Republican,183963015310306
+328,Ro,Khanna,Ro Khanna,rep,CA,17.0,Democrat,317667194946264
+329,Jimmy,Panetta,Jimmy Panetta,rep,CA,20.0,Democrat,1667702233477156
+330,Salud,Carbajal,Salud O. Carbajal,rep,CA,24.0,Democrat,144410222713433
+331,Nanette,Barragán,Nanette Diaz Barragán,rep,CA,44.0,Democrat,965181706946254
+332,J.,Correa,J. Luis Correa,rep,CA,46.0,Democrat,1801742833410767
+333,Lisa,Blunt Rochester,Lisa Blunt Rochester,rep,DE,0.0,Democrat,1624206881186861
+334,Matt,Gaetz,Matt Gaetz,rep,FL,1.0,Republican,406456986070332
+335,Neal,Dunn,Neal P. Dunn,rep,FL,2.0,Republican,230276277419636
+336,John,Rutherford,John H. Rutherford,rep,FL,4.0,Republican,
+337,Al,Lawson,"Al Lawson, Jr.",rep,FL,5.0,Democrat,104784143701
+338,Stephanie,Murphy,Stephanie N. Murphy,rep,FL,7.0,Democrat,1752716341611327
+339,Darren,Soto,Darren Soto,rep,FL,9.0,Democrat,1798692620212857
+340,Val,Demings,Val Butler Demings,rep,FL,10.0,Democrat,134498556891640
+341,Charlie,Crist,Charlie Crist,rep,FL,13.0,Democrat,147447783311
+342,Brian,Mast,Brian J. Mast,rep,FL,18.0,Republican,471928596287830
+343,A.,Ferguson,A. Drew Ferguson IV,rep,GA,3.0,Republican,389345604744691
+344,Raja,Krishnamoorthi,Raja Krishnamoorthi,rep,IL,8.0,Democrat,1844412109137727
+345,Jim,Banks,Jim Banks,rep,IN,3.0,Republican,119953292796
+346,Trey,Hollingsworth,Trey Hollingsworth,rep,IN,9.0,Republican,178051136001622
+347,Roger,Marshall,Roger Marshall,sen,KS,,Republican,111324359048459
+348,Clay,Higgins,Clay Higgins,rep,LA,3.0,Republican,581436541959362
+349,Mike,Johnson,Mike Johnson,rep,LA,4.0,Republican,449202631932231
+350,Anthony,Brown,Anthony Brown,rep,MD,4.0,Democrat,1351415261592848
+351,Jamie,Raskin,Jamie Raskin,rep,MD,8.0,Democrat,297987334762
+352,Jack,Bergman,Jack Bergman,rep,MI,1.0,Republican,1714470218843866
+353,Ted,Budd,Ted Budd,rep,NC,13.0,Republican,1585291608451100
+354,Don,Bacon,Don Bacon,rep,NE,2.0,Republican,101487585033774
+355,Josh,Gottheimer,Josh Gottheimer,rep,NJ,5.0,Democrat,1024984580892392
+356,Jacky,Rosen,Jacky Rosen,sen,NV,,Democrat,462669013928631
+357,Thomas,Suozzi,Thomas R. Suozzi,rep,NY,3.0,Democrat,432386793516356
+358,Adriano,Espaillat,Adriano Espaillat,rep,NY,13.0,Democrat,1808068199405179
+359,Brian,Fitzpatrick,Brian K. Fitzpatrick,rep,PA,1.0,Republican,451835328274640
+360,Lloyd,Smucker,Lloyd Smucker,rep,PA,11.0,Republican,1626954784219531
+361,Jenniffer,González-Colón,Jenniffer González-Colón,rep,PR,0.0,Republican,
+362,David,Kustoff,David Kustoff,rep,TN,8.0,Republican,1059320777468378
+363,Vicente,Gonzalez,Vicente Gonzalez,rep,TX,15.0,Democrat,206690159663661
+364,Jodey,Arrington,Jodey C. Arrington,rep,TX,19.0,Republican,257388981136219
+365,A.,McEachin,A. Donald McEachin,rep,VA,4.0,Democrat,299511650083944
+366,Pramila,Jayapal,Pramila Jayapal,rep,WA,7.0,Democrat,221401431386940
+367,Mike,Gallagher,Mike Gallagher,rep,WI,8.0,Republican,533125513515803
+368,Liz,Cheney,Liz Cheney,rep,WY,0.0,Republican,548407915183371
+369,Ron,Estes,Ron Estes,rep,KS,4.0,Republican,1684674575133005
+370,Ralph,Norman,Ralph Norman,rep,SC,5.0,Republican,315402818913523
+371,Jimmy,Gomez,Jimmy Gomez,rep,CA,34.0,Democrat,154054825137425
+372,John,Curtis,John R. Curtis,rep,UT,3.0,Republican,836444843136055
+373,Tina,Smith,Tina Smith,sen,MN,,Democrat,2040270322863853
+374,Cindy,Hyde-Smith,Cindy Hyde-Smith,sen,MS,,Republican,179042532903649
+375,Conor,Lamb,Conor Lamb,rep,PA,17.0,Democrat,135002490472474
+376,Debbie,Lesko,Debbie Lesko,rep,AZ,8.0,Republican,590393634664831
+377,Michael,Cloud,Michael Cloud,rep,TX,27.0,Republican,228056857335
+378,Troy,Balderson,Troy Balderson,rep,OH,12.0,Republican,522923054735947
+379,Kevin,Hern,Kevin Hern,rep,OK,1.0,Republican,339509270166412
+380,Joseph,Morelle,Joseph D. Morelle,rep,NY,25.0,Democrat,2452029394813890
+381,Mary,Scanlon,Mary Gay Scanlon,rep,PA,5.0,Democrat,406348549806000
+382,Susan,Wild,Susan Wild,rep,PA,7.0,Democrat,497741237272262
+383,Ed,Case,Ed Case,rep,HI,1.0,Democrat,385494895552183
+384,Steven,Horsford,Steven Horsford,rep,NV,4.0,Democrat,156919911022572
+385,Ann,Kirkpatrick,Ann Kirkpatrick,rep,AZ,2.0,Democrat,137746666253194
+386,Greg,Stanton,Greg Stanton,rep,AZ,9.0,Democrat,346635392021104
+387,Josh,Harder,Josh Harder,rep,CA,10.0,Democrat,1400772006635782
+388,Katie,Porter,Katie Porter,rep,CA,45.0,Democrat,428821014132730
+389,Mike,Levin,Mike Levin,rep,CA,49.0,Democrat,388316574835659
+390,Joe,Neguse,Joe Neguse,rep,CO,2.0,Democrat,180252152142614
+391,Jason,Crow,Jason Crow,rep,CO,6.0,Democrat,280704452367167
+392,Jahana,Hayes,Jahana Hayes,rep,CT,5.0,Democrat,241247646424302
+393,Michael,Waltz,Michael Waltz,rep,FL,6.0,Republican,252274592332946
+394,W.,Steube,W. Gregory Steube,rep,FL,17.0,Republican,271736323517059
+395,Lucy,McBath,Lucy McBath,rep,GA,6.0,Democrat,2046092952294722
+396,Michael,San Nicolas,Michael F. Q. San Nicolas,rep,GU,0.0,Democrat,629062130882339
+397,Cynthia,Axne,Cynthia Axne,rep,IA,3.0,Democrat,306591716448427
+398,Russ,Fulcher,Russ Fulcher,rep,ID,1.0,Republican,322194751726887
+399,Jesús,García,"Jesús G. ""Chuy"" García",rep,IL,4.0,Democrat,1491458271125644
+400,Sean,Casten,Sean Casten,rep,IL,6.0,Democrat,1934158976830122
+401,Lauren,Underwood,Lauren Underwood,rep,IL,14.0,Democrat,241672016328637
+402,James,Baird,James R. Baird,rep,IN,4.0,Republican,307049119928367
+403,Greg,Pence,Greg Pence,rep,IN,6.0,Republican,868348663497441
+404,Sharice,Davids,Sharice Davids,rep,KS,3.0,Democrat,1790258774419239
+405,Lori,Trahan,Lori Trahan,rep,MA,3.0,Democrat,598408017216304
+406,Ayanna,Pressley,Ayanna Pressley,rep,MA,7.0,Democrat,79820371749
+407,David,Trone,David J. Trone,rep,MD,6.0,Democrat,178602115837123
+408,Elissa,Slotkin,Elissa Slotkin,rep,MI,8.0,Democrat,1012679305536045
+409,Andy,Levin,Andy Levin,rep,MI,9.0,Democrat,253507715172780
+410,Haley,Stevens,Haley M. Stevens,rep,MI,11.0,Democrat,648335462024721
+411,Rashida,Tlaib,Rashida Tlaib,rep,MI,13.0,Democrat,134597023235240
+412,Jim,Hagedorn,Jim Hagedorn,rep,MN,1.0,Republican,108252177711618
+413,Angie,Craig,Angie Craig,rep,MN,2.0,Democrat,1642386799323957
+414,Dean,Phillips,Dean Phillips,rep,MN,3.0,Democrat,225507764589310
+415,Ilhan,Omar,Ilhan Omar,rep,MN,5.0,Democrat,780941275347834
+416,Pete,Stauber,Pete Stauber,rep,MN,8.0,Republican,148899492344271
+417,Michael,Guest,Michael Guest,rep,MS,3.0,Republican,1446823768756602
+418,Kelly,Armstrong,Kelly Armstrong,rep,ND,0.0,Republican,809836039361670
+419,Chris,Pappas,Chris Pappas,rep,NH,1.0,Democrat,154510321337994
+420,Jefferson,Van Drew,Jefferson Van Drew,rep,NJ,2.0,Republican,143729616392084
+421,Andy,Kim,Andy Kim,rep,NJ,3.0,Democrat,1413682351987764
+422,Tom,Malinowski,Tom Malinowski,rep,NJ,7.0,Democrat,858210161010020
+423,Mikie,Sherrill,Mikie Sherrill,rep,NJ,11.0,Democrat,1156676274461345
+424,Susie,Lee,Susie Lee,rep,NV,3.0,Democrat,868259909915525
+425,Alexandria,Ocasio-Cortez,Alexandria Ocasio-Cortez,rep,NY,14.0,Democrat,1316372698453411
+426,Antonio,Delgado,Antonio Delgado,rep,NY,19.0,Democrat,359153387814647
+427,Anthony,Gonzalez,Anthony Gonzalez,rep,OH,16.0,Republican,474676692900828
+428,Madeleine,Dean,Madeleine Dean,rep,PA,4.0,Democrat,143909879708775
+429,Chrissy,Houlahan,Chrissy Houlahan,rep,PA,6.0,Democrat,1819973358326612
+430,Daniel,Meuser,Daniel Meuser,rep,PA,9.0,Republican,265302400637965
+431,John,Joyce,John Joyce,rep,PA,13.0,Republican,1054570378014827
+432,Guy,Reschenthaler,Guy Reschenthaler,rep,PA,14.0,Republican,1955556614754164
+433,William,Timmons,William R. Timmons IV,rep,SC,4.0,Republican,1064897643682844
+434,Dusty,Johnson,Dusty Johnson,rep,SD,0.0,Republican,2099566776755945
+435,Tim,Burchett,Tim Burchett,rep,TN,2.0,Republican,107330253280356
+436,John,Rose,John Rose,rep,TN,6.0,Republican,448838595500528
+437,Mark,Green,Mark E. Green,rep,TN,7.0,Republican,175317909284
+438,Dan,Crenshaw,Dan Crenshaw,rep,TX,2.0,Republican,514167322309353
+439,Van,Taylor,Van Taylor,rep,TX,3.0,Republican,340393855322
+440,Lance,Gooden,Lance Gooden,rep,TX,5.0,Republican,139151419572310
+441,Lizzie,Fletcher,Lizzie Fletcher,rep,TX,7.0,Democrat,374666643098092
+442,Veronica,Escobar,Veronica Escobar,rep,TX,16.0,Democrat,261548845154
+443,Chip,Roy,Chip Roy,rep,TX,21.0,Republican,193628397865385
+444,Sylvia,Garcia,Sylvia R. Garcia,rep,TX,29.0,Democrat,455155254543067
+445,Colin,Allred,Colin Z. Allred,rep,TX,32.0,Democrat,1505244559517282
+446,Elaine,Luria,Elaine G. Luria,rep,VA,2.0,Democrat,180060629247353
+447,Ben,Cline,Ben Cline,rep,VA,6.0,Republican,48631937877
+448,Abigail,Spanberger,Abigail Davis Spanberger,rep,VA,7.0,Democrat,485980975070908
+449,Jennifer,Wexton,Jennifer Wexton,rep,VA,10.0,Democrat,191975737491988
+450,Kim,Schrier,Kim Schrier,rep,WA,8.0,Democrat,1354622541311687
+451,Bryan,Steil,Bryan Steil,rep,WI,1.0,Republican,1504873886306347
+452,Carol,Miller,Carol D. Miller,rep,WV,3.0,Republican,2204789813171086
+453,Rick,Scott,Rick Scott,sen,FL,,Republican,370872766769375
+454,Mike,Braun,Mike Braun,sen,IN,,Republican,164203030438398
+455,Joshua,Hawley,Josh Hawley,sen,MO,,Republican,1636216106590985
+456,Mitt,Romney,Mitt Romney,sen,UT,,Republican,107512540818740
+457,Jared,Golden,Jared F. Golden,rep,ME,2.0,Democrat,747783932079184
+458,Fred,Keller,Fred Keller,rep,PA,12.0,Republican,2222844871168340
+459,Dan,Bishop,Dan Bishop,rep,NC,9.0,Republican,708346842676287
+460,Gregory,Murphy,Gregory F. Murphy,rep,NC,3.0,Republican,19437978960
+461,Kweisi,Mfume,Kweisi Mfume,rep,MD,7.0,Democrat,110475903727400
+462,Thomas,Tiffany,Thomas P. Tiffany,rep,WI,7.0,Republican,48713703067
+463,Mike,Garcia,Mike Garcia,rep,CA,25.0,Republican,2116141045107743
+464,Chris,Jacobs,Chris Jacobs,rep,NY,27.0,Republican,1482684292028934
+465,Mark,Kelly,Mark Kelly,sen,AZ,,Democrat,163148530407080
+466,Cynthia,Lummis,Cynthia M. Lummis,sen,WY,,Republican,369214063089791
+467,Darrell,Issa,Darrell Issa,rep,CA,50.0,Republican,19463427992
+468,Pete,Sessions,Pete Sessions,rep,TX,17.0,Republican,22753043010
+469,David,Valadao,David G. Valadao,rep,CA,21.0,Republican,105596689621089
+470,Tommy,Tuberville,Tommy Tuberville,sen,AL,,Republican,2225580284361712
+471,John,Hickenlooper,John W. Hickenlooper,sen,CO,,Democrat,97493741436
+472,Bill,Hagerty,Bill Hagerty,sen,TN,,Republican,656263988182462
+473,Jerry,Carl,Jerry L. Carl,rep,AL,1.0,Republican,243856543217942
+474,Barry,Moore,Barry Moore,rep,AL,2.0,Republican,168857193154545
+475,Jay,Obernolte,Jay Obernolte,rep,CA,8.0,Republican,221690171353068
+476,Young,Kim,Young Kim,rep,CA,39.0,Republican,118502801658228
+477,Michelle,Steel,Michelle Steel,rep,CA,48.0,Republican,1228396643984955
+478,Sara,Jacobs,Sara Jacobs,rep,CA,53.0,Democrat,347844152343949
+479,Lauren,Boebert,Lauren Boebert,rep,CO,3.0,Republican,107698564046392
+480,Katherine,Cammack,Kat Cammack,rep,FL,3.0,Republican,103806957816376
+481,C.,Franklin,C. Scott Franklin,rep,FL,15.0,Republican,106168061412748
+482,Byron,Donalds,Byron Donalds,rep,FL,19.0,Republican,154269528015922
+483,Carlos,Gimenez,Carlos A. Gimenez,rep,FL,26.0,Republican,105624038154155
+484,Maria,Salazar,Maria Elvira Salazar,rep,FL,27.0,Republican,666196620070127
+485,Nikema,Williams,Nikema Williams,rep,GA,5.0,Democrat,1957446251204909
+486,Carolyn,Bourdeaux,Carolyn Bourdeaux,rep,GA,7.0,Democrat,861706743991799
+487,Andrew,Clyde,Andrew S. Clyde,rep,GA,9.0,Republican,102530561547150
+488,Marjorie,Greene,Marjorie Taylor Greene,rep,GA,14.0,Republican,1809715209318581
+489,Kaialiʻi,Kahele,Kaiali’i Kahele,rep,HI,2.0,Democrat,588113904993568
+490,Ashley,Hinson,Ashley Hinson,rep,IA,1.0,Republican,894096170667732
+491,Mariannette,Miller-Meeks,Mariannette Miller-Meeks,rep,IA,2.0,Republican,1802584223384451
+492,Randy,Feenstra,Randy Feenstra,rep,IA,4.0,Republican,1628922377207463
+493,Marie,Newman,Marie Newman,rep,IL,3.0,Democrat,1495042817173727
+494,Mary,Miller,Mary E. Miller,rep,IL,15.0,Republican,100733324792130
+495,Frank,Mrvan,Frank J. Mrvan,rep,IN,1.0,Democrat,644318532586375
+496,Victoria,Spartz,Victoria Spartz,rep,IN,5.0,Republican,1295279420598401
+497,Tracey,Mann,Tracey Mann,rep,KS,1.0,Republican,61198206469
+498,Jacob,LaTurner,Jake LaTurner,rep,KS,2.0,Republican,572946842722169
+499,Jake,Auchincloss,Jake Auchincloss,rep,MA,4.0,Democrat,592250887586314
+500,Peter,Meijer,Peter Meijer,rep,MI,3.0,Republican,451900515399684
+501,Lisa,McClain,Lisa C. McClain,rep,MI,10.0,Republican,105056767589816
+502,Michelle,Fischbach,Michelle Fischbach,rep,MN,7.0,Republican,107037332686173
+503,Cori,Bush,Cori Bush,rep,MO,1.0,Democrat,1000253160054572
+504,Matthew,Rosendale,Matthew M. Rosendale,rep,MT,0.0,Republican,414088715666968
+505,Deborah,Ross,Deborah K. Ross,rep,NC,2.0,Democrat,1508257779494159
+506,Kathy,Manning,Kathy E. Manning,rep,NC,6.0,Democrat,1341543769290478
+507,David,Cawthorn,Madison Cawthorn,rep,NC,11.0,Republican,100233228182981
+508,Yvette,Herrell,Yvette Herrell,rep,NM,2.0,Republican,103774718121881
+509,Teresa,Leger Fernandez,Teresa Leger Fernandez,rep,NM,3.0,Democrat,301228420816284
+510,Andrew,Garbarino,Andrew R. Garbarino,rep,NY,2.0,Republican,114371076772585
+511,Nicole,Malliotakis,Nicole Malliotakis,rep,NY,11.0,Republican,1533092446942704
+512,Ritchie,Torres,Ritchie Torres,rep,NY,15.0,Democrat,2142236792490640
+513,Jamaal,Bowman,Jamaal Bowman,rep,NY,16.0,Democrat,399366360669553
+514,Mondaire,Jones,Mondaire Jones,rep,NY,17.0,Democrat,2382869555319923
+515,Stephanie,Bice,Stephanie I. Bice,rep,OK,5.0,Republican,327202261326682
+516,Cliff,Bentz,Cliff Bentz,rep,OR,2.0,Republican,180631442719210
+517,Nancy,Mace,Nancy Mace,rep,SC,1.0,Republican,628891490457484
+518,Diana,Harshbarger,Diana Harshbarger,rep,TN,1.0,Republican,102728205110465
+519,Patrick,Fallon,Pat Fallon,rep,TX,4.0,Republican,105512331492146
+520,August,Pfluger,August Pfluger,rep,TX,11.0,Republican,102682681124239
+521,Ronny,Jackson,Ronny Jackson,rep,TX,13.0,Republican,101724361319410
+522,Troy,Nehls,Troy E. Nehls,rep,TX,22.0,Republican,1431647400421353
+523,Ernest,Gonzales,Tony Gonzales,rep,TX,23.0,Republican,2146201085498440
+524,Beth,Van Duyne,Beth Van Duyne,rep,TX,24.0,Republican,1558042497785635
+525,Blake,Moore,Blake D. Moore,rep,UT,1.0,Republican,103147688330160
+526,Clarence,Owens,Burgess Owens,rep,UT,4.0,Republican,305643856459460
+527,Robert,Good,Bob Good,rep,VA,5.0,Republican,115883606515801
+528,Marilyn,Strickland,Marilyn Strickland,rep,WA,10.0,Democrat,103987634439727
+529,Scott,Fitzgerald,Scott Fitzgerald,rep,WI,5.0,Republican,103935277670393
+530,Alejandro,Padilla,Alex Padilla,sen,CA,,Democrat,471134912978464
+531,Jon,Ossoff,Jon Ossoff,sen,GA,,Democrat,1336293769761923
+532,Raphael,Warnock,Raphael G. Warnock,sen,GA,,Democrat,109111900634787
+533,Claudia,Tenney,Claudia Tenney,rep,NY,22.0,Republican,183020072173458
+534,Julia,Letlow,Julia Letlow,rep,LA,5.0,Republican,101501768597429
+535,Troy,Carter,Troy A. Carter,rep,LA,2.0,Democrat,876319055750124
+536,Melanie,Stansbury,Melanie A. Stansbury,rep,NM,1.0,Democrat,128551641258085
+537,Jake,Ellzey,Jake Ellzey,rep,TX,6.0,Republican,512954815727434
