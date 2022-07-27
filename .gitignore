@@ -132,6 +132,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
-#pdfs
-*.pdf
+#all csv files
+*csv
+!US_legislators_page_ids_2021.csv
