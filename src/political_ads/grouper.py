@@ -37,7 +37,7 @@ class Grouper:
             sum_spend_lo = ('spend_lo', 'sum'),
             sum_spend_hi = ('spend_hi', 'sum'),
             median_spend = ('spend', 'median'),
-            avg_spend = ('spend', 'sum'),
+            sum_spend = ('spend', 'sum'),
             sum_impressions_lo = ('impressions_lo', 'sum'),
             sum_impressions_hi = ('impressions_hi', 'sum'),
             # Average number of impressions & spend per ad
@@ -57,7 +57,7 @@ class Grouper:
             sum_spend_lo = ('spend_lo', 'sum'),
             sum_spend_hi = ('spend_hi', 'sum'),
             median_spend = ('spend', 'median'),
-            avg_spend = ('spend', 'sum'),
+            sum_spend = ('spend', 'sum'),
             sum_impressions_lo = ('impressions_lo', 'sum'),
             sum_impressions_hi = ('impressions_hi', 'sum'),
             # Average number of impressions & spend per ad
