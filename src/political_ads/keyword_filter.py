@@ -19,3 +19,11 @@ class Filter:
     def get_climate_ads(self, data: pd.DataFrame) -> pd.DataFrame:
         climate_ads = data[data.apply(lambda x: self.check_for_climate_ad(str(x["ad_creative_body"])),axis=1)] # returns the rows that return true
         return climate_ads
+    
+    
+    def add_climate_label(self, data: pd.DataFrame) -> pd.DataFrame:
+        data['keyword_label'] = data.apply(lambda x: "Climate" if self.check_for_climate_ad(str(x["ad_creative_body"])) else "Non-climate", axis=1) # returns the rows that return true
+    
+    def get_non_climate_ads(self, data: pd.DataFrame) -> pd.DataFrame:
+        non_climate_ads = data[data.apply(lambda x: self.check_for_NON_climate_ad(str(x["ad_creative_body"])),axis=1)] # returns the rows that return true
+        return non_climate_ads
