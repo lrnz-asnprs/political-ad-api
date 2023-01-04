@@ -79,11 +79,6 @@ We test our keyword search approach against the NLI zeroshot classifier.
 | 19176    | 18893   | 18876   | 
 
 
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
-
-
 Keywords approach when compared with zeroshot being the ground truth:
 
 + None of the false negatives (only 4 distinct texts) are climate related (i.e., the ones that zeroshot labels climate related and keyword does not).
