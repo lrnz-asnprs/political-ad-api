@@ -63,8 +63,12 @@ class Grouper:
             # Average number of impressions & spend per ad
             avg_impressions = ('impressions', 'sum')
         ).reset_index()
-
-        congress = pd.read_csv("..\\src\\data_sets\\legislators_fb_info_final.csv") # read congress member info
+        try:
+            congress = pd.read_csv("..\\src\\data_sets\\legislators_fb_info_final.csv") # read congress member info
+        except:
+            congress = pd.read_csv("src/data_sets/legislators_fb_info_final.csv") # read congress member info
+        else:
+            congress = pd.read_csv('/home/gugy/Documents/political-ad-api/src/data_sets/legislators_fb_info_final.csv')
         # Check if available
         by_page["party"] = by_page["page_id"].apply(lambda x: congress[congress["page_id"] == x]["party"].values[0]) # add party to pages
 

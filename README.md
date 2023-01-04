@@ -67,6 +67,29 @@ For a full reference, please see our paper: (https://github.com/lrnz-asnprs/poli
 code blocks for commands
 ```
 
+
+
+### Zeroshot classifier
+
+
+We test our keyword search approach against the NLI zeroshot classifier.
+
+
+    | Zeroshot | Keyword | overlap |
+    | ---      | ---     | ---     |
+    | 19176    | 18893   | 18876   | 
+
+
+
+Keywords approach when compared with zeroshot being the ground truth:
+
++ None of the false negatives (only 3 distinct texts) are climate related (i.e., the ones that zeroshot labels climate related and keyword does not)
++ 
+
+
+Available here: https://huggingface.co/facebook/bart-large-mnli?fbclid=IwAR2RbLDin29uYPf_fOIXlwJ5E7xJS3Nyxcn5a_yN-m-ImAxvaS8gvhLl3Uk
+
+
 ## Authors
 
 Laurenz Aisenpreis, Gustav Gyrst
