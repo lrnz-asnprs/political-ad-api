@@ -78,7 +78,13 @@ class Grouper:
     # Takes as input dataframe containing ads and groups them by day
     def group_ads_by_party_by_day(self, data: pd.DataFrame, party: str) -> pd.DataFrame:
 
-        congress = pd.read_csv("..\\src\\data_sets\\legislators_fb_info_final.csv") # read congress member info
+        
+        try:
+            congress = pd.read_csv("..\\src\\data_sets\\legislators_fb_info_final.csv") # read congress member info
+        except:
+            congress = pd.read_csv("/home/gugy/Documents&/political-ad-api/src/data_sets/legislators_fb_info_final.csv") # read congress member info
+            
+        
         
         if party == "Democrat": # If democrats, also include independent
             party_members = congress[(congress["party"] == party) | (congress["party"] == "Independent")]  # get all page id's that match the given party
