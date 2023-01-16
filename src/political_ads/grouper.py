@@ -82,9 +82,11 @@ class Grouper:
         try:
             congress = pd.read_csv("..\\src\\data_sets\\legislators_fb_info_final.csv") # read congress member info
         except:
-            congress = pd.read_csv("/home/gugy/Documents&/political-ad-api/src/data_sets/legislators_fb_info_final.csv") # read congress member info
-            
+            congress = pd.read_csv("src/data_sets/legislators_fb_info_final.csv") # read congress member info
+        else:
+            congress = pd.read_csv('/home/gugy/Documents/political-ad-api/src/data_sets/legislators_fb_info_final.csv')
         
+
         
         if party == "Democrat": # If democrats, also include independent
             party_members = congress[(congress["party"] == party) | (congress["party"] == "Independent")]  # get all page id's that match the given party

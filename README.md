@@ -74,15 +74,17 @@ code blocks for commands
 
 We test our keyword search approach against the NLI zeroshot classifier.
 
-| Zeroshot | Keyword | overlap |
-| -------- | ------- | ------- |
-| 19176    | 18893   | 18876   | 
+
+    | Zeroshot | Keyword | overlap |
+    | ---      | ---     | ---     |
+    | 19176    | 18893   | 18876   | 
+
 
 
 Keywords approach when compared with zeroshot being the ground truth:
 
-+ None of the false negatives (only 4 distinct texts) are climate related (i.e., the ones that zeroshot labels climate related and keyword does not).
-+ 29 false positives. Only ~2 of which that are clearly not climate change related. All others with very clear reference to climate change.
++ False negatives: None of the false negatives (only 3 distinct texts) are climate related (i.e., the ones that zeroshot labels climate related and keyword does not)
++ False positives: Only 2/29 of the false positives were not related to climate change.
 
 
 Available here: https://huggingface.co/facebook/bart-large-mnli?fbclid=IwAR2RbLDin29uYPf_fOIXlwJ5E7xJS3Nyxcn5a_yN-m-ImAxvaS8gvhLl3Uk
